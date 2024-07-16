@@ -16,8 +16,6 @@
 		C200423E2C3F76E6003205EF /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200423D2C3F76E6003205EF /* QuestionView.swift */; };
 		C20042402C3F7736003205EF /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200423F2C3F7736003205EF /* ResultView.swift */; };
 		C20042482C3F7FA1003205EF /* threaded_and_grooved_pipe.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */; };
-		C20042542C3F9435003205EF /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042532C3F9435003205EF /* Question.swift */; };
-		C20042592C4323EC003205EF /* TopicsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042582C4323EC003205EF /* TopicsViewModel.swift */; };
 		C200425D2C43243E003205EF /* TopicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200425C2C43243E003205EF /* TopicListView.swift */; };
 		C200425F2C432458003205EF /* TopicDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200425E2C432458003205EF /* TopicDetailView.swift */; };
 		C20042612C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */; };
@@ -33,7 +31,10 @@
 		C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */; };
 		C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */; };
 		C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */; };
-		C2F4C7C72C46EA3D00AA3437 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7C62C46EA3D00AA3437 /* Section.swift */; };
+		C2F4C7CE2C46FE3200AA3437 /* SectionsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7CD2C46FE3200AA3437 /* SectionsViewModel.swift */; };
+		C2F4C7D22C4710F100AA3437 /* TopicsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D12C4710F100AA3437 /* TopicsView.swift */; };
+		C2F4C7D42C47125200AA3437 /* SectionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D32C47125200AA3437 /* SectionListView.swift */; };
+		C2F4C7D62C471D7200AA3437 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D52C471D7200AA3437 /* Models.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,8 +67,6 @@
 		C200423D2C3F76E6003205EF /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
 		C200423F2C3F7736003205EF /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
 		C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = threaded_and_grooved_pipe.json; sourceTree = "<group>"; };
-		C20042532C3F9435003205EF /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
-		C20042582C4323EC003205EF /* TopicsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicsViewModel.swift; sourceTree = "<group>"; };
 		C200425C2C43243E003205EF /* TopicListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicListView.swift; sourceTree = "<group>"; };
 		C200425E2C432458003205EF /* TopicDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicDetailView.swift; sourceTree = "<group>"; };
 		C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = safety_legislation_regulations_industry_policy_in_the_trades_210101a.json; sourceTree = "<group>"; };
@@ -83,7 +82,10 @@
 		C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hand_tools_210102a.json; sourceTree = "<group>"; };
 		C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = power_tools_210102b.json; sourceTree = "<group>"; };
 		C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welded_pipe_and_fittings_210102c.json; sourceTree = "<group>"; };
-		C2F4C7C62C46EA3D00AA3437 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
+		C2F4C7CD2C46FE3200AA3437 /* SectionsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionsViewModel.swift; sourceTree = "<group>"; };
+		C2F4C7D12C4710F100AA3437 /* TopicsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicsView.swift; sourceTree = "<group>"; };
+		C2F4C7D32C47125200AA3437 /* SectionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionListView.swift; sourceTree = "<group>"; };
+		C2F4C7D52C471D7200AA3437 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,20 +136,21 @@
 		C20042082C3F74E1003205EF /* iPlumber */ = {
 			isa = PBXGroup;
 			children = (
+				C2F4C7C82C46FD8600AA3437 /* Models */,
 				C20042552C430F14003205EF /* Questions JSON */,
+				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */,
 				C20042092C3F74E1003205EF /* iPlumberApp.swift */,
+				C2F4C7D32C47125200AA3437 /* SectionListView.swift */,
 				C200425C2C43243E003205EF /* TopicListView.swift */,
 				C200425E2C432458003205EF /* TopicDetailView.swift */,
-				C20042582C4323EC003205EF /* TopicsViewModel.swift */,
-				C20042532C3F9435003205EF /* Question.swift */,
 				C200423D2C3F76E6003205EF /* QuestionView.swift */,
 				C200423F2C3F7736003205EF /* ResultView.swift */,
 				C20042642C4324F3003205EF /* DateFormatter.swift */,
-				C200420D2C3F74E6003205EF /* Assets.xcassets */,
-				C200420F2C3F74E6003205EF /* Preview Content */,
 				C20042662C4326B8003205EF /* TestViewModel.swift */,
 				C200426A2C43330F003205EF /* UserDefaultsKeys.swift */,
-				C2F4C7C62C46EA3D00AA3437 /* Section.swift */,
+				C200420D2C3F74E6003205EF /* Assets.xcassets */,
+				C200420F2C3F74E6003205EF /* Preview Content */,
+				C2F4C7D12C4710F100AA3437 /* TopicsView.swift */,
 			);
 			path = iPlumber;
 			sourceTree = "<group>";
@@ -181,18 +184,42 @@
 		C20042552C430F14003205EF /* Questions JSON */ = {
 			isa = PBXGroup;
 			children = (
+				C2F4C7D72C47243200AA3437 /* Section 1 */,
+				C2F4C7D82C4726EF00AA3437 /* Section 2 */,
+			);
+			path = "Questions JSON";
+			sourceTree = "<group>";
+		};
+		C2F4C7C82C46FD8600AA3437 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				C2F4C7D52C471D7200AA3437 /* Models.swift */,
+				C2F4C7CD2C46FE3200AA3437 /* SectionsViewModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		C2F4C7D72C47243200AA3437 /* Section 1 */ = {
+			isa = PBXGroup;
+			children = (
 				C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */,
 				C200426C2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json */,
 				C20042682C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json */,
 				C20042702C44C297003205EF /* apprenticeship_training_program_210101d.json */,
 				C20042762C44E3AA003205EF /* pipe_trades_codes_210101e.json */,
 				C20042742C44D9FC003205EF /* electrical_safety_210101f.json */,
+			);
+			path = "Section 1";
+			sourceTree = "<group>";
+		};
+		C2F4C7D82C4726EF00AA3437 /* Section 2 */ = {
+			isa = PBXGroup;
+			children = (
 				C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */,
 				C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */,
 				C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */,
-				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */,
 			);
-			path = "Questions JSON";
+			path = "Section 2";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -341,10 +368,11 @@
 				C200423E2C3F76E6003205EF /* QuestionView.swift in Sources */,
 				C20042672C4326B8003205EF /* TestViewModel.swift in Sources */,
 				C20042402C3F7736003205EF /* ResultView.swift in Sources */,
-				C20042542C3F9435003205EF /* Question.swift in Sources */,
 				C200425D2C43243E003205EF /* TopicListView.swift in Sources */,
-				C20042592C4323EC003205EF /* TopicsViewModel.swift in Sources */,
-				C2F4C7C72C46EA3D00AA3437 /* Section.swift in Sources */,
+				C2F4C7D22C4710F100AA3437 /* TopicsView.swift in Sources */,
+				C2F4C7CE2C46FE3200AA3437 /* SectionsViewModel.swift in Sources */,
+				C2F4C7D62C471D7200AA3437 /* Models.swift in Sources */,
+				C2F4C7D42C47125200AA3437 /* SectionListView.swift in Sources */,
 				C200426F2C445898003205EF /* QuestionView_Previews.swift in Sources */,
 				C200420A2C3F74E1003205EF /* iPlumberApp.swift in Sources */,
 			);

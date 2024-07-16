@@ -1,5 +1,4 @@
 import SwiftUI
-import Foundation
 
 struct TopicDetailView: View {
     let topic: Topic

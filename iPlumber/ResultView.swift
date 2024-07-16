@@ -8,7 +8,7 @@ struct ResultView: View {
     var body: some View {
         VStack {
             Text("Your score is: \(score)/\(totalQuestions)")
-            Button("Return to Topic") {
+            Button("Return to Sections") {
                 navigationPath.removeLast(navigationPath.count)
             }
             .padding()

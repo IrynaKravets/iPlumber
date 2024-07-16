@@ -10,12 +10,12 @@ struct iPlumberApp: App {
 }
 
 struct MainView: View {
-    @StateObject private var viewModel = TopicsViewModel()
+    @StateObject private var viewModel = SectionsViewModel()
     @State private var navigationPath = NavigationPath()
     
     var body: some View {
         NavigationStack(path: $navigationPath) {
-            TopicListView(viewModel: viewModel, navigationPath: $navigationPath)
+            SectionListView(viewModel: viewModel, navigationPath: $navigationPath)
         }
     }
 }
