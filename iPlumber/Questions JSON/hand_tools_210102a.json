@@ -1,0 +1,460 @@
+{
+  "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+  "name": "Hand Tools",
+  "questions": [
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "It is dangerous to use chisels that have",
+      "type": "single_type",
+      "options": [
+        "Hard points.",
+        "Mushroomed heads.",
+        "Small cutting points.",
+        "Rough cutting edges."
+      ],
+      "correctAnswer": ["Mushroomed heads."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A cold chisel that has a mushroomed head can be reclaimed by",
+      "type": "single_type",
+      "options": [
+        "Regrinding to the recommended included angle.",
+        "Grinding to the original shaft size.",
+        "Re-tempering the mushroomed head.",
+        "Filing the head to a ball shape."
+      ],
+      "correctAnswer": ["Grinding to the original shaft size."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "File handles should be on files because",
+      "type": "single_type",
+      "options": [
+        "They reduce the risk of injury.",
+        "They protect the tang from damage.",
+        "They are available in a variety of attractive colours.",
+        "They protect the cutting edges on the face."
+      ],
+      "correctAnswer": ["They reduce the risk of injury."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A split hammer handle is best repaired by",
+      "type": "single_type",
+      "options": [
+        "Removing and replacing it.",
+        "Binding it with nylon string.",
+        "Wrapping with copper wire.",
+        "Taping it with electrical tape."
+      ],
+      "correctAnswer": ["Removing and replacing it."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "The safest way to use a wrench is to",
+      "type": "single_type",
+      "options": [
+        "Pull on it with steady pressure.",
+        "Push it away from your body.",
+        "Tap on it to get it started.",
+        "Put a pipe handle on it for extra leverage."
+      ],
+      "correctAnswer": ["Pull on it with steady pressure."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "What is the purpose of a wedge when replacing a hammer handle?",
+      "type": "single_type",
+      "options": [
+          "A wedge is used to tighten the end of the handle in the eye of the hammerhead.",
+          "A wedge is used to balance the hammer.",
+          "A wedge is used to provide grip to the hammer handle.",
+          "A wedge is used to protect the handle from damage.",
+          "A wedge is used to align the hammerhead with the handle."
+      ],
+      "correctAnswer": ["A wedge is used to tighten the end of the handle in the eye of the hammerhead."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A combination square consists of",
+      "type": "single_type",
+      "options": [
+        "A square head.",
+        "A protractor.",
+        "A centre-head.",
+        "All of the above."
+      ],
+      "correctAnswer": ["All of the above."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "The most versatile type of square is the",
+      "type": "single_type",
+      "options": [
+        "Carpenter's square.",
+        "Sliding T bevel square.",
+        "Combination square.",
+        "Try square."
+      ],
+      "correctAnswer": ["Combination square."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A thin rule has an advantage over a thick rule when",
+      "type": "single_type",
+      "options": [
+        "Accuracy is a priority.",
+        "Storage room is a problem.",
+        "Rough shop conditions are experienced.",
+        "Graduations are in 1/16 of an inch."
+      ],
+      "correctAnswer": ["Accuracy is a priority."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A good tool for accurately transferring measurements is a",
+      "type": "single_type",
+      "options": [
+        "Tape measure.",
+        "Combination square.",
+        "Vernier caliper.",
+        "Set of dividers."
+      ],
+      "correctAnswer": ["Set of dividers."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "A flexible steel rule is an advantage when",
+      "type": "single_type",
+      "options": [
+        "Measuring long distances.",
+        "Laying out channel iron.",
+        "Finding the centres of circles.",
+        "Measuring on curved surfaces."
+      ],
+      "correctAnswer": ["Measuring on curved surfaces."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "To check whether or not a surface is at true vertical, you would use a",
+      "type": "single_type",
+      "options": [
+        "Torpedo level.",
+        "Framing square.",
+        "Protractor head.",
+        "Centre head."
+      ],
+      "correctAnswer": ["Torpedo level."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "What is the recommended length of a wrap-a-round for marking a straight line around a pipe?",
+      "type": "single_type",
+      "options": [
+        "One complete turn around the pipe.",
+        "One and one quarter turns around the pipe.",
+        "Twice the pipe circumference.",
+        "Twice the pipe diameter."
+      ],
+      "correctAnswer": ["One and one quarter turns around the pipe."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "The size of pliers is determined by the",
+      "type": "single_type",
+      "options": [
+        "Length of the jaws.",
+        "Overall length of the tool.",
+        "Amount the jaws will open.",
+        "Maximum diameter the tool can grip."
+      ],
+      "correctAnswer": ["Overall length of the tool."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "Vise grips have an advantage over pliers when",
+      "type": "single_type",
+      "options": [
+        "The tool has to grip round material.",
+        "A metric size wrench is not available.",
+        "You need to maintain a constant pressure.",
+        "You are working on non-ferrous material."
+      ],
+      "correctAnswer": ["You need to maintain a constant pressure."],
+      "explanation": ""
+    },
+    {
+      "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+      "question": "C-clamps are sized according to the",
+      "type": "single_type",
+      "options": [
+        "Distance the clamp opens.",
+        "Overall length of the clamp.",
+        "Length of the screw thread.",
+        "Clamping screw diameter."
+      ],
+      "correctAnswer": ["Distance the clamp opens."],
+      "explanation": ""
+    },
+    {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "A bar clamp has an advantage when",
+        "type": "single_type",
+        "options": [
+          "Thick metal is being clamped.",
+          "Clamping over greater distances.",
+          "Material needs to be clamped to a bar.",
+          "Pressure is applied in one spot."
+        ],
+        "correctAnswer": ["Clamping over greater distances."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "A 32 teeth per inch hacksaw blade is the best choice for cutting",
+        "type": "single_type",
+        "options": [
+          "Hard material.",
+          "Soft material.",
+          "Thin material.",
+          "Thick material."
+        ],
+        "correctAnswer": ["Thin material."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Files are classified by the",
+        "type": "single_type",
+        "options": [
+          "Job you have been asked to do.",
+          "Length, shape, and cut.",
+          "Size, width, and kind of material.",
+          "Shape, hardness, thickness, and cut."
+        ],
+        "correctAnswer": ["Length, shape, and cut."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Explain why filing is done only on the forward stroke.",
+        "type": "single_type",
+        "options": [
+            "Dragging the file backwards will break the teeth from the file.",
+            "Filing on the forward stroke is more efficient.",
+            "Backward filing will dull the file.",
+            "Forward filing creates a smoother finish.",
+            "Backward filing can cause uneven wear on the file."
+        ],
+        "correctAnswer": ["Dragging the file backwards will break the teeth from the file."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Compound action snips have an advantage over tinners' snips when",
+        "type": "single_type",
+        "options": [
+          "The metal is thicker than 16 gauge.",
+          "14-gauge galvanized iron is being cut.",
+          "Non-ferrous metals are to be cut.",
+          "The cut must follow a curve."
+        ],
+        "correctAnswer": ["The cut must follow a curve."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Tinners' snips are sized according to the",
+        "type": "single_type",
+        "options": [
+          "Length of cut per stroke.",
+          "Maximum jaw opening.",
+          "Thickness that can be cut.",
+          "Overall length of the tool."
+        ],
+        "correctAnswer": ["Overall length of the tool."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "The cutting edge of a cold chisel should be prepared to a _______ degree angle for softer materials and up to _______ degrees for very hard materials.",
+        "type": "single_type",
+        "options": [
+            "60, 90",
+            "60, 60",
+            "90, 90",
+            "90, 60"
+        ],
+        "correctAnswer": ["60, 90"],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "List an advantage an aluminum pipe wrench has over a steel pipe wrench.",
+        "type": "single_type",
+        "options": [
+            "Aluminum pipe wrenches are lighter than steel pipe wrenches.",
+            "Aluminum pipe wrenches are more durable than steel pipe wrenches.",
+            "Aluminum pipe wrenches provide a better grip than steel pipe wrenches.",
+            "Aluminum pipe wrenches are more resistant to corrosion than steel pipe wrenches.",
+            "Aluminum pipe wrenches are cheaper than steel pipe wrenches."
+        ],
+        "correctAnswer": ["Aluminum pipe wrenches are lighter than steel pipe wrenches."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Explain how open end, box end and combination wrenches are rated for size.",
+        "type": "single_type",
+        "options": [
+            "They are sized according to the size of nut or bolt head for which they can be used.",
+            "They are sized according to the length of the wrench.",
+            "They are sized according to the width of the handle.",
+            "They are sized according to the material they are made from.",
+            "They are sized according to the weight of the wrench."
+        ],
+        "correctAnswer": ["They are sized according to the size of nut or bolt head for which they can be used."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Explain how adjustable and pipe wrenches are rated for size.",
+        "type": "single_type",
+        "options": [
+            "The overall length of the tool determines size.",
+            "The width of the jaws determines size.",
+            "The weight of the tool determines size.",
+            "The material of the tool determines size.",
+            "The size of the nut or bolt head it can accommodate determines size."
+        ],
+        "correctAnswer": ["The overall length of the tool determines size."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "How are sockets sized?",
+        "type": "single_type",
+        "options": [
+          "By the total number of points.",
+          "By measuring the distance across the points.",
+          "By measuring the distance across the flats.",
+          "By the depth of the socket."
+        ],
+        "correctAnswer": ["By measuring the distance across the flats."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "An adjustable wrench is recommended when",
+        "type": "single_type",
+        "options": [
+          "The points of the nut are rounded over.",
+          "You are working with metric fasteners.",
+          "A proper fitting wrench is not available.",
+          "Square nuts are used instead of hex nuts."
+        ],
+        "correctAnswer": ["A proper fitting wrench is not available."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "An MJ torque wrench exerts a torque pressure of _____________ on the 5/16 nut of an MJ coupling.",
+        "type": "single_type",
+        "options": [
+            "60 inch-pounds",
+            "50 inch-pounds",
+            "70 inch-pounds",
+            "80 inch-pounds",
+            "90 inch-pounds"
+        ],
+        "correctAnswer": ["60 inch-pounds"],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Soil pipe cutters are designed to _____________.",
+        "type": "single_type",
+        "options": [
+            "cut cast iron pipe only.",
+            "cut PVC pipe.",
+            "cut steel pipe.",
+            "cut copper pipe.",
+            "cut aluminum pipe."
+          ],
+          "correctAnswer": ["cut cast iron pipe only."],
+          "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "Fish tapes are made of",
+        "type": "single_type",
+        "options": [
+          "Copper, aluminum, or steel.",
+          "Aluminum, nylon, or fibreglass.",
+          "Steel, nylon, or fibreglass.",
+          "Copper, nylon, or aluminum."
+        ],
+        "correctAnswer": ["Steel, nylon, or fibreglass."],
+        "explanation": ""
+      },
+      {
+        "id": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "topicId": "b37ff3d1-6a14-46ba-9bf7-2d4702ba7572",
+        "question": "What wrench would you choose when installing a valve on a piping project?",
+        "type": "checkbox_type",
+        "options": [
+            "hex wrench",
+            "spud wrench",
+            "pen-end wrench"
+        ],
+        "correctAnswer": ["hex wrench", "spud wrench", "pen-end wrench"],
+        "explanation": ""
+      }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+  "name": "Hazardous Materials and Fire Protection",
+  "questions": [
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Who is responsible for providing workers with WHMIS training?",
+      "type": "single_type",
+      "options": [
+        "the supplier of controlled products.",
+        "a training institute or provider.",
+        "The employee must obtain their own training.",
+        "The employer must provide the training."
+      ],
+      "correctAnswer": ["The employer must provide the training."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Employers are responsible to:",
+      "type": "single_type",
+      "options": [
+        "provide a MSDS for each controlled product used in the workplace.",
+        "inform all workers about chemical hazards at the work site.",
+        "train workers about labels, MSDS and other identifiers.",
+        "all of the above."
+      ],
+      "correctAnswer": ["all of the above."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Suppliers of controlled products are responsible to:",
+      "type": "single_type",
+      "options": [
+        "train employees to safely dispose of hazardous products.",
+        "provide SDS for controlled product they sell or import.",
+        "provide extra labels for employees to use when transferring controlled products from the original container.",
+        "visit work sites to ensure controlled products are labelled properly."
+      ],
+      "correctAnswer": ["provide SDS for controlled product they sell or import."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Employees are responsible to:",
+      "type": "single_type",
+      "options": [
+        "classify controlled products.",
+        "train other employees about WHMIS.",
+        "apply workplace labels where and when required.",
+        "ensure SDS are readily available."
+      ],
+      "correctAnswer": ["apply workplace labels where and when required."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "The key elements of WHMIS are:",
+      "type": "single_type",
+      "options": [
+        "employee education, SDS and product labelling.",
+        "Hazard Products Act, OHS and SDS.",
+        "employee labelling, SDS and employer training.",
+        "product labeling, OHS and Controlled Products Regulations."
+      ],
+      "correctAnswer": ["employee education, SDS and product labelling."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "The goal of WHMIS is to:",
+      "type": "single_type",
+      "options": [
+        "ensure workers have containers for controlled products.",
+        "ensure suppliers of controlled products provide training for all employees.",
+        "protect the worker by providing information on hazardous materials.",
+        "ensure that the requirements for information on hazardous materials are unique to the requirements of each province."
+      ],
+      "correctAnswer": ["protect the worker by providing information on hazardous materials."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "An SDS must be provided for each controlled product because they:",
+      "type": "single_type",
+      "options": [
+        "provide only the essential information from the label and are easier to read in an emergency.",
+        "contain the generic product names and are easier to locate and read than the labels on the containers.",
+        "are only for the employer’s use when an emergency arises, and they can be retrieved from a secure location.",
+        "provide more detailed information than can be provided on a label."
+      ],
+      "correctAnswer": ["provide more detailed information than can be provided on a label."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "The supplier label is attached to the:",
+      "type": "single_type",
+      "options": [
+        "container in which the product is shipped.",
+        "container in which the product is stored.",
+        "work site near where the product is used.",
+        "invoice when the product is delivered."
+      ],
+      "correctAnswer": ["container in which the product is shipped."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "How do you identify a portable gasoline container that is approved for use? It:",
+      "type": "single_type",
+      "options": [
+        "is approved under the Alberta Occupational Health and Safety Code.",
+        "is approved by the Alberta Hazardous Materials Control Regulations.",
+        "has a MSDS label affixed to the outside of the container.",
+        "is approved by either one or both of the ULC or CSA."
+      ],
+      "correctAnswer": ["is approved by either one or both of the ULC or CSA."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Ventilation system requirements for the work site are found in the:",
+      "type": "single_type",
+      "options": [
+        "provincial and national building codes.",
+        "Alberta Occupational Health and Safety Code.",
+        "WCB Worker Handbook.",
+        "Alberta Construction Safety Association."
+      ],
+      "correctAnswer": ["Alberta Occupational Health and Safety Code."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Before entering a confined workspace you should:",
+      "type": "single_type",
+      "options": [
+        "assemble all necessary tools and equipment to ensure easy access while working in the confined space.",
+        "contact your employer to obtain information on dangerous gases present in the confined workspace.",
+        "discuss your work plan with other workers who may have worked in a similar confined space.",
+        "use a gas detector to determine whether the area contains any dangerous fumes or gases."
+      ],
+      "correctAnswer": ["use a gas detector to determine whether the area contains any dangerous fumes or gases."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "What type of fire extinguisher is versatile in fighting different types of fires?",
+      "type": "single_type",
+      "options": [
+        "regular dry chemical",
+        "purple K dry chemical",
+        "multi-purpose dry chemical",
+        "dry powder"
+      ],
+      "correctAnswer": ["multi-purpose dry chemical"],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "When should you not fight a fire for personal safety reasons? When:",
+      "type": "single_type",
+      "options": [
+        "you are wearing fire retardant clothing (FRC).",
+        "the fire could block your escape route.",
+        "the fire extinguisher does not have an inspection certificate.",
+        "you have not activated the fire alarm."
+      ],
+      "correctAnswer": ["the fire could block your escape route."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "What are the four steps of proper portable fire extinguisher use?",
+      "type": "single_type",
+      "options": [
+        "Pull the pin. Arm the extinguisher. Squeeze the handle. Touch the surface after the fire is out.",
+        "Pull the pin. Aim the extinguisher. Sweep the extinguisher. Touch the surface after the fire is out.",
+        "Pick up the extinguisher. Arm the extinguisher. Squeeze the handle. Sweep the extinguisher from side to side.",
+        "Pull the pin. Aim the extinguisher. Squeeze the handle. Sweep the extinguisher from side to side."
+      ],
+      "correctAnswer": ["Pull the pin. Aim the extinguisher. Squeeze the handle. Sweep the extinguisher from side to side."],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "Which of the following portable fire extinguishers should be used to fight a small fire burning in a pile of discarded oily rags?",
+      "type": "single_type",
+      "options": [
+        "Class A only",
+        "Classes A, B and C",
+        "Class C only",
+        "Class D and K"
+      ],
+      "correctAnswer": ["Classes A, B and C"],
+      "explanation": ""
+    },
+    {
+      "id": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "topicId": "e1e9e8a3-f82c-4656-9ed2-b56ef1c8b71a",
+      "question": "A Class C fire involves:",
+      "type": "single_type",
+      "options": [
+        "electrical equipment.",
+        "combustible metals.",
+        "flammable liquids.",
+        "household combustibles."
+      ],
+      "correctAnswer": ["electrical equipment."],
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+  "name": "Welded Pipe and Fittings",
+  "questions": [
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "What is the relationship of amount of distortion to the amount of force applied as long as a material is not stressed beyond its elastic limit?",
+      "type": "single_type",
+      "options": [
+          "The amount of distortion will be directly proportional to the amount of force applied.",
+           "The amount of distortion will be inversely proportional to the amount of force applied.",
+           "The amount of distortion will be unrelated to the amount of force applied.",
+           "The amount of distortion will be exponentially related to the amount of force applied.",
+           "The amount of distortion will remain constant regardless of the amount of force applied."
+      ],
+      "correctAnswer": ["The amount of distortion will be directly proportional to the amount of force applied."],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "What are the four (4) primary parts of a hydraulic bolt tensioner?",
+      "type": "checkbox_type",
+      "options": [
+        "Hex socket",
+        "Bridge",
+        "Hydraulic load cell",
+        "Puller"
+      ],
+      "correctAnswer": ["Hex socket", "Bridge", "Hydraulic load cell", "Puller"],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "What percentage of the torque applied to a nut actually results in a pre-load tension on the stud?",
+      "type": "single_type",
+      "options": [
+        "10%",
+        "15%",
+        "20%",
+        "11%"
+      ],
+      "correctAnswer": ["10%"],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "If a force of 50 lb is applied on a torque wrench at a distance of 2 feet from the centre of the stud, how much torque is being applied?",
+      "type": "single_type",
+      "options": [
+        "100 ft-lb",
+        "120 ft-lb",
+        "130 ft-lb",
+        "200 ft-lb"
+      ],
+      "correctAnswer": ["100 ft-lb"],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "If a force of 75 lb is applied on a torque wrench at a distance of 36” from the centre of the stud, how much torque is being applied?",
+      "type": "single_type",
+      "options": [
+        "225 ft-lb",
+        "250 ft-lb",
+        "275 ft-lb",
+        "200 ft-lb"
+      ],
+      "correctAnswer": ["225 ft-lb"],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "What is the name of the device used to get an accurate measurement of how much a fastener elongates as tension is applied?",
+      "type": "single_type",
+      "options": [
+        "Tensile tester",
+        "Torque wrench",
+        "Digital caliper",
+        "Strain gauge",
+        "Ultrasonic extensometer"
+      ],
+      "correctAnswer": ["Ultrasonic extensometer"],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "When installing the nuts on the studs prior to torquing, how tight should the nuts be?",
+      "type": "single_type",
+      "options": [
+          "All nuts should thread on hand tight without requiring a wrench.",
+          "All nuts should be tightened with a wrench until snug.",
+          "All nuts should be tightened to half the final torque value.",
+          "All nuts should be tightened to the final torque value.",
+          "All nuts should be left slightly loose for final adjustment."
+      ],
+      "correctAnswer": ["All nuts should thread on hand tight without requiring a wrench."],
+      "explanation": ""
+    },
+    {
+      "id": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "topicId": "2b451474-9e9e-48e2-9b7f-1b957103e1bc",
+      "question": "What should be used to prevent the pressure from the nuts galling the material in the flange during torquing?",
+      "type": "single_type",
+      "options": [
+          "A hardened washer between the face of the nut and the flange surface.",
+          "A soft washer between the face of the nut and the flange surface.",
+          "A layer of lubricant on the flange surface.",
+          "A rubber gasket between the nut and the flange surface.",
+          "A metal shim between the nut and the flange surface."
+      ],
+      "correctAnswer": ["A hardened washer between the face of the nut and the flange surface."],
+      "explanation": ""
+    },
+    {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "State the formula used to calculate the centre to face measurement for a 90° long radius butt weld elbow",
+        "type": "single_type",
+        "options": [
+          "NPS x 1 1/2.",
+          "NPS x 5/8.",
+          "NPS x 1."
+        ],
+        "correctAnswer": ["NPS x 1 1/2."],
+        "explanation": ""
+      },
+    {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "State the formula used to calculate the centre to face measurement for a 45° long radius butt weld elbow",
+        "type": "single_type",
+        "options": [
+          "NPS x 1 1/2.",
+          "NPS x 5/8.",
+          "NPS x 1."
+        ],
+        "correctAnswer": ["NPS x 5/8."],
+        "explanation": ""
+      },
+    {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "State the formula used to calculate the centre to face measurement for a 90° short radius butt weld elbow.",
+        "type": "single_type",
+        "options": [
+          "NPS x 1 1/2.",
+          "NPS x 5/8.",
+          "NPS x 1."
+        ],
+        "correctAnswer": ["NPS x 1."],
+        "explanation": ""
+      },
+    {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "Using either the previous method or an alternative method, calculate the centre to face measurement for an 8\" (200 mm) long radius butt weld 45° elbow. Show your work.",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["5"],
+        "explanation": "Method 1) = NPS x 5/8 = 8\" x 5/8 = 5\". Method 2) NPS x 1/2 x 1/2 = 4\". Add the 1st and 3rd answers. 8\" x 1/2 = 4\" x 1/2 = 2\" x 1/2 = 1\". Add 1st and 3rd, 4\" + 1\" = 5\"."
+    },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "Calculate the centre to face measurement for a 10\" (250 mm) long radius butt weld 90° elbow. Show your work.",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["15"],
+        "explanation": "NPS x 1 1/2 = 10\" x 1 1/2 = 15\"."
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "Do all unions require a gasket to ensure a proper seal?",
+        "type": "single_type",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "correctAnswer": ["No"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "For a 6\" x 6\" x 3\" std. butt weld tee, what does the 3\" tell you?",
+        "type": "single_type",
+        "options": [
+            "The branch outlet is 3\" NPS.",
+            "The main run size is 3\".",
+            "The fitting length is 3\".",
+            "The wall thickness is 3\".",
+            "The pressure rating is 3\"."
+        ],
+        "correctAnswer": ["The branch outlet is 3\" NPS."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "For the previous question, what is the fitting allowance for the branch opening?",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["4 7/8", "5", "4.875", "4,875"],
+        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 4 7/8\"."
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What would the fitting allowance be for a 2\" 3000# SW tee?",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["1 1/2", "1,5", "1.5"],
+        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 1 1/2\"."
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "A class 6000# forged steel threaded coupling is taken to be equivalent to a steel pipe classification of ____________ and a class 6000# forged steel socket weld coupling to be equivalent to a steel pipe classification of ____________.",
+        "type": "single_type",
+        "options": [
+            "XXS; Sch. 160",
+            "XXS; Sch. 120",
+            "XXS; Sch. 80",
+            "XXS; Sch. 40"
+        ],
+        "correctAnswer": ["XXS;Sch. 160"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "List the accepted procedure for making a butt weld joint.",
+        "type": "checkbox_type",
+        "options": [
+          "Measure",
+          "Mark",
+          "Cut",
+          "Bevel",
+          "Fit-up",
+          "Tack",
+          "Ream"
+        ],
+        "correctAnswer": ["Measure", "Mark", "Cut", "Bevel", "Fit-up", "Tack", "Ream"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What would you use a wraparound for?",
+        "type": "single_type",
+        "options": [
+            "A wraparound is used to mark the cut path to be followed around a pipe.",
+            "A wraparound is used to insulate pipes.",
+            "A wraparound is used to secure pipes together.",
+            "A wraparound is used to measure the diameter of a pipe.",
+            "A wraparound is used to protect pipes from corrosion."
+        ],
+        "correctAnswer": ["A wraparound is used to mark the cut path to be followed around a pipe."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "The land width for a butt weld is typically _____ and _____ (may/may not) vary in accordance with a QCM or weld procedure.",
+        "type": "single_type",
+        "options": [
+          "1/8\"; 1/16\"",
+          "1/7\"; 1/16\"",
+          "1/8\"; 1/10\"",
+          "1/5\"; 1/16\""
+        ],
+        "correctAnswer": ["1/8\"; 1/16\""],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "When should a gap rod be removed from a butt weld?",
+        "type": "single_type",
+        "options": [
+            "After the second tack.",
+            "Before the first tack.",
+            "After the first tack.",
+            "Before the second tack.",
+            "After the final weld is complete."
+        ],
+        "correctAnswer": ["After the second tack."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What recommended bevel angle should be ground onto the flat end of a pipe?",
+        "type": "single_type",
+        "options": [
+          "37 degrees.",
+          "37 1/2 degrees.",
+          "90 degrees.",
+          "45 degrees."
+        ],
+        "correctAnswer": ["37 1/2 degrees."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "A socket-weld fitting has two weld locations: one inside and one outside.",
+        "type": "single_type",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": ["False"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What is another name for a Van Stone flange?",
+        "type": "single_type",
+        "options": [
+            "A lap joint flange.",
+            "A slip-on flange.",
+            "A weld neck flange.",
+            "A blind flange.",
+            "A socket weld flange."
+        ],
+        "correctAnswer": ["A lap joint flange."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "You would find a screwed companion flange on an 8\" (200 mm), 900 psi flanged joint.",
+        "type": "single_type",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correctAnswer": ["False"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "A 600# RFWNF has a face that is raised: a) 1/16\" (1.6 mm). b) 1/4\" (6.35 mm). c) 1/2\" (13 mm).",
+        "type": "single_type",
+        "options": [
+          "1/16\" (1.6 mm).",
+          "1/4\" (6.35 mm).",
+          "1/2\" (13 mm)."
+        ],
+        "correctAnswer": ["1/4\" (6.35 mm)."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What is the best sealing surface for corrosive and high temperature/pressure flanged joints?",
+        "type": "single_type",
+        "options": [
+            "A ring joint flange.",
+            "A lap joint flange.",
+            "A flat face flange.",
+            "A raised face flange.",
+            "A tongue and groove flange."
+        ],
+        "correctAnswer": ["A ring joint flange."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "Cast iron flanges are commonly available in pressure ratings of ___________ and ___________.",
+        "type": "single_type",
+        "options": [
+          "125#, 250#",
+          "150#, 250#",
+          "125#, 200#",
+          "150#, 200#"
+        ],
+        "correctAnswer": ["125#, 250#"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What size and number of studs are required for bolting up a 12\" 600# flanged joint?",
+        "type": "single_type",
+        "options": [
+            "1 1/4\" x 8\" bolts and 20 bolts are required.",
+            "1 1/2\" x 9\" bolts and 24 bolts are required.",
+            "1\" x 7\" bolts and 18 bolts are required.",
+            "1 1/4\" x 6\" bolts and 20 bolts are required.",
+            "1\" x 8\" bolts and 16 bolts are required."
+        ],
+        "correctAnswer": ["1 1/4\" x 8\" bolts and 20 bolts are required."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What size of open end/box end wrench is required for the previous question? (Clues: 2H nuts; show formula.)",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["16/8", "2"],
+        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8\", (1 1/4 x 1 1/2) + 1/8 = (5/4 x 3/2) + 1/8 = 15/8 + 1/8 = 16/8 or 2\"."
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What size and number of studs are required for bolting up a 4\" 150# RF flanged joint?",
+        "type": "single_type",
+        "options": [
+            "5/8\" x 3 1/2\" bolts and 8 bolts are required.",
+            "3/4\" x 4\" bolts and 8 bolts are required.",
+            "1/2\" x 3\" bolts and 10 bolts are required.",
+            "5/8\" x 4\" bolts and 8 bolts are required.",
+            "3/4\" x 3 1/2\" bolts and 10 bolts are required."
+        ],
+        "correctAnswer": ["5/8\" x 3 1/2\" bolts and 8 bolts are required."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What size of open end/box end wrench is required for the previous question? (Clues: 2H nuts; show formula.)",
+        "type": "text_type",
+        "options": [],
+        "correctAnswer": ["17/16", "1 1/16", "1.0625", "1,0625"],
+        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8\", (5/8 x 1 1/2) + 1/8 = (5/8 x 3/2) + 1/8 = 15/16 or 1 1/16\"."
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "What are the three (3) categories of gaskets?",
+        "type": "checkbox_type",
+        "options": [
+          "Soft",
+          "Spiral wound",
+          "Metallic"
+        ],
+        "correctAnswer": ["Soft", "Spiral wound", "Metallic"],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "A metallic ring gasket is usually made of a product that is a) Equal in hardness to the flange material. b) Harder than the flange material. c) Softer than the flange material.",
+        "type": "single_type",
+        "options": [
+          "Equal in hardness to the flange material.",
+          "Harder than the flange material.",
+          "Softer than the flange material."
+        ],
+        "correctAnswer": ["Harder than the flange material."],
+        "explanation": ""
+      },
+      {
+        "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
+        "question": "Which two (2) tools are required to make a gasket using the trace and tap method?",
+        "type": "checkbox_type",
+        "options": [
+          "Hammer",
+          "Ball peen",
+          "Scissors",
+          "Knife",
+          "Punch"
+        ],
+        "correctAnswer": ["Hammer", "Ball peen"],
+        "explanation": ""
+      }
+    ]
+  }

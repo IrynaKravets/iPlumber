@@ -1,0 +1,255 @@
+{
+  "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+  "name": "Pipe Trades' Codes",
+  "questions": [
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Why were codes and standards established?",
+      "type": "single_type",
+      "options": [
+        "Codes and standards were established to protect the public from hazardous situations.",
+        "Codes and standards were established to enhance the efficiency of construction projects.",
+        "Codes and standards were established to reduce the cost of materials.",
+        "Codes and standards were established to increase the profitability of manufacturers."
+      ],
+      "correctAnswer": ["Codes and standards were established to protect the public from hazardous situations."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Which code was established to help in the installation standards for boilers?",
+      "type": "single_type",
+      "options": [
+        "ASME",
+        "ABSA",
+        "CSA B.149",
+        "NFPA"
+      ],
+      "correctAnswer": ["ASME"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "What are two of the functions of ABSA?",
+      "type": "checkbox_type",
+      "options": [
+        "Uniform enforcement of boiler and pressure vessel laws, rules, and regulations.",
+        "Standards for acceptance of boilers, pressure vessels and parts.",
+        "A standard of qualifications and examinations for inspectors who are to enforce the requirements of the code.",
+        "The use of one uniform code and one standard stamp to be placed on all registered boilers, pressure vessels, and parts constructed in accordance with the code."
+      ],
+      "correctAnswer": ["Uniform enforcement of boiler and pressure vessel laws, rules, and regulations.", "Standards for acceptance of boilers, pressure vessels and parts."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Where can codes and standards be applied to?",
+      "type": "single_type",
+      "options": [
+        "Personnel in the pipe trades work in a wide variety of situations, including residential housing, commercial building systems, heating plants and systems, power plants and systems, and petroleum and petrochemical plants.",
+        "Personnel in the pipe trades only work in residential housing.",
+        "Personnel in the pipe trades only work in commercial building systems.",
+        "Personnel in the pipe trades only work in petroleum and petrochemical plants."
+      ],
+      "correctAnswer": ["Personnel in the pipe trades work in a wide variety of situations, including residential housing, commercial building systems, heating plants and systems, power plants and systems, and petroleum and petrochemical plants."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Which sector has fire suppression advanced the most in recent history?",
+      "type": "single_type",
+      "options": [
+        "Industrial",
+        "Commercial",
+        "Residential"
+      ],
+      "correctAnswer": ["Residential"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Who generally publishes standards?",
+      "type": "single_type",
+      "options": [
+        "Industry standards are generally published by professional societies, trade organizations, or committees.",
+        "Industry standards are generally published by government agencies.",
+        "Industry standards are generally published by individual companies.",
+        "Industry standards are generally published by academic institutions."
+      ],
+      "correctAnswer": ["Industry standards are generally published by professional societies, trade organizations, or committees."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Can installing a piping system transcend various codes?",
+      "type": "single_type",
+      "options": [
+        "Yes, installing any kind of system whether it is piping or another other type referencing various codes and standards will be a must.",
+        "No, installing a piping system only needs to reference a single code.",
+        "Only if the system is installed in a public building.",
+        "Only if the system is installed by a certified professional."
+      ],
+      "correctAnswer": ["Yes, installing any kind of system whether it is piping or another other type referencing various codes and standards will be a must."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "In the example above where do the AISC and the ASME code intersect?",
+      "type": "single_type",
+      "options": [
+        "The AISC Code is generally reserved for building codes, while the ASME Code is reserved for piping and mechanical codes. The beam that supports the building would be part of the AISC Code but the beam clamp and rod coming off the beam to the piping would be an ASME Code.",
+        "The AISC Code and the ASME Code do not intersect at any point.",
+        "Both codes are used interchangeably for any structural or mechanical work.",
+        "The AISC Code is reserved for piping, while the ASME Code is reserved for building structures."
+      ],
+      "correctAnswer": ["The AISC Code is generally reserved for building codes, while the ASME Code is reserved for piping and mechanical codes. The beam that supports the building would be part of the AISC Code but the beam clamp and rod coming off the beam to the piping would be an ASME Code."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Once the codes are adopted who certifies them into law?",
+      "type": "single_type",
+      "options": [
+        "ABSA",
+        "OHS",
+        "Safety codes officer",
+        "Government"
+      ],
+      "correctAnswer": ["Government"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Code changes only happen every couple of years.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "What is the main reason a code is made mandatory by legislation?",
+      "type": "single_type",
+      "options": [
+        "Mechanical/industrial section",
+        "It certifies the fabricator’s engineering and quality control competence.",
+        "Public safety",
+        "The owner"
+      ],
+      "correctAnswer": ["Public safety"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Which Code would be used for the inspection of plumbing systems?",
+      "type": "single_type",
+      "options": [
+        "National Plumbing Code of Canada",
+        "The owner",
+        "ANSI/ASME",
+        "Public safety"
+      ],
+      "correctAnswer": ["National Plumbing Code of Canada"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Which organization or organizations are responsible for the Code for pressure piping in North America?",
+      "type": "single_type",
+      "options": [
+        "It certifies the fabricator’s engineering and quality control competence.",
+        "Public safety",
+        "ANSI/ASME",
+        "Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law."
+      ],
+      "correctAnswer": ["ANSI/ASME"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "What is the significance of an official ASME stamp issued to a fabricator?",
+      "type": "single_type",
+      "options": [
+        "Public safety",
+        "It certifies the fabricator’s engineering and quality control competence.",
+        "Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law.",
+        "The ASME Code is referenced by ABSA for any pressure vessel construction."
+      ],
+      "correctAnswer": ["It certifies the fabricator’s engineering and quality control competence."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Which organization uses the ASME Code as its basis for inspections?",
+      "type": "single_type",
+      "options": [
+        "The owner",
+        "Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law.",
+        "ANSI/ASME",
+        "The ASME Code is referenced by ABSA for any pressure vessel construction."
+      ],
+      "correctAnswer": ["The ASME Code is referenced by ABSA for any pressure vessel construction."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "Who is responsible for approving the specifications that define the jurisdictional boundaries between the various codes?",
+      "type": "single_type",
+      "options": [
+        "The owner",
+        "It certifies the fabricator’s engineering and quality control competence.",
+        "ANSI/ASME",
+        "Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law."
+      ],
+      "correctAnswer": ["ANSI/ASME"],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "How often are code changes made?",
+      "type": "single_type",
+      "options": [
+        "National Plumbing Code of Canada",
+        "The ASME Code is referenced by ABSA for any pressure vessel construction.",
+        "Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law.",
+        "Public safety"
+      ],
+      "correctAnswer": ["Codes are always under review, but generally they are revised every couple of years and incorporate any changes required to be updated and adopted into law."],
+      "explanation": ""
+    },
+    {
+      "id": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "topicId": "92ab2738-fad7-49e6-92fc-cc530efdc3a5",
+      "question": "In which set of CSA Standards would you find information on boilers and pressure vessels?",
+      "type": "single_type",
+      "options": [
+        "Mechanical/industrial section",
+        "ANSI/ASME",
+        "National Plumbing Code of Canada",
+        "It certifies the fabricator’s engineering and quality control competence."
+      ],
+      "correctAnswer": ["Mechanical/industrial section"],
+      "explanation": ""
+    }
+  ]
+}

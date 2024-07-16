@@ -1,0 +1,276 @@
+{
+  "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+  "name": "Electrical Safety",
+  "questions": [
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Basic compliance to CSA Z462 requirements is established with a five-step process for safety and operability.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "The arc flash protection boundary is defined as the distance at which a worker is exposed to _____ calories/cm² of incident energy. This represents the distance at which PPE _____ (may, must) be worn to prevent 2nd-degree or greater burns in the event of an arc flash.",
+      "type": "single_type",
+      "options": [
+          "1.2 calories/cm², must",
+          "1.0 calories/cm², must",
+          "1.5 calories/cm², may",
+          "1.7 calories/cm², must"
+      ],
+      "correctAnswer": ["1.2 calories/cm², must"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "There are _____ identified FR hazardous risk category levels, which are numbered by severity from _____ to _____, that require the minimum levels of arc flash protection.",
+      "type": "single_type",
+      "options": [
+          "four, one, four",
+          "five, one, five",
+          "three, one, three",
+          "six, one, six"
+      ],
+      "correctAnswer": ["four, one, four"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Describe the clothing necessary when the required minimum arc rating of PPE must be 40 cal/cm².",
+      "type": "single_type",
+      "options": [
+        "Arc-rated FR shirt and FR rated pants or FR coverall and arc flash suit selected so that the system arc rating meets the required minimum (3 or more layers).",
+        "Non-arc-rated cotton clothing with an additional arc flash suit to meet the required minimum.",
+        "Arc-rated FR shirt and pants only.",
+        "Standard work clothes with an arc flash suit jacket.",
+        "Arc-rated FR shirt and pants, or an arc flash suit with a minimum of two layers."
+      ],
+      "correctAnswer": ["Arc-rated FR shirt and FR rated pants or FR coverall and arc flash suit selected so that the system arc rating meets the required minimum (3 or more layers)."],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Describe the six (6) basic steps for locking out and re-energizing equipment when you need to work on it.",
+      "type": "checkbox_type",
+      "options": [
+        "a) Inform everyone who needs to know that the equipment needs to be shut down and for what reason",
+        "b) Shut down the equipment by the normal shutdown procedures",
+        "c) Operate the energy isolating devices to disconnect the equipment from the source of supply",
+        "d) Install your lock on each of the isolating devices and tag the locks",
+        "e) Check the equipment to confirm that it is isolated",
+        "f) After the work is completed, check the area, and confirm that it is safe to re-energize the equipment"
+      ],
+      "correctAnswer": ["a) Inform everyone who needs to know that the equipment needs to be shut down and for what reason", "b) Shut down the equipment by the normal shutdown procedures", "c) Operate the energy isolating devices to disconnect the equipment from the source of supply", "d) Install your lock on each of the isolating devices and tag the locks", "e) Check the equipment to confirm that it is isolated", "f) After the work is completed, check the area, and confirm that it is safe to re-energize the equipment"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "When there may be persons of the same trade or of different trades working on different parts of the same equipment to be repaired, _______ are used to lock out the equipment.",
+      "type": "single_type",
+      "options": [
+        "lockouts",
+        "tagouts",
+        "multi-lock hasps",
+        "group lockout devices",
+        "personal lockouts"
+      ],
+      "correctAnswer": ["lockouts"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "When a lock is installed on the switch or circuit breaker by the worker doing the repairs or alterations to the equipment, the lock must be able to be opened by a common key in case the worker leaves the job site.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "What amount of current causes ventricular fibrillation of the heart?",
+      "type": "single_type",
+      "options": [
+        "100 mA to 200 mA",
+        "15 A",
+        "15 mA to 20 mA",
+        "over 200 mA"
+      ],
+      "correctAnswer": ["100 mA to 200 mA"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "The top of a stepladder is a safe place to keep your tools while you are working from the ladder.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "When working or operating machinery near overhead power lines a safe clearance distance of _______ meters must be maintained until the voltage of the power line is verified.",
+      "type": "single_type",
+      "options": [
+        "7 meters",
+        "5 meters",
+        "10 meters",
+        "3 meters",
+        "8 meters"
+      ],
+      "correctAnswer": ["7 meters"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Which approach boundary has the highest risk of shock?",
+      "type": "single_type",
+      "options": [
+        "Limited approach boundary",
+        "Restricted approach boundary",
+        "Prohibited approach boundary"
+      ],
+      "correctAnswer": ["Prohibited approach boundary"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Non-melting, flammable materials (for example, untreated cotton, wool, rayon, silk, or blends of these materials) with a fabric weight of at least 4.5 oz/yd² is appropriate clothing for which hazard/risk category?",
+      "type": "single_type",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctAnswer": ["0"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "What is defined as a barrier between the wearer or user and their work environment?",
+      "type": "single_type",
+      "options": [
+        "Arc flash hazard",
+        "PPE",
+        "Qualified worker",
+        "Hard hat"
+      ],
+      "correctAnswer": ["PPE"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Which of the following terms matches the definition “When power or energy cannot flow due to the position of a disconnecting switch, circuit breaker, manually operated valve locked in position until work is complete, and the area deemed safe”?",
+      "type": "single_type",
+      "options": [
+        "Tag",
+        "Lock",
+        "Label"
+      ],
+      "correctAnswer": ["Lockout"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "When locking out a piece of equipment, you can use;",
+      "type": "single_type",
+      "options": [
+        "Any lock",
+        "Another lockout if its already on the machine",
+        "A lock with only one key",
+        "A tag on its own"
+      ],
+      "correctAnswer": ["A lock with only one key"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Painful shock causing ventricular fibrillation of the heart is most often a fatal heart condition. This condition is caused by what level of current in mA?",
+      "type": "single_type",
+      "options": [
+        "100-200mA",
+        "20-75mA",
+        "15-20mA",
+        "Over 200mA"
+      ],
+      "correctAnswer": ["100-200mA"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "If dangers cannot immediately be corrected, you should do what three things to prevent injuries?",
+      "type": "checkbox_type",
+      "options": [
+        "Warn people in the area.",
+        "Provide physical barriers or suitably guard all hazardous conditions during the progress of the job until normal conditions are restored.",
+        "Post appropriate warning signs."
+      ],
+      "correctAnswer": ["Warn people in the area.", "Provide physical barriers or suitably guard all hazardous conditions during the progress of the job until normal conditions are restored.", "Post appropriate warning signs."],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "Before attending to the victim of an electrical shock you should:",
+      "type": "single_type",
+      "options": [
+        "Report the accident",
+        "Prevent further injury",
+        "Send for qualified help",
+        "Remove the victim"
+      ],
+      "correctAnswer": ["Remove the victim"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "A frayed cord is an example of an:",
+      "type": "single_type",
+      "options": [
+        "Trip hazard",
+        "Electrical hazard",
+        "Fall hazard",
+        "Housekeeping"
+      ],
+      "correctAnswer": ["Electrical hazard"],
+      "explanation": ""
+    },
+    {
+      "id": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "topicId": "8b69f3e4-1a0b-11ee-be56-0242ac120002",
+      "question": "What is a good safety step to ensure the correct switch has been locked out?",
+      "type": "single_type",
+      "options": [
+        "Touching a connection.",
+        "A lockout is all that is needed.",
+        "Counting how many locks were used.",
+        "Test start."
+      ],
+      "correctAnswer": ["Test start."],
+      "explanation": ""
+    }
+  ]
+}

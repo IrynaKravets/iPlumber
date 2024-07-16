@@ -1,0 +1,567 @@
+{
+  "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+  "name": "Apprenticeship Training Program",
+  "questions": [
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "How many trades and occupations are involved in the Alberta apprenticeship training system?",
+      "type": "single_type",
+      "options": [
+        "Less than 24",
+        "25 to 49",
+        "50 to 99",
+        "100 or more"
+      ],
+      "correctAnswer": ["25 to 49"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What are three (3) functions of the Provincial Apprenticeship Committee for the trades?",
+      "type": "checkbox_type",
+      "options": [
+        "Identify the training needs and curriculum content for the trade.",
+        "Recommend to the Board the standards for training and certification for the trade.",
+        "Monitor the activities of the trade's local apprenticeship committee.",
+        "Make recommendations to the Board about the designation of trades and occupations.",
+        "Determine whether other training is equivalent to training provided in an Alberta apprenticeship program.",
+        "Participate occasionally in resolving apprenticeship-related disputes between employers and employees."
+      ],
+      "correctAnswer": ["Identify the training needs and curriculum content for the trade.", "Recommend to the Board the standards for training and certification for the trade.", "Monitor the activities of the trade's local apprenticeship committee."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who are the major participants that would enter into a Contract of Apprenticeship?",
+      "type": "single_type",
+      "options": [
+        "the employer and AIT",
+        "the employer, AIT and the PAC",
+        "the apprentice, the employer and the PAC",
+        "the apprentice, the employer and AIT"
+      ],
+      "correctAnswer": ["the apprentice, the employer and AIT"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who maintains files and records for an apprentice in a registered apprenticeship program?",
+      "type": "single_type",
+      "options": [
+        "AIT",
+        "the apprentice",
+        "the employer",
+        "the apprentice, the employer and AIT"
+      ],
+      "correctAnswer": ["AIT"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for ensuring that the apprentice is able to attend technical training?",
+      "type": "single_type",
+      "options": [
+        "the employer",
+        "the Apprenticeship and Industry Training Board",
+        "the apprentice and the employer",
+        "the technical institute or college"
+      ],
+      "correctAnswer": ["the apprentice and the employer"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What is the difference between a compulsory and an optional certification trade?",
+      "type": "single_type",
+      "options": [
+        "Optional certification means that one cannot work at the trade without certification.",
+        "Compulsory certification means that one must be an apprentice or journeyman to work at the trade.",
+        "Compulsory certification means that certification is optional when working at the trade.",
+        "Optional certification means that one must be an apprentice or journeyman to work at the trade."
+      ],
+      "correctAnswer": ["Compulsory certification means that one must be an apprentice or journeyman to work at the trade."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for safety in the workplace?",
+      "type": "single_type",
+      "options": [
+        "the apprentice",
+        "the employer",
+        "the employer and the apprentice"
+      ],
+      "correctAnswer": ["the employer and the apprentice"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for the record book’s maintenance (security, accuracy of information and AIT updating)?",
+      "type": "single_type",
+      "options": [
+        "the apprentice",
+        "the employer",
+        "Apprenticeship and Industry Training",
+        "the Provincial Apprenticeship Committee"
+      ],
+      "correctAnswer": ["the apprentice"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "List three (3) requirements to be fulfilled before a certificate of progress stamp for a particular training period can be awarded in the record book?",
+      "type": "checkbox_type",
+      "options": [
+        "Technical training for that period must be successfully completed.",
+        "Required hours and completion date of that period must be reached.",
+        "The employer must fill out a Record of Work Experience for the training period."
+      ],
+      "correctAnswer": ["Technical training for that period must be successfully completed.", "Required hours and completion date of that period must be reached.", "The employer must fill out a Record of Work Experience for the training period."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for filling in the On-the-Job Tasks Check-Off List inside the record book?",
+      "type": "single_type",
+      "options": [
+        "the apprentice",
+        "the Apprenticeship and Industry Training Board",
+        "the apprentice's direct supervisor or journeyman",
+        "a representative of AIT Client Services branch"
+      ],
+      "correctAnswer": ["the apprentice's direct supervisor or journeyman"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What must the former employer do when you leave their employment?",
+      "type": "single_type",
+      "options": [
+        "Complete the Notice of Release of Contract of Apprenticeship card."
+      ],
+      "correctAnswer": ["Complete the Notice of Release of Contract of Apprenticeship card."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What must the new employer do when you enter their employ?",
+      "type": "single_type",
+      "options": [
+        "Fill out the Notice of Acceptance of Contract of Apprenticeship card."
+      ],
+      "correctAnswer": ["Fill out the Notice of Acceptance of Contract of Apprenticeship card."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What four (4) things must you do when changing employers?",
+      "type": "checkbox_type",
+      "options": [
+        "Ensure that the Blue Book has been filled out and signed off by the former employer.",
+        "Ensure that the former employer has filled out the Notice of Release of Contract of Apprenticeship card.",
+        "Ensure that the new employer has filled out the Notice of Acceptance of Contract of Apprenticeship card.",
+        "Ensure that all documents concerning this transfer of employment are sent to AIT."
+      ],
+      "correctAnswer": ["Ensure that the Blue Book has been filled out and signed off by the former employer.", "Ensure that the former employer has filled out the Notice of Release of Contract of Apprenticeship card.", "Ensure that the new employer has filled out the Notice of Acceptance of Contract of Apprenticeship card.", "Ensure that all documents concerning this transfer of employment are sent to AIT."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for developing the course outline for a trade?",
+      "type": "single_type",
+      "options": [
+        "the training institutes",
+        "the local apprenticeship committee",
+        "the provincial apprenticeship committee",
+        "Alberta Apprenticeship and Industry Training"
+      ],
+      "correctAnswer": ["the provincial apprenticeship committee"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What is the total number of hours in the first period of the example training profile?",
+      "type": "single_type",
+      "options": [
+        "180",
+        "240",
+        "320",
+        "1560"
+      ],
+      "correctAnswer": ["240"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "With reference to the example, how many hours are allocated for the first period section on tools?",
+      "type": "single_type",
+      "options": [
+        "26",
+        "62",
+        "74",
+        "78"
+      ],
+      "correctAnswer": ["78"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What are two (2) purposes of the learning outcomes in a trade course outline?",
+      "type": "checkbox_type",
+      "options": [
+        "The learning outcomes are what the apprentice should be able to achieve after covering the objectives matched to it.",
+        "The learning outcomes give the technical training establishments a strong sense of direction in the development of curriculum materials."
+      ],
+      "correctAnswer": ["The learning outcomes are what the apprentice should be able to achieve after covering the objectives matched to it.", "The learning outcomes give the technical training establishments a strong sense of direction in the development of curriculum materials."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "How are the final apprenticeship written exams formulated?",
+      "type": "single_type",
+      "options": [
+        "They are drawn randomly from a 10,000-question computerized test bank.",
+        "They match the objectives in the trade course outline.",
+        "They are selected by the training establishments.",
+        "Employers generate the exam questions and give them to Alberta Apprenticeship."
+      ],
+      "correctAnswer": ["They match the objectives in the trade course outline."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Name the three (3) participants in the Contract of Apprenticeship.",
+      "type": "single_type",
+      "options": [
+        "the apprentice",
+        "the employer",
+        "Alberta Apprenticeship and Industry Training"
+      ],
+      "correctAnswer": ["the apprentice;the employer;Alberta Apprenticeship and Industry Training"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "To attend back-to-back training sessions, what steps must the apprentice follow?",
+      "type": "checkbox_type",
+      "options": [
+        "You must be in school for one week of the current period before registering for the following back-to-back session. It is also a good idea to communicate with your employer of your intention to attend back-to-back sessions.",
+        "Consult the technical training provider to determine whether training spaces are available.",
+        "Ask that their name is added to the upcoming class list.",
+        "Ensure that their marks are finalized prior to the start of the next class."
+      ],
+      "correctAnswer": ["You must be in school for one week of the current period before registering for the following back-to-back session. It is also a good idea to communicate with your employer of your intention to attend back-to-back sessions.", "Consult the technical training provider to determine whether training spaces are available.", "Ask that their name is added to the upcoming class list.", "Ensure that their marks are finalized prior to the start of the next class."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "How often must an apprentice attend technical training?",
+      "type": "single_type",
+      "options": [
+        "During each period of their apprenticeship.",
+        "After work experience hours are complete.",
+        "Within a one-year period of apprenticing.",
+        "At least once every 24 months."
+      ],
+      "correctAnswer": ["During each period of their apprenticeship."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for submitting the tuition fee for technical training?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The apprentice",
+        "Human resources",
+        "AIT Client Services"
+      ],
+      "correctAnswer": ["The apprentice"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What are two (2) related fields of employment that a tradesperson can work in?",
+      "type": "checkbox_type",
+      "options": [
+        "inspection",
+        "supervision",
+        "sales"
+      ],
+      "correctAnswer": ["inspection", "supervision", "sales"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What is the purpose of the Red Seal program?",
+      "type": "single_type",
+      "options": [
+        "It is a special recognition program for apprentices who achieve an 80% plus average on their technical training.",
+        "The red seal stamp is placed on all journeyman certificates in compulsory certification trades.",
+        "It allows the apprentice to work in any participating province as a journeyman.",
+        "It signifies that advanced time credit has been granted towards the completion of an apprenticeship."
+      ],
+      "correctAnswer": ["It allows the apprentice to work in any participating province as a journeyman."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What is Blue Seal Certification and how does it help apprentices find employment?",
+      "type": "single_type",
+      "options": [
+          "Blue Seal Certification is recognition that an apprentice has the skills needed to succeed in business. It opens up employment opportunities with employers who want employees with business skills and a trade.",
+           "Blue Seal Certification is awarded for excellence in technical skills only.",
+           "Blue Seal Certification guarantees a higher salary for apprentices.",
+           "Blue Seal Certification is a mandatory requirement for all trades.",
+           "Blue Seal Certification is recognition that an apprentice has completed an additional level of safety training."
+      ],
+      "correctAnswer": ["Blue Seal Certification is recognition that an apprentice has the skills needed to succeed in business. It opens up employment opportunities with employers who want employees with business skills and a trade."],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "The powerline technician has four periods of technical training. How many times must an apprentice attend technical training?",
+      "type": "single_type",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctAnswer": ["Three"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "The bricklayer has the following designations.",
+      "type": "single_type",
+      "options": [
+        "Compulsory trade",
+        "Optional status and Red Seal trade",
+        "Optional status",
+        "Red seal"
+      ],
+      "correctAnswer": ["Optional status and Red Seal trade"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "If a local apprenticeship committee (LAC) wanted to make recommend improvements in apprenticeship training. Who would they bring these recommendations to?",
+      "type": "single_type",
+      "options": [
+        "Minister of Advanced Education.",
+        "The local training provider",
+        "The AIT board",
+        "Provincial Advisory Committee (PAC)"
+      ],
+      "correctAnswer": ["Provincial Advisory Committee (PAC)"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Enabling an apprentice to attend technical training is the responsibility of?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The apprentice",
+        "AIT",
+        "The board"
+      ],
+      "correctAnswer": ["The employer"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible to administer the apprenticeship training program in the province of Alberta?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The apprentice",
+        "AIT",
+        "The board"
+      ],
+      "correctAnswer": ["AIT"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible to make sure the record book is kept up to date?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The apprentice",
+        "AIT",
+        "The board"
+      ],
+      "correctAnswer": ["The apprentice"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who must verify the on-the-job hours, identify the apprentices work activities, and evaluate the apprentice’s performance?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The apprentice",
+        "AIT",
+        "The board"
+      ],
+      "correctAnswer": ["The employer"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "When an apprentice has changed jobs, the new employer must fill out?",
+      "type": "single_type",
+      "options": [
+        "Record book",
+        "First aid training requirements",
+        "Notice of release of contract of apprenticeship",
+        "Notice of acceptance of contract of apprenticeship"
+      ],
+      "correctAnswer": ["Notice of acceptance of contract of apprenticeship"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "What governs the amount that an apprentice will be paid according to their period of training?",
+      "type": "single_type",
+      "options": [
+        "Alberta trade regulations",
+        "Course outline",
+        "Training profile",
+        "Learning objectives"
+      ],
+      "correctAnswer": ["Alberta trade regulations"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "The course outline provides the institutes with a guide for amount of time to spend on each topic.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["True"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for making changes to the course outline?",
+      "type": "single_type",
+      "options": [
+        "AIT",
+        "The training provider",
+        "The journeyperson",
+        "PAC"
+      ],
+      "correctAnswer": ["PAC"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "The outcomes of the learning profile are",
+      "type": "single_type",
+      "options": [
+        "How you are assessed on the exam",
+        "There to reinforce the objectives",
+        "Activities that you are paid to do",
+        "A guide for the learning institutes"
+      ],
+      "correctAnswer": ["Activities that you are paid to do"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "At the end of attending technical training what must be completed for the apprentice to progress to the next period of technical training?",
+      "type": "single_type",
+      "options": [
+        "Return to work",
+        "Complete the provincial exam",
+        "Complete the red seal exam",
+        "Complete the blue seal program"
+      ],
+      "correctAnswer": ["Complete the provincial exam"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Every apprentice must take an entrance exam to be eligible to be signed up for an apprenticeship.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "Who is responsible for paying an apprentice’s tuition?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "AIT",
+        "The apprentice",
+        "Parents"
+      ],
+      "correctAnswer": ["The apprentice"],
+      "explanation": ""
+    },
+    {
+      "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
+      "question": "After achieving journey person status, what other certifications within AIT can a journey person attain?",
+      "type": "single_type",
+      "options": [
+        "Other trade qualifications",
+        "Red Seal qualification",
+        "Blue Seal qualification",
+        "All of the above"
+      ],
+      "correctAnswer": ["All of the above"],
+      "explanation": ""
+    }
+  ]
+}

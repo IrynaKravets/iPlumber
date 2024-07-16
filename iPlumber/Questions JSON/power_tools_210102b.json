@@ -1,0 +1,272 @@
+{
+  "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+  "name": "Power Tools",
+  "questions": [
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Guards on bench grinders should cover",
+      "type": "single_type",
+      "options": [
+        "1/4 of the wheel.",
+        "1/3 of the wheel.",
+        "1/2 of the wheel.",
+        "2/3 of the wheel."
+      ],
+      "correctAnswer": ["2/3 of the wheel."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "The gap between the tool rest and the grindstone on a bench grinder should never be more than",
+      "type": "single_type",
+      "options": [
+        "1.6 mm (1/16\").",
+        "3 mm (1/8\").",
+        "6 mm (1/4\").",
+        "12 mm (1/2\")."
+      ],
+      "correctAnswer": ["3 mm (1/8\")."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "A grinding wheel is classified by",
+      "type": "single_type",
+      "options": [
+        "The size and type of abrasive and the type of bonding agent.",
+        "The size and width of the stone.",
+        "The outside diameter and the size of the arbor hole.",
+        "The shape and colour of the wheel."
+      ],
+      "correctAnswer": ["The size and type of abrasive and the type of bonding agent."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "A safety specification to consider when selecting a grinding stone or disc is",
+      "type": "single_type",
+      "options": [
+        "The grit size of the abrasive.",
+        "The type of bonding material used.",
+        "The rpm rating of the stone or disc.",
+        "The size of the tool."
+      ],
+      "correctAnswer": ["The rpm rating of the stone or disc."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "A dressing tool is used for",
+      "type": "single_type",
+      "options": [
+        "Putting a fine finish on ground edges.",
+        "Refacing the surface of grindstones.",
+        "Squaring the tool rest to the grindstone.",
+        "Checking the clearance between the grindstone and the rest."
+      ],
+      "correctAnswer": ["Refacing the surface of grindstones."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Bouncing or heavy vibration of the workpiece when grinding are indications that the grindstone is",
+      "type": "single_type",
+      "options": [
+        "A coarse grit.",
+        "Travelling too fast.",
+        "Out of round.",
+        "Worn out."
+      ],
+      "correctAnswer": ["Out of round."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Before installing a new grindstone, you need to",
+      "type": "single_type",
+      "options": [
+        "Install a flat washer.",
+        "Roll it across the floor to check for out-of-round conditions.",
+        "Inspect the wheel for cracks.",
+        "Lubricate the centre hole."
+      ],
+      "correctAnswer": ["Inspect the wheel for cracks."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "The risk of the drill bit grabbing the work or breaking",
+      "type": "single_type",
+      "options": [
+        "Increases as the bit is breaking through the workpiece.",
+        "Can be avoided by using adequate lubricant.",
+        "Can be minimized by running the drill faster.",
+        "Only occurs when drilling hardened steels."
+      ],
+      "correctAnswer": ["Increases as the bit is breaking through the workpiece."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "A V-block should be used when drilling holes in",
+      "type": "single_type",
+      "options": [
+        "Round material.",
+        "Angle iron.",
+        "Non-ferrous material.",
+        "Items where very accurate hole dimensions are needed."
+      ],
+      "correctAnswer": ["Round material."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Hand drills are rated by the",
+      "type": "single_type",
+      "options": [
+        "Horsepower rating.",
+        "Maximum rpm.",
+        "Depth they can drill.",
+        "Size of the chuck."
+      ],
+      "correctAnswer": ["Size of the chuck."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Tapered shanks are most common on",
+      "type": "single_type",
+      "options": [
+        "Small drill bits.",
+        "Large drill bits.",
+        "Number drill bits.",
+        "Letter drill bits."
+      ],
+      "correctAnswer": ["Large drill bits."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Slots in the drill press table are provided for",
+      "type": "single_type",
+      "options": [
+        "Mounting the drill head.",
+        "Draining the cutting fluid.",
+        "Clamping jigs to the table.",
+        "Securing the column."
+      ],
+      "correctAnswer": ["Clamping jigs to the table."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "A magnetic base drill press is an advantage when:",
+      "type": "single_type",
+      "options": [
+        "Drilling non-ferrous metals.",
+        "Very accurate drilling is required.",
+        "Holes are drilled in the vertical plane.",
+        "The cutting chips need to be recovered."
+      ],
+      "correctAnswer": ["Holes are drilled in the vertical plane."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "The main reason for using templates when forming steel is to",
+      "type": "single_type",
+      "options": [
+        "Maintain accuracy.",
+        "Increase production.",
+        "Eliminate tactical errors.",
+        "Impress your boss with your pattern development skills."
+      ],
+      "correctAnswer": ["Maintain accuracy."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "One advantage of a vertical band saw is that it",
+      "type": "single_type",
+      "options": [
+        "Permits better operator visibility.",
+        "Can be used to cut curves.",
+        "Provides easy access for blade changes.",
+        "Shuts itself off when the cut is completed."
+      ],
+      "correctAnswer": ["Can be used to cut curves."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Safe cutting of angle iron in a cut-off saw requires",
+      "type": "single_type",
+      "options": [
+        "A labourer to do the work.",
+        "One vertical leg of the angle iron against the stationary block of the clamping device.",
+        "One vertical leg of the angle iron against the adjustable block of the clamping device.",
+        "Both legs of the angle iron resting on the tool base."
+      ],
+      "correctAnswer": ["One vertical leg of the angle iron against the stationary block of the clamping device."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Air tool governors would most likely be found on",
+      "type": "single_type",
+      "options": [
+        "Grinders.",
+        "Chipping hammers.",
+        "Screwdrivers.",
+        "Impact wrenches."
+      ],
+      "correctAnswer": ["Grinders."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Which of the following is the most important to consider in maintenance of a chipping hammer?",
+      "type": "single_type",
+      "options": [
+        "Blades.",
+        "Piston.",
+        "End plates.",
+        "All of the above."
+      ],
+      "correctAnswer": ["Piston."],
+      "explanation": ""
+    },
+    {
+      "id": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "topicId": "0086c556-5b1b-4ca3-a1e2-91f1aed75b57",
+      "question": "Most air tools are designed to operate at",
+      "type": "single_type",
+      "options": [
+        "60 psi of air pressure.",
+        "70 psi of air pressure.",
+        "80 psi of air pressure.",
+        "90 psi of air pressure."
+      ],
+      "correctAnswer": ["90 psi of air pressure."],
+      "explanation": ""
+    }
+  ]
+}

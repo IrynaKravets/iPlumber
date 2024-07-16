@@ -1,0 +1,339 @@
+{
+  "id": "14216f52-4208-11ef-ad1e-12cb12165fd3",
+  "name": "Climbing, Lifting, Rigging and Hoisting",
+  "questions": [
+    {
+      "id": "14218fe6-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14218fe6-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is the maximum weight a worker is permitted to manually lift on the job according to Alberta laws?",
+      "type": "single_type",
+      "options": ["25 lbs", "25 kgs", "70 lbs", "There is no specific law regarding the maximum weight a worker can lift."],
+      "correctAnswer": ["There is no specific law regarding the maximum weight a worker can lift."],
+      "explanation": ""
+    },
+    {
+      "id": "1421a1c0-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1421a1c0-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which term describes lifting an object that is too far away from your abdomen increasing the risk of injury?",
+      "type": "single_type",
+      "options": ["Underextension", "Overextension", "Hyperextension", "Flexion"],
+      "correctAnswer": ["Overextension"],
+      "explanation": ""
+    },
+    {
+      "id": "1421bdcc-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1421bdcc-4208-11ef-ad1e-12cb12165fd3",
+      "question": "When performing a manual lift, putting the object down involves the same technique as lifting the load, only in the reverse order.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": ""
+    },
+    {
+      "id": "1421c3d0-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1421c3d0-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is the safety factor for general rigging and hoisting operations?",
+      "type": "single_type",
+      "options": ["20:1", "10:1", "5:1", "2:1"],
+      "correctAnswer": ["5:1"],
+      "explanation": ""
+    },
+    {
+      "id": "1421c79a-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1421c79a-4208-11ef-ad1e-12cb12165fd3",
+      "question": "All the following are recognized synthetic fibre web sling configurations except",
+      "type": "single_type",
+      "options": ["Triangle and choker fitting", "Reverse endless return fitting", "Return eye sling", "Endless or grommet sling"],
+      "correctAnswer": ["Reverse endless return fitting"],
+      "explanation": ""
+    },
+    {
+      "id": "1421f1ca-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1421f1ca-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What are the two most common materials used to manufacture wire rope slings?",
+      "type": "single_type",
+      "options": ["Nylon and polyester", "Tungsten and titanium", "Cadmium and nickel", "Carbon steel and stainless steel"],
+      "correctAnswer": ["Carbon steel and stainless steel"],
+      "explanation": ""
+    },
+    {
+      "id": "1422048a-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1422048a-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which type of triangle is formed when using the recommended safe lifting angle for sling legs?",
+      "type": "single_type",
+      "options": ["Equilateral", "Isosceles", "Right", "Scalene"],
+      "correctAnswer": ["Equilateral"],
+      "explanation": ""
+    },
+    {
+      "id": "142209b2-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "142209b2-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Select the most commonly used shackle.",
+      "type": "single_type",
+      "options": ["Safety type chain shackle", "Round pin chain shackle", "Screw pin anchor shackle", "Round pin anchor shackle"],
+      "correctAnswer": ["Screw pin anchor shackle"],
+      "explanation": ""
+    },
+    {
+      "id": "1422125e-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1422125e-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Select the device often used to support long loads that are difficult to handle while being hoisted?",
+      "type": "single_type",
+      "options": ["A swivel", "A spreader bar", "An eyebolt", "A snatch block"],
+      "correctAnswer": ["A spreader bar"],
+      "explanation": ""
+    },
+    {
+      "id": "14221754-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14221754-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which sling configuration is rated for the least lifting capacity?",
+      "type": "single_type",
+      "options": [
+        "Single vertical hitch",
+        "Basket hitch",
+        "Choker hitch",
+        "These configurations all have the same lifting capacity."
+      ],
+      "correctAnswer": ["Choker hitch"],
+      "explanation": ""
+    },
+    {
+      "id": "142219c0-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "142219c0-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which sling configuration is the safest choice for moving a loose bundle of pipe while providing the greatest lifting capacity?",
+      "type": "single_type",
+      "options": [
+        "Single basket hitch",
+        "Single choker hitch",
+        "Double choker hitch",
+        "Double wrap basket hitch"
+      ],
+      "correctAnswer": ["Double wrap basket hitch"],
+      "explanation": ""
+    },
+    {
+      "id": "14221b6e-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14221b6e-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which motion is used to signal an 'emergency stop' to the crane operator?",
+      "type": "single_type",
+      "options": [
+        "Both arms are swept out from the body at shoulder height.",
+        "Closed fist with thumb up.",
+        "Point the forefinger down and rotate hand.",
+        "Make fists with outstretched thumbs and motion thumbs towards each other."
+      ],
+      "correctAnswer": ["Both arms are swept out from the body at shoulder height."],
+      "explanation": ""
+    },
+    {
+      "id": "14221e16-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14221e16-4208-11ef-ad1e-12cb12165fd3",
+      "question": "At what height must an employer have a guardrail erected for a temporary work area?",
+      "type": "single_type",
+      "options": [
+        "2.4 m (8 ft)",
+        "3.0 m (10 ft)",
+        "3.7 m (12 ft)",
+        "4.2 m (14 ft)"
+      ],
+      "correctAnswer": ["3.0 m (10 ft)"],
+      "explanation": ""
+    },
+    {
+      "id": "1422203c-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1422203c-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Which scaffold system component is designed to prevent objects such as tools and materials from falling?",
+      "type": "single_type",
+      "options": [
+        "Toeboard",
+        "Brace",
+        "Mud sill",
+        "Transom"
+      ],
+      "correctAnswer": ["Toeboard"],
+      "explanation": ""
+    },
+    {
+      "id": "14222564-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222564-4208-11ef-ad1e-12cb12165fd3",
+      "question": "Your full body harness was accidentally soaked with a corrosive chemical. What should you do?",
+      "type": "single_type",
+      "options": [
+        "Switch it with a co-worker’s harness.",
+        "Give it to your apprentice and buy a new one.",
+        "Destroy it or return it to the manufacturer.",
+        "Wash and dry it."
+      ],
+      "correctAnswer": ["Destroy it or return it to the manufacturer."],
+      "explanation": ""
+    },
+    {
+      "id": "14222802-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222802-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What standard must a full body harness meet if manufactured on or after July 1, 2009?",
+      "type": "single_type",
+      "options": [
+        "WCB",
+        "ULC",
+        "PPE",
+        "CSA"
+      ],
+      "correctAnswer": ["CSA"],
+      "explanation": ""
+    },
+    {
+      "id": "14222974-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222974-4208-11ef-ad1e-12cb12165fd3",
+      "question": "How often must you inspect your fall arrest equipment?",
+      "type": "single_type",
+      "options": [
+        "Before use on the first shift of the week.",
+        "Before use on the first shift of the month.",
+        "Before use on each shift.",
+        "Only after the equipment has been used to protect you from a fall."
+      ],
+      "correctAnswer": ["Before use on each shift."],
+      "explanation": ""
+    },
+    {
+      "id": "14222adc-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222adc-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is the minimum distance a ladder must protrude above the intended landing point?",
+      "type": "single_type",
+      "options": [
+        "0.3 m (1 ft)",
+        "1 m (3 ft)",
+        "¼ the length of the ladder",
+        "¼ the distance of the base of the ladder from the base of the wall or structure"
+      ],
+      "correctAnswer": ["1 m (3 ft)"],
+      "explanation": ""
+    },
+    {
+      "id": "14222c44-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222c44-4208-11ef-ad1e-12cb12165fd3",
+      "question": "The safety factor for a scaffold must be designed and constructed to support at least how many times the load that may be imposed on it?",
+      "type": "single_type",
+      "options": [
+        "Three times",
+        "Four times",
+        "Five times",
+        "Six times"
+      ],
+      "correctAnswer": ["Five times"],
+      "explanation": ""
+    },
+    {
+      "id": "14222d84-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222d84-4208-11ef-ad1e-12cb12165fd3",
+      "question": "When conducting a hazard assessment related to lifting and handling a load, your employer must consider which of the following?",
+      "type": "single_type",
+      "options": [
+        "Weight, size, and shape of the load",
+        "Cost of renting moving equipment",
+        "Insured value of the load to be moved",
+        "Number of people required to move the load"
+      ],
+      "correctAnswer": ["Weight, size, and shape of the load"],
+      "explanation": ""
+    },
+    {
+      "id": "14222ec4-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14222ec4-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is not an example of a recommended lifting technique?",
+      "type": "single_type",
+      "options": [
+        "Avoid awkward postures",
+        "Lift loads smoothly",
+        "Lift no higher than eye level",
+        "Begin lifting at knee level"
+      ],
+      "correctAnswer": ["Lift no higher than eye level"],
+      "explanation": ""
+    },
+    {
+      "id": "14223054-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14223054-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is the goal of proper lifting technique?",
+      "type": "single_type",
+      "options": [
+        "To constantly practice lifting to become more skilled.",
+        "To increase lifting efficiency and capacity with practice.",
+        "To increase the number of lifts performed per day.",
+        "To eliminate loading stresses on the soft tissue of your lower back."
+      ],
+      "correctAnswer": ["To eliminate loading stresses on the soft tissue of your lower back."],
+      "explanation": ""
+    },
+    {
+      "id": "142231bc-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "142231bc-4208-11ef-ad1e-12cb12165fd3",
+      "question": "How is working load limit (WLL) defined?",
+      "type": "single_type",
+      "options": [
+        "Breaking strength divided by the safety factor",
+        "Safety factor divided by the breaking strength",
+        "The ultimate tensile strength (UTS)",
+        "The safest way to move and lower a load"
+      ],
+      "correctAnswer": ["Breaking strength divided by the safety factor"],
+      "explanation": ""
+    },
+    {
+      "id": "14223306-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "14223306-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What does the term shock loading mean when applied to rigging equipment?",
+      "type": "single_type",
+      "options": [
+        "A stray spark from a work operation occurs when the sling has load applied to it.",
+        "The sling is exposed to stress by having the load suddenly started or stopped.",
+        "The sling comes into contact with an electrical conductor when the sling is loaded.",
+        "The sling is used as an electrical conductor to connect to a load sensor in the lifting equipment."
+      ],
+      "correctAnswer": ["The sling is exposed to stress by having the load suddenly started or stopped."],
+      "explanation": ""
+    },
+    {
+      "id": "1422345a-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1422345a-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What rigging factor of safety is to be used when lifting and transporting workers?",
+      "type": "single_type",
+      "options": [
+        "2:1",
+        "5:1",
+        "10:1",
+        "20:1"
+      ],
+      "correctAnswer": ["10:1"],
+      "explanation": ""
+    },
+    {
+      "id": "1422359a-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "1422359a-4208-11ef-ad1e-12cb12165fd3",
+      "question": "How often must rigging be inspected?",
+      "type": "single_type",
+      "options": [
+        "When first put into service and every three months after that",
+        "At the beginning of each work shift",
+        "At the beginning of the first shift of the month",
+        "At the beginning of the first shift of the week"
+      ],
+      "correctAnswer": ["At the beginning of each work shift"],
+      "explanation": ""
+    },
+    {
+      "id": "142236da-4208-11ef-ad1e-12cb12165fd3",
+      "topicId": "142236da-4208-11ef-ad1e-12cb12165fd3",
+      "question": "What is the recommended sling angle when rigging a load?",
+      "type": "single_type",
+      "options": [
+        "Never greater than 45°",
+        "Never less than 45°",
+        "Never greater than 60°",
+        "Never less than 60°"
+      ],
+      "correctAnswer": ["Never less than 60°"],
+      "explanation": ""
+    }
+  ]
+}

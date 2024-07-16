@@ -1,0 +1,478 @@
+{
+  "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+  "name": "Safety Legislation, Regulations, and Industry Policy in The Trades",
+  "questions": [
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What Part and Section of the OHS Code describes the code of practice for working in confined spaces?",
+      "type": "single_type",
+      "options": [
+        "Part 2, Section 44",
+        "Part 3, Section 44",
+        "Part 4, Section 44",
+        "Part 5, Section 44"
+      ],
+      "correctAnswer": ["Part 5, Section 44"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What Part and Section of the OHS Code describes the use of a full body harness?",
+      "type": "single_type",
+      "options": [
+        "Part 8, Section 135",
+        "Part 9, Section 142",
+        "Part 10, Section 167",
+        "Part 11, Section 180"
+      ],
+      "correctAnswer": ["Part 9, Section 142"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Section 217.1 states that infractions could result in criminal charges under the Criminal Code of Canada.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["True"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "The Workers Compensation Board is a government funded profit-based corporation.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What are the three elements of fire often present in the workplace?",
+      "type": "single_type",
+      "options": [
+        "Air, gas, and sparks",
+        "Oxygen, fuel, and heat",
+        "Oxygen, compressed gas, and ignition",
+        "Air, fuel, and ignition"
+      ],
+      "correctAnswer": ["Oxygen, fuel, and heat"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Employers must report accidents to the WCB within _____ hours of the incident.",
+      "type": "single_type",
+      "options": [
+        "24",
+        "48",
+        "72",
+        "6"
+      ],
+      "correctAnswer": ["72"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What are the four categories of workplace hazards?",
+      "type": "single_type",
+      "options": [
+        "Ecological, chemical, ergonomic, physical",
+        "Biological, chemical, ergonomic, physical",
+        "Biological, ecological, chemical, physical",
+        "Chemical, physical, psychological, ecological"
+      ],
+      "correctAnswer": ["Biological, chemical, ergonomic, physical"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "According to OHS, what control provides the highest level of worker protection?",
+      "type": "single_type",
+      "options": [
+        "PPE",
+        "Administrative",
+        "Engineering",
+        "Toolbox meetings"
+      ],
+      "correctAnswer": ["Engineering"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "How long are employers expected to retain first aid and incident reports?",
+      "type": "single_type",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Three years"
+      ],
+      "correctAnswer": ["Three years"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What are the first aid requirements for low hazard work at a close work site with five to nine workers at the work site per shift?",
+      "type": "single_type",
+      "options": [
+        "One emergency first aider, one standard first aider, No. 2 first and kit, three blankets",
+        "Two standard first aiders, No. 2 first aid kit, three blankets",
+        "Two standard first aiders, No. 3 first aid kit, three blankets, stretcher, splint",
+        "One emergency first aider, one standard first aider, No. 2 first aid kit"
+      ],
+      "correctAnswer": ["One emergency first aider, one standard first aider, No. 2 first aid kit"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "OHS classifies a work site as 'isolated' if it is located more than ____ minutes from a health care facility.",
+      "type": "single_type",
+      "options": [
+        "10",
+        "20",
+        "40",
+        "60"
+      ],
+      "correctAnswer": ["40"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Who is responsible to ensure that a worker uses PPE at the worksite?",
+      "type": "single_type",
+      "options": [
+        "The worker",
+        "The supervisor",
+        "The general contractor",
+        "OHS"
+      ],
+      "correctAnswer": ["The worker"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Who is responsible to ensure work site emergency response plans remain up to date?",
+      "type": "single_type",
+      "options": [
+        "The employer",
+        "The employer and the employees",
+        "The employees",
+        "The OHS inspector"
+      ],
+      "correctAnswer": ["The employer and the employees"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "At what decibel level does hearing protection become mandatory?",
+      "type": "single_type",
+      "options": [
+        "65 dBA",
+        "85 dBA",
+        "100 dBA",
+        "115 dBA"
+      ],
+      "correctAnswer": ["115 dBA"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "When a work site hazard assessment identifies that workers are required to wear PPE what is your employer’s responsibility?",
+      "type": "single_type",
+      "options": [
+        "Ensure all workers are informed about the need to wear PPE.",
+        "Ensure all workers properly use and wear the required PPE.",
+        "Put up posters indicating a hazard assessment has identified that PPE is required.",
+        "Ensure all workers are provided with funding to purchase required PPE."
+      ],
+      "correctAnswer": ["Ensure all workers properly use and wear the required PPE."],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is a characteristic of protective footwear with a yellow triangle on the outer side or tongue of the right shoe?",
+      "type": "single_type",
+      "options": [
+        "Sole puncture protection and Grade 2 protective toe (will withstand impact up to 90 Joules)",
+        "Soles that provide electrical shock protection and a Grade 2 protective toe (will withstand impact up to 90 Joules)",
+        "Sole puncture protection and Grade 1 protective toe (will withstand impact up to 125 Joules)",
+        "Soles that provide electrical shock protection and a Grade 1 protective toe (will withstand impact up to 125 Joules)"
+      ],
+      "correctAnswer": ["Sole puncture protection and Grade 2 protective toe (will withstand impact up to 90 Joules)"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Which class of industrial safety headwear provides the best protection from electrical shock in addition to impact and penetration resistance?",
+      "type": "single_type",
+      "options": [
+        "Class G",
+        "Class E",
+        "Class C",
+        "Class A"
+      ],
+      "correctAnswer": ["Class E"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What Part and Section of the OHS Code describes the membership of a joint worksite health and safety committee?",
+      "type": "single_type",
+      "options": [
+        "Part 12, Section 197",
+        "Part 13, Section 197",
+        "Part 14, Section 197",
+        "Part 15, Section 197"
+      ],
+      "correctAnswer": ["Part 13, Section 197"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What Part and Section of the OHS Code describes the requirements and options for protective footwear?",
+      "type": "single_type",
+      "options": [
+        "Part 18, Section 229",
+        "Part 18, Section 232",
+        "Part 18, Section 233",
+        "Part 18, Section 236"
+      ],
+      "correctAnswer": ["Part 18, Section 233"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What Part and Section of the OHS Code describes the requirements for worker training about WHMIS?",
+      "type": "single_type",
+      "options": [
+        "Part 29, Section 394",
+        "Part 29, Section 395",
+        "Part 29, Section 396",
+        "Part 29, Section 397"
+      ],
+      "correctAnswer": ["Part 29, Section 397"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is an employer responsibility regarding hazard assessment at the work site?",
+      "type": "single_type",
+      "options": [
+        "To provide easy and immediate access for any worker to the OHS Act, Regulation and Code at the work site",
+        "To ensure suppliers are aware of their responsibility to provide necessary information on any hazards related to their products",
+        "To develop a plan to eliminate or control any hazard identified at the work site",
+        "To ensure all workers participate in daily meetings to inspect their tools and plan their work"
+      ],
+      "correctAnswer": ["To develop a plan to eliminate or control any hazard identified at the work site"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "How is the Workers’ Compensation Board of Alberta funded?",
+      "type": "single_type",
+      "options": [
+        "100% of the funding for the WCB comes from employers in Alberta.",
+        "75% of the funding for the WCB comes from employers and 25% comes from the provincial government.",
+        "50% of the funding for the WCB comes from employers, 25% from the provincial government and 25% from employees.",
+        "33% of the funding for the WCB comes from employers, 34% from the provincial government and 33% from employees."
+      ],
+      "correctAnswer": ["100% of the funding for the WCB comes from employers in Alberta."],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is an example of an engineering control for worker protection?",
+      "type": "single_type",
+      "options": [
+        "Renovation",
+        "Subdivision",
+        "Isolation",
+        "Activation"
+      ],
+      "correctAnswer": ["Isolation"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "When is an administrative control put in place for worker protection?",
+      "type": "single_type",
+      "options": [
+        "To identify the correct personal protective equipment to be used in a hazardous situation",
+        "To document the details of the implementation of an engineering control",
+        "When an engineering control cannot eliminate or control a hazard",
+        "To isolate a hazard through containment or enclosure"
+      ],
+      "correctAnswer": ["When an engineering control cannot eliminate or control a hazard"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Who is responsible to have an emergency response plan in place at the work site?",
+      "type": "single_type",
+      "options": [
+        "Employees",
+        "OHS inspectors",
+        "Joint work site health and safety committee",
+        "Employers"
+      ],
+      "correctAnswer": ["Employers"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What part of the OHS Code covers first aid requirements at the work site?",
+      "type": "single_type",
+      "options": [
+        "Part 10",
+        "Part 11",
+        "Part 12",
+        "Part 13"
+      ],
+      "correctAnswer": ["Part 11"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What must your employer do if first aid supplies are stored in secure containers at the work site?",
+      "type": "single_type",
+      "options": [
+        "Ensure the containers are clearly marked to indicate their contents.",
+        "Ensure the containers are stored in a dust proof environment.",
+        "Ensure the containers are not stacked more than 3 layers high.",
+        "Ensure the containers are inspected monthly to ensure contents are safe."
+      ],
+      "correctAnswer": ["Ensure the containers are clearly marked to indicate their contents."],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What number and type of first aiders must your employer ensure are present at an isolated work site with low hazard assessment rating and 65 workers at the work site per shift?",
+      "type": "single_type",
+      "options": [
+        "One Standard First Aider",
+        "One Standard First Aider and one Emergency First Aider",
+        "Two Standard First Aiders",
+        "Two Standard First Aiders and one Emergency First Aider"
+      ],
+      "correctAnswer": ["Two Standard First Aiders"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is the duty to use personal protective equipment according to the Alberta OHS Code?",
+      "type": "single_type",
+      "options": [
+        "A clause that must be included in the employment contract of every construction worker in Alberta",
+        "A sign that must be posted at the entrance to any work site where PPE is required",
+        "The part of the OHS Code that describes the different types of PPE to be used on the work site",
+        "What you and your employer must do if a hazard assessment identifies the need for the use of PPE"
+      ],
+      "correctAnswer": ["What you and your employer must do if a hazard assessment identifies the need for the use of PPE"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "When a work site hazard assessment identifies that workers are required to wear PPE, what is your employer’s responsibility?",
+      "type": "single_type",
+      "options": [
+        "Ensure all workers are informed about the need to wear PPE.",
+        "Ensure all workers properly use and wear the required PPE.",
+        "Put up posters indicating a hazard assessment has identified that PPE is required.",
+        "Ensure all workers are provided with funding to purchase required PPE."
+      ],
+      "correctAnswer": ["Ensure all workers properly use and wear the required PPE."],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is an employee responsibility with regard to the use of PPE?",
+      "type": "single_type",
+      "options": [
+        "To inspect your PPE once a month",
+        "To modify poor fitting PPE so it fits properly",
+        "To inspect your PPE prior to each use",
+        "To wear your PPE only when you sense an accident may happen"
+      ],
+      "correctAnswer": ["To inspect your PPE prior to each use"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "Industrial protective headwear must comply with what standard?",
+      "type": "single_type",
+      "options": [
+        "ULC",
+        "PPE",
+        "WCB",
+        "CSA"
+      ],
+      "correctAnswer": ["CSA"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "What is not an obligation your employer assumes when a hazard assessment indicates the need for PPE?",
+      "type": "single_type",
+      "options": [
+        "To post a Duty to Use Personal Protective Equipment sign at all entrances to the worksite",
+        "To ensure employees are trained in the use, care, limitations, and maintenance of their PPE",
+        "To ensure workers properly use and wear PPE",
+        "To ensure the PPE is in a condition to perform the function intended"
+      ],
+      "correctAnswer": ["To post a Duty to Use Personal Protective Equipment sign at all entrances to the worksite"],
+      "explanation": ""
+    },
+    {
+      "id": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "topicId": "b3e1f4d2-1a2b-4b1c-9f7a-2f84534e6a53",
+      "question": "In what situation is your employer obligated to provide you with proper PPE according the OHS Code?",
+      "type": "single_type",
+      "options": [
+        "When required PPE must be replaced more frequently than once a year",
+        "When required PPE must be replaced more frequently than once every 2 years",
+        "When workers are exposed to respiratory hazard or excessive noise levels",
+        "When workers are exposed to respiratory hazards only"
+      ],
+      "correctAnswer": ["When workers are exposed to respiratory hazard or excessive noise levels"],
+      "explanation": ""
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C200420A2C3F74E1003205EF /* iPlumberApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042092C3F74E1003205EF /* iPlumberApp.swift */; };
+		C200420E2C3F74E6003205EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C200420D2C3F74E6003205EF /* Assets.xcassets */; };
+		C20042112C3F74E6003205EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C20042102C3F74E6003205EF /* Preview Assets.xcassets */; };
+		C200421B2C3F74E6003205EF /* iPlumberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200421A2C3F74E6003205EF /* iPlumberTests.swift */; };
+		C20042252C3F74E6003205EF /* iPlumberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042242C3F74E6003205EF /* iPlumberUITests.swift */; };
+		C20042272C3F74E6003205EF /* iPlumberUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042262C3F74E6003205EF /* iPlumberUITestsLaunchTests.swift */; };
+		C200423E2C3F76E6003205EF /* QuestionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200423D2C3F76E6003205EF /* QuestionView.swift */; };
+		C20042402C3F7736003205EF /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200423F2C3F7736003205EF /* ResultView.swift */; };
+		C20042482C3F7FA1003205EF /* threaded_and_grooved_pipe.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */; };
+		C20042542C3F9435003205EF /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042532C3F9435003205EF /* Question.swift */; };
+		C20042592C4323EC003205EF /* TopicsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042582C4323EC003205EF /* TopicsViewModel.swift */; };
+		C200425D2C43243E003205EF /* TopicListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200425C2C43243E003205EF /* TopicListView.swift */; };
+		C200425F2C432458003205EF /* TopicDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200425E2C432458003205EF /* TopicDetailView.swift */; };
+		C20042612C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */; };
+		C20042652C4324F3003205EF /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042642C4324F3003205EF /* DateFormatter.swift */; };
+		C20042672C4326B8003205EF /* TestViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C20042662C4326B8003205EF /* TestViewModel.swift */; };
+		C20042692C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042682C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json */; };
+		C200426B2C43330F003205EF /* UserDefaultsKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200426A2C43330F003205EF /* UserDefaultsKeys.swift */; };
+		C200426D2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json in Resources */ = {isa = PBXBuildFile; fileRef = C200426C2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json */; };
+		C200426F2C445898003205EF /* QuestionView_Previews.swift in Sources */ = {isa = PBXBuildFile; fileRef = C200426E2C445898003205EF /* QuestionView_Previews.swift */; };
+		C20042712C44C297003205EF /* apprenticeship_training_program_210101d.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042702C44C297003205EF /* apprenticeship_training_program_210101d.json */; };
+		C20042752C44D9FC003205EF /* electrical_safety_210101f.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042742C44D9FC003205EF /* electrical_safety_210101f.json */; };
+		C20042772C44E3AA003205EF /* pipe_trades_codes_210101e.json in Resources */ = {isa = PBXBuildFile; fileRef = C20042762C44E3AA003205EF /* pipe_trades_codes_210101e.json */; };
+		C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */; };
+		C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */; };
+		C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */; };
+		C2F4C7C72C46EA3D00AA3437 /* Section.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7C62C46EA3D00AA3437 /* Section.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C20042172C3F74E6003205EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C20041FE2C3F74E1003205EF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20042052C3F74E1003205EF;
+			remoteInfo = iPlumber;
+		};
+		C20042212C3F74E6003205EF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C20041FE2C3F74E1003205EF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C20042052C3F74E1003205EF;
+			remoteInfo = iPlumber;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C20042062C3F74E1003205EF /* iPlumber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iPlumber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C20042092C3F74E1003205EF /* iPlumberApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPlumberApp.swift; sourceTree = "<group>"; };
+		C200420D2C3F74E6003205EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C20042102C3F74E6003205EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C20042162C3F74E6003205EF /* iPlumberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPlumberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C200421A2C3F74E6003205EF /* iPlumberTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPlumberTests.swift; sourceTree = "<group>"; };
+		C20042202C3F74E6003205EF /* iPlumberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iPlumberUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C20042242C3F74E6003205EF /* iPlumberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPlumberUITests.swift; sourceTree = "<group>"; };
+		C20042262C3F74E6003205EF /* iPlumberUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPlumberUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C200423D2C3F76E6003205EF /* QuestionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView.swift; sourceTree = "<group>"; };
+		C200423F2C3F7736003205EF /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = threaded_and_grooved_pipe.json; sourceTree = "<group>"; };
+		C20042532C3F9435003205EF /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		C20042582C4323EC003205EF /* TopicsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicsViewModel.swift; sourceTree = "<group>"; };
+		C200425C2C43243E003205EF /* TopicListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicListView.swift; sourceTree = "<group>"; };
+		C200425E2C432458003205EF /* TopicDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicDetailView.swift; sourceTree = "<group>"; };
+		C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = safety_legislation_regulations_industry_policy_in_the_trades_210101a.json; sourceTree = "<group>"; };
+		C20042642C4324F3003205EF /* DateFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatter.swift; sourceTree = "<group>"; };
+		C20042662C4326B8003205EF /* TestViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewModel.swift; sourceTree = "<group>"; };
+		C20042682C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hazardous_materials_and_fire_protection_210101c.json; sourceTree = "<group>"; };
+		C200426A2C43330F003205EF /* UserDefaultsKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsKeys.swift; sourceTree = "<group>"; };
+		C200426C2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = climbing_lifting_rigging_hoisting_210101b.json; sourceTree = "<group>"; };
+		C200426E2C445898003205EF /* QuestionView_Previews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionView_Previews.swift; sourceTree = "<group>"; };
+		C20042702C44C297003205EF /* apprenticeship_training_program_210101d.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = apprenticeship_training_program_210101d.json; sourceTree = "<group>"; };
+		C20042742C44D9FC003205EF /* electrical_safety_210101f.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = electrical_safety_210101f.json; sourceTree = "<group>"; };
+		C20042762C44E3AA003205EF /* pipe_trades_codes_210101e.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pipe_trades_codes_210101e.json; sourceTree = "<group>"; };
+		C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hand_tools_210102a.json; sourceTree = "<group>"; };
+		C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = power_tools_210102b.json; sourceTree = "<group>"; };
+		C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welded_pipe_and_fittings_210102c.json; sourceTree = "<group>"; };
+		C2F4C7C62C46EA3D00AA3437 /* Section.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Section.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C20042032C3F74E1003205EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C20042132C3F74E6003205EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C200421D2C3F74E6003205EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C20041FD2C3F74E1003205EF = {
+			isa = PBXGroup;
+			children = (
+				C20042082C3F74E1003205EF /* iPlumber */,
+				C20042192C3F74E6003205EF /* iPlumberTests */,
+				C20042232C3F74E6003205EF /* iPlumberUITests */,
+				C20042072C3F74E1003205EF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C20042072C3F74E1003205EF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C20042062C3F74E1003205EF /* iPlumber.app */,
+				C20042162C3F74E6003205EF /* iPlumberTests.xctest */,
+				C20042202C3F74E6003205EF /* iPlumberUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C20042082C3F74E1003205EF /* iPlumber */ = {
+			isa = PBXGroup;
+			children = (
+				C20042552C430F14003205EF /* Questions JSON */,
+				C20042092C3F74E1003205EF /* iPlumberApp.swift */,
+				C200425C2C43243E003205EF /* TopicListView.swift */,
+				C200425E2C432458003205EF /* TopicDetailView.swift */,
+				C20042582C4323EC003205EF /* TopicsViewModel.swift */,
+				C20042532C3F9435003205EF /* Question.swift */,
+				C200423D2C3F76E6003205EF /* QuestionView.swift */,
+				C200423F2C3F7736003205EF /* ResultView.swift */,
+				C20042642C4324F3003205EF /* DateFormatter.swift */,
+				C200420D2C3F74E6003205EF /* Assets.xcassets */,
+				C200420F2C3F74E6003205EF /* Preview Content */,
+				C20042662C4326B8003205EF /* TestViewModel.swift */,
+				C200426A2C43330F003205EF /* UserDefaultsKeys.swift */,
+				C2F4C7C62C46EA3D00AA3437 /* Section.swift */,
+			);
+			path = iPlumber;
+			sourceTree = "<group>";
+		};
+		C200420F2C3F74E6003205EF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C20042102C3F74E6003205EF /* Preview Assets.xcassets */,
+				C200426E2C445898003205EF /* QuestionView_Previews.swift */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C20042192C3F74E6003205EF /* iPlumberTests */ = {
+			isa = PBXGroup;
+			children = (
+				C200421A2C3F74E6003205EF /* iPlumberTests.swift */,
+			);
+			path = iPlumberTests;
+			sourceTree = "<group>";
+		};
+		C20042232C3F74E6003205EF /* iPlumberUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C20042242C3F74E6003205EF /* iPlumberUITests.swift */,
+				C20042262C3F74E6003205EF /* iPlumberUITestsLaunchTests.swift */,
+			);
+			path = iPlumberUITests;
+			sourceTree = "<group>";
+		};
+		C20042552C430F14003205EF /* Questions JSON */ = {
+			isa = PBXGroup;
+			children = (
+				C20042602C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json */,
+				C200426C2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json */,
+				C20042682C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json */,
+				C20042702C44C297003205EF /* apprenticeship_training_program_210101d.json */,
+				C20042762C44E3AA003205EF /* pipe_trades_codes_210101e.json */,
+				C20042742C44D9FC003205EF /* electrical_safety_210101f.json */,
+				C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */,
+				C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */,
+				C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */,
+				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */,
+			);
+			path = "Questions JSON";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C20042052C3F74E1003205EF /* iPlumber */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C200422A2C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumber" */;
+			buildPhases = (
+				C20042022C3F74E1003205EF /* Sources */,
+				C20042032C3F74E1003205EF /* Frameworks */,
+				C20042042C3F74E1003205EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPlumber;
+			productName = iPlumber;
+			productReference = C20042062C3F74E1003205EF /* iPlumber.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C20042152C3F74E6003205EF /* iPlumberTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C200422D2C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumberTests" */;
+			buildPhases = (
+				C20042122C3F74E6003205EF /* Sources */,
+				C20042132C3F74E6003205EF /* Frameworks */,
+				C20042142C3F74E6003205EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C20042182C3F74E6003205EF /* PBXTargetDependency */,
+			);
+			name = iPlumberTests;
+			productName = iPlumberTests;
+			productReference = C20042162C3F74E6003205EF /* iPlumberTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C200421F2C3F74E6003205EF /* iPlumberUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C20042302C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumberUITests" */;
+			buildPhases = (
+				C200421C2C3F74E6003205EF /* Sources */,
+				C200421D2C3F74E6003205EF /* Frameworks */,
+				C200421E2C3F74E6003205EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C20042222C3F74E6003205EF /* PBXTargetDependency */,
+			);
+			name = iPlumberUITests;
+			productName = iPlumberUITests;
+			productReference = C20042202C3F74E6003205EF /* iPlumberUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C20041FE2C3F74E1003205EF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					C20042052C3F74E1003205EF = {
+						CreatedOnToolsVersion = 15.4;
+					};
+					C20042152C3F74E6003205EF = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = C20042052C3F74E1003205EF;
+					};
+					C200421F2C3F74E6003205EF = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = C20042052C3F74E1003205EF;
+					};
+				};
+			};
+			buildConfigurationList = C20042012C3F74E1003205EF /* Build configuration list for PBXProject "iPlumber" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C20041FD2C3F74E1003205EF;
+			productRefGroup = C20042072C3F74E1003205EF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C20042052C3F74E1003205EF /* iPlumber */,
+				C20042152C3F74E6003205EF /* iPlumberTests */,
+				C200421F2C3F74E6003205EF /* iPlumberUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C20042042C3F74E1003205EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */,
+				C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */,
+				C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */,
+				C20042712C44C297003205EF /* apprenticeship_training_program_210101d.json in Resources */,
+				C20042482C3F7FA1003205EF /* threaded_and_grooved_pipe.json in Resources */,
+				C20042612C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json in Resources */,
+				C200426D2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json in Resources */,
+				C20042112C3F74E6003205EF /* Preview Assets.xcassets in Resources */,
+				C20042692C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json in Resources */,
+				C20042752C44D9FC003205EF /* electrical_safety_210101f.json in Resources */,
+				C200420E2C3F74E6003205EF /* Assets.xcassets in Resources */,
+				C20042772C44E3AA003205EF /* pipe_trades_codes_210101e.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C20042142C3F74E6003205EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C200421E2C3F74E6003205EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C20042022C3F74E1003205EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C20042652C4324F3003205EF /* DateFormatter.swift in Sources */,
+				C200425F2C432458003205EF /* TopicDetailView.swift in Sources */,
+				C200426B2C43330F003205EF /* UserDefaultsKeys.swift in Sources */,
+				C200423E2C3F76E6003205EF /* QuestionView.swift in Sources */,
+				C20042672C4326B8003205EF /* TestViewModel.swift in Sources */,
+				C20042402C3F7736003205EF /* ResultView.swift in Sources */,
+				C20042542C3F9435003205EF /* Question.swift in Sources */,
+				C200425D2C43243E003205EF /* TopicListView.swift in Sources */,
+				C20042592C4323EC003205EF /* TopicsViewModel.swift in Sources */,
+				C2F4C7C72C46EA3D00AA3437 /* Section.swift in Sources */,
+				C200426F2C445898003205EF /* QuestionView_Previews.swift in Sources */,
+				C200420A2C3F74E1003205EF /* iPlumberApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C20042122C3F74E6003205EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C200421B2C3F74E6003205EF /* iPlumberTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C200421C2C3F74E6003205EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C20042272C3F74E6003205EF /* iPlumberUITestsLaunchTests.swift in Sources */,
+				C20042252C3F74E6003205EF /* iPlumberUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C20042182C3F74E6003205EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C20042052C3F74E1003205EF /* iPlumber */;
+			targetProxy = C20042172C3F74E6003205EF /* PBXContainerItemProxy */;
+		};
+		C20042222C3F74E6003205EF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C20042052C3F74E1003205EF /* iPlumber */;
+			targetProxy = C20042212C3F74E6003205EF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		C20042282C3F74E6003205EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C20042292C3F74E6003205EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C200422B2C3F74E6003205EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"iPlumber/Preview Content\"";
+				DEVELOPMENT_TEAM = 9RPPA822ML;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = iPlumber.png;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mechanical.iPlumber;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C200422C2C3F74E6003205EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"iPlumber/Preview Content\"";
+				DEVELOPMENT_TEAM = 9RPPA822ML;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = iPlumber.png;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mechanical.iPlumber;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C200422E2C3F74E6003205EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.com.iPlumberTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iPlumber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/iPlumber";
+			};
+			name = Debug;
+		};
+		C200422F2C3F74E6003205EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.com.iPlumberTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/iPlumber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/iPlumber";
+			};
+			name = Release;
+		};
+		C20042312C3F74E6003205EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.com.iPlumberUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = iPlumber;
+			};
+			name = Debug;
+		};
+		C20042322C3F74E6003205EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = test.com.iPlumberUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = iPlumber;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C20042012C3F74E1003205EF /* Build configuration list for PBXProject "iPlumber" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C20042282C3F74E6003205EF /* Debug */,
+				C20042292C3F74E6003205EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C200422A2C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumber" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C200422B2C3F74E6003205EF /* Debug */,
+				C200422C2C3F74E6003205EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C200422D2C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumberTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C200422E2C3F74E6003205EF /* Debug */,
+				C200422F2C3F74E6003205EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C20042302C3F74E6003205EF /* Build configuration list for PBXNativeTarget "iPlumberUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C20042312C3F74E6003205EF /* Debug */,
+				C20042322C3F74E6003205EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C20041FE2C3F74E1003205EF /* Project object */;
+}
