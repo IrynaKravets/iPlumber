@@ -1,0 +1,401 @@
+{
+  "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+  "name": "Self-Test",
+  "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+  "questions": [
+    {
+      "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The type of plastic that becomes soft when heated and hard when cooled is known in the trades as ______",
+      "type": "single_type",
+      "options": [
+          "thermoplastic",
+          "thermoset",
+          "elastomer",
+          "polymer",
+          "composite"
+      ],
+      "correctAnswer": ["thermoplastic"],
+      "explanation": ""
+    },
+    {
+      "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "List five (5) advantages of plastic pipes over ferrous pipes.",
+      "type": "checkbox_type",
+      "options": [
+        "Resistant to a wide range of chemicals.",
+        "Unaffected by electronic corrosion.",
+        "High corrosion resistance.",
+        "Smoother bore, less friction loss.",
+        "Absorbs vibration and shock well.",
+        "Economical.",
+        "Easy methods of joining.",
+        "Light in weight.",
+        "Easily prefabricated.",
+        "Low absorption rate."
+      ],
+      "correctAnswer": [
+        "Resistant to a wide range of chemicals.",
+        "Unaffected by electronic corrosion.",
+        "High corrosion resistance.",
+        "Smoother bore, less friction loss.",
+        "Absorbs vibration and shock well.",
+        "Economical.",
+        "Easy methods of joining.",
+        "Light in weight.",
+        "Easily prefabricated.",
+        "Low absorption rate."
+      ],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "List three (3) disadvantages of plastic pipes compared to metal pipes.",
+      "type": "checkbox_type",
+      "options": [
+        "High coefficient of expansion.",
+        "Low tensile strength.",
+        "Creep.",
+        "Deformation under load.",
+        "Low heat resistance.",
+        "Low ductility.",
+        "Low fire resistance."
+      ],
+      "correctAnswer": [
+        "High coefficient of expansion.",
+        "Low tensile strength.",
+        "Creep.",
+        "Deformation under load.",
+        "Low heat resistance.",
+        "Low ductility.",
+        "Low fire resistance."
+      ],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The plastic pipe used for underground gas lines is",
+      "type": "single_type",
+      "options": [
+          "high-density polyethylene",
+          "polyvinyl chloride",
+          "chlorinated polyvinyl chloride",
+          "cross-linked polyethylene",
+          "polypropylene"
+      ],
+      "correctAnswer": ["high-density polyethylene"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The minimum surface temperature recommended for solvent cementing plastic pipe and fittings is",
+      "type": "single_type",
+      "options": [
+          "5°C (40°F)",
+          "10°C (50°F)",
+          "0°C (32°F)",
+          "15°C (59°F)",
+          "-5°C (23°F)"
+      ],
+      "correctAnswer": ["5°C (40°F)"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The colour of polypropylene DWV pipes and fittings are",
+      "type": "single_type",
+      "options": [
+          "determined by the manufacturer",
+          "always black",
+          "always white",
+          "always grey",
+          "always green"
+      ],
+      "correctAnswer": ["determined by the manufacturer"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The type of plastic that is very similar to polypropylene is __________ and is __________ in colour.",
+      "type": "single_type",
+      "options": [
+          "proxylene, blue",
+          "polyethylene, black",
+          "PVC, white",
+          "CPVC, grey",
+          "ABS, green"
+      ],
+      "correctAnswer": ["proxylene", "blue"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Nesting of pipe refers to",
+      "type": "single_type",
+      "options": [
+          "the storage of pipe with smaller sizes inside larger pipe",
+          "the arrangement of pipes in parallel rows",
+          "the process of welding multiple pipes together",
+          "the method of insulating pipes in layers",
+          "the technique of bending pipes into specific shapes"
+      ],
+      "correctAnswer": ["the storage of pipe with smaller sizes inside larger pipe"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Underground drainage systems are primarily joined with __________ joints.",
+      "type": "single_type",
+      "options": [
+          "bell-type",
+          "threaded",
+          "flanged",
+          "compression",
+          "welded"
+      ],
+      "correctAnswer": ["bell-type"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "List three (3) plastic-type materials that are best suited for acid waste and vents.",
+      "type": "checkbox_type",
+      "options": [
+        "Polyethylene",
+        "Polypropylene",
+        "Proxylene"
+      ],
+      "correctAnswer": [
+        "Polyethylene",
+        "Polypropylene",
+        "Proxylene"
+      ],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "There are several different methods used to join plastic pipe and fittings with the use of heat. Name three (3) of those methods.",
+      "type": "checkbox_type",
+      "options": [
+        "Butt fusion welding",
+        "Socket fusion welding",
+        "Electric resistant fusion (Fuseal)",
+        "Hot air fillet weld"
+      ],
+      "correctAnswer": [
+        "Butt fusion welding",
+        "Socket fusion welding",
+        "Electric resistant fusion (Fuseal)",
+        "Hot air fillet weld"
+      ],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Plastic acid waste pipes may be joined by __________ and __________.",
+      "type": "single_type",
+      "options": [
+          "threaded connections, rubber gaskets",
+          "compression fittings, adhesive bonding",
+          "fusion welds, acid-resistant mechanical joints",
+          "flanged joints, heat shrink tubing",
+          "solvent welding, epoxy seals"
+      ],
+      "correctAnswer": ["fusion welds, acid-resistant mechanical joints"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "__________ is/are used to check the temperature of the plastic for fusion welding.",
+      "type": "single_type",
+      "options": [
+          "Temp-sticks",
+          "Thermocouples",
+          "Infrared thermometers",
+          "Heat-sensitive labels",
+          "Temperature gauges"
+      ],
+      "correctAnswer": ["Temp-sticks"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The two types of plastic tube best suited for radiant panel heating are __________ or __________.",
+      "type": "single_type",
+      "options": [
+          "PEX or PE/AL/PE",
+          "PVC or CPVC",
+          "PP or PVDF",
+          "HDPE or LDPE",
+          "ABSor PB"
+      ],
+      "correctAnswer": ["PEX or PE/AL/PE"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The types of plastic pipes most suitable for hot water heating systems are __________ and __________.",
+      "type": "single_type",
+      "options": [
+          "PVC and CPVC",
+          "PP and PVDF",
+          "PEX and PE/AL/PE",
+          "HDPE and LDPE",
+          "ABS and PB"
+      ],
+      "correctAnswer": ["PEX and PE/AL/PE"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "When connecting plastic pipe to metal pipe with a threaded connection, the plastic must have the __________ thread.",
+      "type": "single_type",
+      "options": [
+          "FIP",
+          "NPT",
+          "BSP",
+          "MIP",
+          "MNPT"
+      ],
+      "correctAnswer": ["MIP"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "List three (3) types of plastic that can be joined with solvent cement.",
+      "type": "checkbox_type",
+      "options": [
+        "ABS",
+        "PVC",
+        "CPVC"
+      ],
+      "correctAnswer": [
+        "ABS",
+        "PVC",
+        "CPVC"
+      ],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The type of light rays that can cause deterioration of plastic is __________.",
+      "type": "single_type",
+      "options": [
+          "Infrared",
+          "Visible light",
+          "Microwave",
+          "X-rays",
+          "UV"
+      ],
+      "correctAnswer": ["UV"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Solvent cement that starts to gel must __________ and __________.",
+      "type": "single_type",
+      "options": [
+          "not be used, must be disposed of in a safe and proper manner",
+          "be thinned with solvent, be stored in a cool place",
+          "be stirred thoroughly, be used immediately",
+          "be heated gently, be applied quickly",
+          "be diluted with water, be used with caution"
+      ],
+      "correctAnswer": ["not be used, must be disposed of in a safe and proper manner"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Before butt welding plastic pipe and fittings, you must ensure that the __________.",
+      "type": "single_type",
+      "options": [
+          "pipe ends are square",
+          "pipe is preheated",
+          "pipe ends are beveled",
+          "pipe is cleaned with solvent",
+          "pipe is properly aligned"
+      ],
+      "correctAnswer": ["pipe ends are square"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "Before applying solvent cement on PVC pipe and fittings, you must use __________.",
+      "type": "single_type",
+      "options": [
+          "cleaner/primer",
+          "sandpaper",
+          "a brush",
+          "a heat gun",
+          "a cloth"
+      ],
+      "correctAnswer": ["cleaner/primer"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "The types of plastics that produce toxic gases are __________ and __________.",
+      "type": "single_type",
+      "options": [
+          "PVC, CPVC",
+          "PEX, PP",
+          "PE, ABS",
+          "HDPE, LDPE",
+          "PTFE, PVDF"
+      ],
+      "correctAnswer": ["PVC, CPVC"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "A 200 mm (8\") joint, solvent cemented at a temperature of 10°C (50°F), requires a cure time of __________ to __________ before the line can be pressure-tested.",
+      "type": "single_type",
+      "options": [
+          "6, 24 hours",
+          "24, 72 hours",
+          "1, 12 hours",
+          "12, 48 hours",
+          "2, 24 hours"
+      ],
+      "correctAnswer": ["12, 48 hours"],
+      "explanation": ""
+    },
+    {
+        "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
+      "question": "What is used to keep plastic pipe round when threading?",
+      "type": "single_type",
+      "options": [
+          "A round wooden plug inserted into the pipe end",
+          "A metal rod inserted into the pipe end",
+          "A plastic insert placed inside the pipe",
+          "A clamp secured around the pipe",
+          "A heating element applied to the pipe"
+      ],
+      "correctAnswer": ["A round wooden plug inserted into the pipe end"],
+      "explanation": ""
+    }
+  ]
+}

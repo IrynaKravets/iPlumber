@@ -35,6 +35,7 @@
 		C2F4C7D22C4710F100AA3437 /* TopicsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D12C4710F100AA3437 /* TopicsView.swift */; };
 		C2F4C7D42C47125200AA3437 /* SectionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D32C47125200AA3437 /* SectionListView.swift */; };
 		C2F4C7D62C471D7200AA3437 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D52C471D7200AA3437 /* Models.swift */; };
+		C2F4C7DC2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,7 @@
 		C2F4C7D12C4710F100AA3437 /* TopicsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopicsView.swift; sourceTree = "<group>"; };
 		C2F4C7D32C47125200AA3437 /* SectionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionListView.swift; sourceTree = "<group>"; };
 		C2F4C7D52C471D7200AA3437 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = plastic_pipe_and_tube_210102d.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,7 +140,6 @@
 			children = (
 				C2F4C7C82C46FD8600AA3437 /* Models */,
 				C20042552C430F14003205EF /* Questions JSON */,
-				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */,
 				C20042092C3F74E1003205EF /* iPlumberApp.swift */,
 				C2F4C7D32C47125200AA3437 /* SectionListView.swift */,
 				C200425C2C43243E003205EF /* TopicListView.swift */,
@@ -218,6 +219,8 @@
 				C2F4C7BE2C461D0900AA3437 /* hand_tools_210102a.json */,
 				C2F4C7C22C46235B00AA3437 /* power_tools_210102b.json */,
 				C2F4C7C42C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json */,
+				C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */,
+				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe.json */,
 			);
 			path = "Section 2";
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2F4C7DC2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json in Resources */,
 				C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */,
 				C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */,
 				C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */,
