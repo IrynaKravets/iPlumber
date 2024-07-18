@@ -3,7 +3,6 @@ import SwiftUI
 struct QuestionView: View {
     @ObservedObject var testViewModel: TestViewModel
     @Binding var navigationPath: NavigationPath
-    @State private var textAnswer: String = ""
 
     var body: some View {
         VStack {
@@ -14,6 +13,16 @@ struct QuestionView: View {
                             .font(.title3)
                             .multilineTextAlignment(.leading)
                             .padding()
+
+                        if let imageName = testViewModel.currentQuestion.imageName {
+                            NavigationLink(destination: FullScreenImageView(imageName: imageName)) {
+                                Image(imageName)
+                                    .resizable()
+                                    .aspectRatio(contentMode: .fit)
+                                    .frame(maxWidth: .infinity)
+                                    .padding()
+                            }
+                        }
 
                         switch testViewModel.currentQuestion.type {
                         case .singleType:
@@ -28,7 +37,7 @@ struct QuestionView: View {
                                             .multilineTextAlignment(.leading)
                                             .padding()
                                     }
-                                    .padding(.leading, 5) // Adjust the padding as needed
+                                    .padding(.leading, 5)
                                     .frame(maxWidth: .infinity, alignment: .leading)
                                     .background(testViewModel.selectedAnswer == option ? Color.gray.opacity(0.3) : Color.clear)
                                     .cornerRadius(8)
@@ -49,14 +58,14 @@ struct QuestionView: View {
                                             .multilineTextAlignment(.leading)
                                             .padding()
                                     }
-                                    .padding(.leading, 5) // Adjust the padding as needed
+                                    .padding(.leading, 5)
                                     .frame(maxWidth: .infinity, alignment: .leading)
                                     .background(testViewModel.selectedAnswers.contains(option) ? Color.gray.opacity(0.3) : Color.clear)
                                     .cornerRadius(8)
                                 }
                             }
                         case .textType:
-                            TextField("Enter your answer", text: $textAnswer)
+                            TextField("Enter your answer", text: $testViewModel.textAnswer)
                                 .textFieldStyle(RoundedBorderTextFieldStyle())
                                 .padding()
                         }
@@ -64,7 +73,7 @@ struct QuestionView: View {
                         if testViewModel.questionAnswered {
                             if testViewModel.currentQuestion.type == .singleType {
                                 let selectedAnswer = testViewModel.selectedAnswer ?? ""
-                                Text(selectedAnswer == testViewModel.currentQuestion.correctAnswer.first ? "Correct!!" : "Incorrect!! Correct answer is \(testViewModel.currentQuestion.correctAnswer.joined(separator: ", "))")
+                                Text(selectedAnswer == testViewModel.currentQuestion.correctAnswer.first ? "Correct!!" : "Incorrect!! Correct answer is \(testViewModel.currentQuestion.correctAnswer.first ?? "")")
                                     .foregroundColor(selectedAnswer == testViewModel.currentQuestion.correctAnswer.first ? .green : .red)
                                     .padding(.vertical)
                             } else if testViewModel.currentQuestion.type == .checkboxType {
@@ -79,7 +88,7 @@ struct QuestionView: View {
                                         .padding(.vertical)
                                 }
                             } else if testViewModel.currentQuestion.type == .textType {
-                                let isCorrect = testViewModel.currentQuestion.correctAnswer.contains(textAnswer)
+                                let isCorrect = testViewModel.currentQuestion.correctAnswer.contains(testViewModel.textAnswer)
                                 Text(isCorrect ? "Correct!!" : "Incorrect!! Correct answer is \(testViewModel.currentQuestion.correctAnswer.joined(separator: ", "))")
                                     .foregroundColor(isCorrect ? .green : .red)
                                     .padding(.vertical)
@@ -88,20 +97,17 @@ struct QuestionView: View {
                     }
                     .padding()
                 }
-
                 Spacer()
-
                 Button(action: {
                     if testViewModel.currentQuestion.type == .checkboxType && !testViewModel.questionAnswered {
                         testViewModel.submitAnswer()
                     } else if testViewModel.currentQuestion.type == .textType && !testViewModel.questionAnswered {
-                        testViewModel.textAnswer = textAnswer
-                        testViewModel.submitAnswer()
+                        testViewModel.submitTextAnswer(testViewModel.textAnswer)
                     } else {
                         testViewModel.nextQuestion()
                     }
                 }) {
-                    Text(testViewModel.currentQuestion.type == .checkboxType && !testViewModel.questionAnswered || testViewModel.currentQuestion.type == .textType && !testViewModel.questionAnswered ? "Submit" : "Next Question")
+                    Text(testViewModel.currentQuestion.type == .checkboxType && !testViewModel.questionAnswered ? "Submit" : "Next Question")
                         .frame(maxWidth: .infinity)
                         .padding()
                         .background(Color.blue)

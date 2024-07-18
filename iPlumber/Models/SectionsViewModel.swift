@@ -23,7 +23,8 @@ class SectionsViewModel: ObservableObject {
                 "hand_tools_210102a",
                 "power_tools_210102b",
                 "welded_pipe_and_fittings_210102c",
-                "plastic_pipe_and_tube_210102d"
+                "plastic_pipe_and_tube_210102d",
+                "threaded_and_grooved_pipe_210102e"
             ],
             "Section 3: Metal Fabrication": [
                 // Add topic JSON filenames here

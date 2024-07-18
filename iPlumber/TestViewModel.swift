@@ -1,4 +1,3 @@
-import SwiftUI
 import Foundation
 
 class TestViewModel: ObservableObject {
@@ -39,11 +38,24 @@ class TestViewModel: ObservableObject {
                 score += 1
             }
         } else if currentQuestion.type == .checkboxType {
-            // Just check if the number of selected answers is 2
-            if selectedAnswers.count == 2 {
+            let correctAnswers = Set(currentQuestion.correctAnswer)
+            if selectedAnswers == correctAnswers {
                 score += 1
             }
-        } else if currentQuestion.type == .textType {
+        }
+        
+        questionAnswered = true
+    }
+
+    func submitTextAnswer(_ textAnswer: String) {
+        guard currentQuestionIndex < questions.count else {
+            print("Error: Current question index out of range")
+            return
+        }
+
+        let currentQuestion = questions[currentQuestionIndex]
+        
+        if currentQuestion.type == .textType {
             if currentQuestion.correctAnswer.contains(textAnswer) {
                 score += 1
             }
