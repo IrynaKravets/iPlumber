@@ -1,0 +1,466 @@
+{
+    
+    "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+    "name": "Threaded and Grooved Pipe : Part 2",
+    "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+    "questions": [
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "If a galvanized pipe is threaded, is the thread protected by the galvanizing?",
+          "type": "single_type",
+          "options": [
+              "No, the zinc or galvanizing coating is removed from the pipe's outer surface by threading and from the internal surface by reaming",
+              "Yes, the galvanizing coating remains intact on the thread",
+              "No, the galvanizing coating is only removed from the internal surface by reaming",
+              "Yes, the galvanizing coating is reapplied after threading",
+              "No, the galvanizing coating is only removed from the outer surface by threading"
+            ],
+          "correctAnswer": [
+            "No, the zinc or galvanizing coating is removed from the pipe's outer surface by threading and from the internal surface by reaming"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Describe the accepted procedure for making threaded joints.",
+          "type": "checkbox_type",
+          "options": [
+            "a) Measure",
+            "b) Mark",
+            "c) Cut",
+            "d) Ream",
+            "e) Oil and thread",
+            "f) Clean, apply compound, and tighten"
+          ],
+          "correctAnswer": [
+              "a) Measure",
+              "b) Mark",
+              "c) Cut",
+              "d) Ream",
+              "e) Oil and thread",
+              "f) Clean, apply compound, and tighten"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Why is jointing compound applied to pipe threads when you are making threaded joints?",
+          "type": "single_type",
+          "options": [
+              "It prevents corrosion",
+              "It fills any gaps to prevent leaks",
+              "It provides a stronger bond",
+              "Lubrication allows better tightening",
+              "It reduces friction"
+          ],
+          "correctAnswer": [
+            "Lubrication allows better tightening"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "When making threaded joints, to which thread should you apply the jointing compound? Why?",
+          "type": "single_type",
+          "options": [
+              "It should be applied to the male thread only so that the compound is prevented from entering into the piping system",
+              "It should be applied to the female thread only to ensure an even seal",
+              "It should be applied to both male and female threads for maximum sealing",
+              "It should be applied to the first few threads of the male fitting only",
+              "It should be applied to the middle threads of both fittings"
+          ],
+          "correctAnswer": ["It should be applied to the male thread only so that the compound is prevented from entering into the piping system"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Which reamer is best suited for use with hand operations only, not to be used with a power vise?",
+          "type": "single_type",
+          "options": [
+              "Spiral fluted reamer",
+              "Straight fluted reamer",
+              "Tapered reamer",
+              "Adjustable hand reamer",
+              "Expansion reamer"
+          ],
+          "correctAnswer": [
+            "Spiral fluted reamer"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Which hand reamer can be used with either a power vise or a hand operation?",
+          "type": "single_type",
+          "options": [
+              "Spiral fluted reamer",
+              "Straight fluted reamer",
+              "Tapered reamer",
+              "Adjustable hand reamer",
+              "Expansion reamer"
+          ],
+          "correctAnswer": [
+            "Straight fluted reamer"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Indicate the type of lubricating oil you would use on the following types of pipes when cutting threads. Copper:",
+          "type": "single_type",
+          "options": [
+            "mineral oil, lard/tallow.",
+            "high sulphur content oil.",
+            "soapy water.",
+            "thread cutting oil."
+          ],
+          "correctAnswer": [
+            "mineral oil, lard/tallow."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Indicate the type of lubricating oil you would use on the following types of pipes when cutting threads. Stainless steel:",
+          "type": "single_type",
+          "options": [
+              "mineral oil, lard/tallow.",
+              "high sulphur content oil.",
+              "soapy water.",
+              "thread cutting oil."
+          ],
+          "correctAnswer": [
+              "high sulphur content oil."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Indicate the type of lubricating oil you would use on the following types of pipes when cutting threads. Brass:",
+          "type": "single_type",
+          "options": [
+              "mineral oil, lard/tallow.",
+              "high sulphur content oil.",
+              "soapy water.",
+              "thread cutting oil."
+          ],
+          "correctAnswer": [
+            "soapy water."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Indicate the type of lubricating oil you would use on the following types of pipes when cutting threads. Steel or wrought iron:",
+          "type": "single_type",
+          "options": [
+              "mineral oil, lard/tallow.",
+              "high sulphur content oil.",
+              "soapy water.",
+              "thread cutting oil."
+          ],
+          "correctAnswer": [
+            "thread cutting oil."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "What are fittings used for?",
+          "type": "single_type",
+          "options": [
+              "Fittings are used to measure the flow rate in a piping system.",
+              "Fittings are used to regulate pressure in a piping system.",
+              "Fittings are used to filter impurities from fluids in a piping system.",
+              "Fittings are used to add branches for changes in direction or to connect sections of a piping system.",
+              "Fittings are used to insulate pipes in a piping system."
+          ],
+          "correctAnswer": [
+            "Fittings are used to add branches for changes in direction or to connect sections of a piping system."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Name four (4) methods of joining pipe.",
+          "type": "checkbox_type",
+          "options": [
+            "Threaded",
+            "Flanged",
+            "Welded",
+            "Grooved",
+            "Compression - dresser fittings",
+            "Press connect"
+          ],
+          "correctAnswer": [
+            "Threaded",
+            "Flanged",
+            "Welded",
+            "Grooved",
+            "Compression - dresser fittings",
+            "Press connect"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "The two (2) main types of steel pipe cutters are:",
+          "type": "checkbox_type",
+          "options": [
+            "Single-wheel",
+            "Multi-wheel"
+          ],
+          "correctAnswer": [
+            "Single-wheel",
+            "Multi-wheel"
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Name an advantage of each type of steel pipe cutter.",
+          "type": "checkbox_type",
+          "options": [
+              "Single-wheel - small outer burrs only.",
+              "Multi-wheel - used in tight places.",
+              "Single-wheel - cuts faster.",
+              "Multi-wheel - produces cleaner cuts.",
+              "Single-wheel - more durable.",
+              "Multi-wheel - requires less maintenance."
+          ],
+          "correctAnswer": [
+            "Single-wheel - small outer burrs only.",
+            "Multi-wheel - used in tight places."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Name a disadvantage of each type of steel pipe cutter.",
+          "type": "single_type",
+          "options": [
+              "Single-wheel - requires a full 360° turn.",
+              "Multi-wheel - large outer burrs; may spiral on pipe.",
+              "Single-wheel - slower cutting speed.",
+              "Multi-wheel - higher cost.",
+              "Single-wheel - difficult to use on larger pipes.",
+              "Multi-wheel - requires more maintenance."
+          ],
+          "correctAnswer": [
+            "Single-wheel - requires a full 360° turn.",
+            "Multi-wheel - large outer burrs; may spiral on pipe."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "What effect does a ridge that forms on the outside of the pipe after cutting have on later operations and how is the ridge removed?",
+          "type": "single_type",
+          "options": [
+              "Can cause leaks in joints, remove with a reamer.",
+              "Can cause dies to be hard to start, remove with a file.",
+              "Can cause misalignment in fittings, remove with a grinder.",
+              "Can cause corrosion, remove with sandpaper.",
+              "Can cause flow restrictions, remove with a deburring tool."
+          ],
+          "correctAnswer": ["Can cause dies to be hard to start, remove with a file."],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "The first thread cut by the dies is the __________ thread cut because of the designed taper of the thread.",
+          "type": "single_type",
+          "options": [
+              "shallowest",
+              "most even",
+              "deepest",
+              "roughest",
+              "smoothest"
+          ],
+          "correctAnswer": ["deepest"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "As the size of the pipe increases, the number of threads cut per inch generally __________.",
+          "type": "single_type",
+          "options": [
+              "increases",
+              "decreases",
+              "remains the same",
+              "varies",
+              "doubles"
+          ],
+          "correctAnswer": ["decreases"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Cutting a shallower thread rather than a standard thread will make the fitting __________ to start.",
+          "type": "single_type",
+          "options": [
+              "easier",
+              "impossible",
+              "quicker",
+              "harder",
+              "looser"
+          ],
+          "correctAnswer": ["harder"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "All pipe fittings have a/an __________ thread.",
+          "type": "single_type",
+          "options": [
+              "parallel",
+              "straight",
+              "reverse",
+              "tapered",
+              "buttress"
+          ],
+          "correctAnswer": ["tapered"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Standard threads are all __________ t-hand threads.",
+          "type": "single_type",
+          "options": [
+              "right",
+              "left",
+              "parallel",
+              "tapered",
+              "straight"
+          ],
+          "correctAnswer": ["right"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "When screwing on a fitting, it must be turned __________.",
+          "type": "single_type",
+          "options": [
+              "counterclockwise",
+              "upwards",
+              "downwards",
+              "inwards",
+              "clockwise"
+          ],
+          "correctAnswer": ["clockwise"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Imperfect or torn pipe threads can result in __________ joints.",
+          "type": "single_type",
+          "options": [
+              "loose",
+              "tight",
+              "leaking",
+              "corroded",
+              "misaligned"
+          ],
+          "correctAnswer": ["leaking"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Threading a pipe that has been cut with a cutting torch will __________ the life of the die chasers.",
+          "type": "single_type",
+          "options": [
+              "extend",
+              "not affect",
+              "improve",
+              "double",
+              "shorten"
+          ],
+          "correctAnswer": ["shorten"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "The thread applied to a pipe or a fitting is a/an __________ thread.",
+          "type": "single_type",
+          "options": [
+              "straight",
+              "parallel",
+              "buttress",
+              "tapered",
+              "reverse"
+          ],
+          "correctAnswer": ["tapered"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "The difference between perfect and imperfect threads is that they are __________ on the top or top and bottom.",
+          "type": "single_type",
+          "options": [
+              "imperfect",
+              "incomplete",
+              "damaged",
+              "rounded",
+              "flattened"
+          ],
+          "correctAnswer": ["imperfect"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Applying insufficient oil when cutting threads will result in __________ threads.",
+          "type": "single_type",
+          "options": [
+              "torn or broken",
+              "smooth",
+              "clean",
+              "perfect",
+              "rounded"
+          ],
+          "correctAnswer": ["torn or broken"],
+          "explanation": ""
+        },
+        {
+          "id": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "topicId": "7c6bfa23-d2a3-4f6b-a7cb-624b567d73f6",
+          "question": "Improperly adjusted dies will result in __________ a thread.",
+          "type": "single_type",
+          "options": [
+              "uneven",
+              "broken",
+              "smooth",
+              "corroded",
+              "too loose or too tight"
+          ],
+          "correctAnswer": ["too loose or too tight"],
+          "explanation": ""
+        }
+    ]
+}

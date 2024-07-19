@@ -1,0 +1,623 @@
+{
+    
+    "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+    "name": "Threaded and Grooved Pipe : Part 1",
+    "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+    "questions": [
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the Std abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Standard", "standard"],
+           "explanation": ""
+         },
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the XS abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Extra Strong", "extra strong", "Extra strong"],
+           "explanation": ""
+         },
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the XXH abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Double Extra Heavy", "Double extra heavy", "double extra heavy"],
+           "explanation": ""
+         },
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the XH abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Extra Heavy", "Extra heavy", "extra heavy"],
+           "explanation": ""
+         },
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the XXS abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Double Extra Strong", "Double extra strong", "double extra strong"],
+           "explanation": ""
+         },
+        {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the Sch abbreviation used to describe steel pipe stand for?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Schedule", "schedule"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the difference between inside diameter and nominal pipe size?",
+           "type": "single_type",
+           "options": [
+               "Inside diameter is the outer measurement of the pipe, while NPS is the inner measurement.",
+               "Inside diameter is used for calculating pressure, while NPS is used for determining flow rate.",
+               "Inside diameter is the measurement from the outer edge of the pipe, while NPS is the thickness of the pipe.",
+               "Inside diameter is the same as the pipe's wall thickness, while NPS is an industry standard measurement.",
+             "Inside diameter is the actual measurement between the inside walls of the pipe across the exact center. NPS is an approximation of the inside diameter; it is an industry standard used to identify various pipe sizes."
+           ],
+           "correctAnswer": ["Inside diameter is the actual measurement between the inside walls of the pipe across the exact center. NPS is an approximation of the inside diameter; it is an industry standard used to identify various pipe sizes."],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the difference between black iron pipe and galvanized iron pipe?",
+           "type": "single_type",
+           "options": [
+               "Black iron pipe is made from a different material than galvanized iron pipe.",
+               "Black iron pipe is used for gas lines, while galvanized iron pipe is used for water lines.",
+               "Black iron pipe has shellac or varnish applied for protection. Galvanized iron pipe has a zinc coating applied by hot dipping the black pipe to provide 2 oz per square foot of coating inside and outside.",
+               "Black iron pipe is stronger than galvanized iron pipe.",
+               "Black iron pipe is heavier than galvanized iron pipe."
+           ],
+           "correctAnswer": ["Black iron pipe has shellac or varnish applied for protection. Galvanized iron pipe has a zinc coating applied by hot dipping the black pipe to provide 2 oz per square foot of coating inside and outside."],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "A 2\" NPS has an actual inside diameter of 2.067\" and a wall thickness of exactly 0.154\". What is the exact outside diameter of the pipe?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["2.375", "2 3/8", "2,375"],
+           "explanation": "2.067 + 0.154 + 0.154 = 2.375 or 2 3/8. Note that the pipe has 2 wall thicknesses"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "A 10\" NPS pipe has an actual OD of 10.75\" and an actual ID of 9.75\". What grade of pipe is this?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["Sch 60", "60", "XS", "Sch. 60"],
+           "explanation": "Grade = Sch. 60 or XS"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "A 10\" NPS pipe has an actual OD of 10.75\" and an actual ID of 9.75\". What is its wall thickness (WT)?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["0.5", "0,5"],
+           "explanation": "WT = 10.75\" - 9.75\" = 1.0\" / 2 = 0.5\""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 1.610 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade Std/Sch40, NPS 1 1/2, WT 0.145"],
+           "explanation": "1.610 ID - Grade Std/Sch40, NPS 1 1/2, WT 0.145"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 1.049 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade Std/Sch40, NPS 1, WT 0.133"],
+           "explanation": "1.049 ID - Grade Std/Sch40, NPS 1, WT 0.133"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 1.278 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade XS/Sch80, NPS 1 1/4, WT 0.191"],
+           "explanation": "1.278 ID - Grade XS/Sch80, NPS 1 1/4, WT 0.191"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 0.599 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade XXS, NPS 1, WT 0.358"],
+           "explanation": "0.599 ID - Grade XXS, NPS 1, WT 0.358"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 7.625 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade Std/Sch80, NPS 8, WT 0.500"],
+           "explanation": "7.625 ID - Grade Std/Sch80, NPS 8, WT 0.500"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 2.300 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade XXS, NPS 3, WT 0.600"],
+           "explanation": "2.300 ID - Grade XXS, NPS 3, WT 0.600"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The table below lists the actual pipe sizes of several different pipes. Select the Grade, NPS, and the WT of the pipes: 0.252 ID - Grade ____, NPS ____, WT ________",
+           "type": "single_type",
+           "options": [
+               "Grade XXS, NPS 3, WT 0.600",
+               "Grade Std/Sch40, NPS 1 1/2, WT 0.145",
+               "Grade XS/Sch80, NPS 1 1/4, WT 0.191",
+               "Grade XXS, NPS 1, WT 0.358",
+               "Grade Std/Sch80, NPS 8, WT 0.500",
+               "Grade XXS, NPS 1/2, WT 0.294",
+               "Grade Std/Sch40, NPS 1, WT 0.133"
+           ],
+           "correctAnswer": ["Grade XXS, NPS 1/2, WT 0.294"],
+           "explanation": "0.252 ID - Grade XXS, NPS 1/2, WT 0.294"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "Which grade of threaded pipe should be used with the following maximum pressures? 1000 psi",
+           "type": "single_type",
+           "options": [
+               "Std/Sch 40",
+               "XS/Sch 80",
+               "XXS"
+           ],
+           "correctAnswer": ["XXS"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "Which grade of threaded pipe should be used with the following maximum pressures? 150 psi",
+           "type": "single_type",
+           "options": [
+             "Std/Sch 40",
+             "XS/Sch 80",
+             "XXS"
+           ],
+           "correctAnswer": ["Std/Sch 40"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "Which grade of threaded pipe should be used with the following maximum pressures? 200 psi",
+           "type": "single_type",
+           "options": [
+               "Std/Sch 40",
+               "XS/Sch 80",
+               "XXS"
+           ],
+           "correctAnswer": ["XS/Sch 80"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the approximate percent of carbon in the iron used to produce the following products? Steel pipes",
+           "type": "single_type",
+           "options": [
+             "0.1 to 0.2% carbon",
+             "1.5% carbon",
+             "1.8 to 4.8% carbon",
+             "0.1 to 0.2% carbon"
+           ],
+           "correctAnswer": [
+             "0.1 to 0.2% carbon"
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the approximate percent of carbon in the iron used to produce the following products? Files",
+           "type": "single_type",
+           "options": [
+               "0.1 to 0.2% carbon",
+               "1.5% carbon",
+               "1.8 to 4.8% carbon",
+               "0.1 to 0.2% carbon"
+           ],
+           "correctAnswer": [
+             "1.5% carbon"
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the approximate percent of carbon in the iron used to produce the following products? Cast iron",
+           "type": "single_type",
+           "options": [
+               "0.1 to 0.2% carbon",
+               "1.5% carbon",
+               "1.8 to 4.8% carbon",
+               "0.1 to 0.2% carbon"
+           ],
+           "correctAnswer": [
+             "1.8 to 4.8% carbon"
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the approximate percent of carbon in the iron used to produce the following products? Sheet steel",
+           "type": "single_type",
+           "options": [
+               "0.1 to 0.2% carbon",
+               "1.5% carbon",
+               "1.8 to 4.8% carbon",
+               "0.1 to 0.2% carbon"
+           ],
+           "correctAnswer": [
+             "0.1 to 0.2% carbon"
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What does the schedule number of a pipe designate?",
+           "type": "single_type",
+           "options": [
+               "The schedule number of a pipe designates the pipe's wall thickness.",
+               "The schedule number of a pipe designates the pipe's diameter.",
+               "The schedule number of a pipe designates the pipe's length.",
+               "The schedule number of a pipe designates the pipe's weight.",
+               "The schedule number of a pipe designates the pressure/stress ratio X 1000."
+           ],
+           "correctAnswer": ["The schedule number of a pipe designates the pressure/stress ratio X 1000."],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "At what size for standard pipe does the wall thickness remain the same for increases in pipe size?",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["12"],
+           "explanation": "Size = 12"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "At what size for standard pipe does the wall thickness remain the same for increases in pipe size and what is the WT? Write WT only",
+           "type": "text_type",
+           "options": [],
+           "correctAnswer": ["0.375", "0,375"],
+           "explanation": "WT = 0.375"
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is meant by the term alloy as applied to the manufacture of ferrous pipe?",
+           "type": "single_type",
+           "options": [
+               "Alloys are metal(s) mixed with iron to produce special qualities in pipe.",
+               "Alloys are non-metallic elements added to iron to increase durability.",
+               "Alloys are iron pipes coated with a layer of another metal.",
+               "Alloys are pipes made from recycled iron and steel materials.",
+               "Alloys are iron pipes that have been heat-treated for added strength."
+           ],
+           "correctAnswer": ["Alloys are metal(s) mixed with iron to produce special qualities in pipe."],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "List three (3) different types of alloyed steel pipe and state the alloying materials used.",
+           "type": "checkbox_type",
+           "options": [
+             "Copper-bearing alloys - min. 0.25% copper.",
+             "Stainless steel - chromium and nickel.",
+             "Chrome/moly - chromium and molybdenum."
+           ],
+           "correctAnswer": [
+             "Copper-bearing alloys - min. 0.25% copper.",
+             "Stainless steel - chromium and nickel.",
+             "Chrome/moly - chromium and molybdenum."
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "List four (4) common end finishes applied to steel pipe.",
+           "type": "checkbox_type",
+           "options": [
+             "Plain end.",
+             "Threaded.",
+             "Bevelled end.",
+             "Threaded and coupled.",
+             "Grooved."
+           ],
+           "correctAnswer": [
+             "Plain end.",
+             "Threaded.",
+             "Bevelled end.",
+             "Threaded and coupled.",
+             "Grooved."
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "List four (4) common surface finishes applied to steel pipe before delivery.",
+           "type": "checkbox_type",
+           "options": [
+             "Plain end.",
+             "Threaded.",
+             "Bevelled end.",
+             "Threaded and coupled.",
+             "Grooved."
+           ],
+           "correctAnswer": [
+             "Plain end.",
+             "Threaded.",
+             "Bevelled end.",
+             "Threaded and coupled.",
+             "Grooved."
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The distance from the crest of one thread to the crest of the next thread is called the:_______",
+           "type": "single_type",
+           "options": [
+               "the height of the thread",
+               "the depth of the thread",
+               "the angle of the thread",
+               "the root of the thread",
+             "the pitch of the thread"
+           ],
+           "correctAnswer": ["the pitch of the thread"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the difference between male and female threads?",
+           "type": "single_type",
+           "options": [
+               "Male threads are larger than female threads.",
+               "Male threads are more durable than female threads.",
+               "Male threads are used for gas connections, while female threads are used for water connections.",
+               "Male threads are tapered, while female threads are straight.",
+             "Male threads are on the external or outer surface of the pipe, while female threads are internal or inner surface of the fitting"
+           ],
+           "correctAnswer": ["Male threads are on the external or outer surface of the pipe, while female threads are internal or inner surface of the fitting"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The thread on the inside wall of a fitting is referred to as a/an:",
+           "type": "single_type",
+           "options": [
+               "a female tapered thread or F.I.P. female iron pipe thread",
+               "external thread or male thread",
+               "parallel thread",
+               "buttress thread"
+           ],
+           "correctAnswer": ["a female tapered thread or F.I.P. female iron pipe thread"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "The thread cut with standard dies on the outside wall of a pipe is referred to as a/an:",
+           "type": "single_type",
+           "options": [
+               "a male tapered thread or M.I.P. female iron pipe thread",
+               "internal thread or male thread",
+               "tapered thread",
+               "parallel thread",
+               "buttress thread"
+           ],
+           "correctAnswer": ["a male tapered thread or M.I.P. female iron pipe thread"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "When tightening a fitting onto a pipe, the fitting should be turned by hand approximately ______ to ______ times and made up with the aid of a wrench approximately __________ to ____________",
+           "type": "single_type",
+           "options": [
+             "4 to 5 times, 2 to 3 turns",
+             "4 to 6 3/4 times, 1 to 2 turns",
+             "4 to 6 3/4 times, 2 to 3 turns",
+             "1 to 2 times, 2 to 3 turns"
+           ],
+           "correctAnswer": ["4 to 6 3/4 times, 2 to 3 turns"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "Why are pipe threads tapered and how much does this taper amount to if extended to one foot in length?",
+           "type": "single_type",
+           "options": [
+               "Pipe threads are tapered to allow for easy disassembly. The taper amounts to 1/2 per foot.",
+               "Pipe threads are tapered to prevent leakage. The taper amounts to 1/4 per foot.",
+               "Pipe threads are tapered to increase strength. The taper amounts to 1 per foot.",
+               "Pipe threads are tapered to facilitate threading. The taper amounts to 1/8 per foot.",
+             "Pipe threads are tapered so that the pipe will tighten into fittings. The taper amount is 3/4 increase in diameter at 12"
+           ],
+           "correctAnswer": ["Pipe threads are tapered so that the pipe will tighten into fittings. The taper amount is 3/4 increase in diameter at 12"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "Define the term throw as it applies to pipe fittings.",
+           "type": "single_type",
+           "options": [
+               "The angle at which a pipe fitting changes direction",
+               "The length of the threaded portion of a pipe fitting",
+               "The distance measured from the centre to the face of fittings",
+               "The diameter of the opening in a pipe fitting",
+               "The thickness of the walls of a pipe fitting"
+           ],
+           "correctAnswer": ["The distance measured from the centre to the face of fittings"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "List five (5) different methods of taking pipe measurements.",
+           "type": "checkbox_type",
+           "options": [
+             "Using a pipe caliper",
+             "Using a tape measure",
+             "Using a pipe diameter tape",
+             "Using a ruler",
+             "Using a laser distance measurer"
+           ],
+           "correctAnswer": [
+             "Using a pipe caliper",
+             "Using a tape measure",
+             "Using a pipe diameter tape",
+             "Using a ruler",
+             "Using a laser distance measurer"
+           ],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "What is the difference between a coupling and a thread protector?",
+           "type": "single_type",
+           "options": [
+               "Couplings have tapered threads; thread protectors have parallel threads",
+               "Couplings are used to join two pipes; thread protectors are used to seal pipe ends",
+               "Couplings are made of metal; thread protectors are made of plastic",
+               "Couplings are permanent fittings; thread protectors are temporary fittings",
+               "Couplings have internal threads; thread protectors have external threads"
+           ],
+           "correctAnswer": ["Couplings have tapered threads; thread protectors have parallel threads"],
+           "explanation": ""
+         },
+         {
+           "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+           "question": "List four (4) reasons for flushing oil over a pipe thread that is being cut.",
+           "type": "checkbox_type",
+           "options": [
+             "To cool the cutting tool and pipe",
+             "To remove metal shavings",
+             "To prevent rust",
+             "To lubricate the cutting process"
+           ],
+           "correctAnswer": [
+             "To cool the cutting tool and pipe",
+             "To remove metal shavings",
+             "To prevent rust",
+             "To lubricate the cutting process"
+           ],
+           "explanation": ""
+         },
+         {
+            "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+            "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
+            "question": "Burrs should be removed from the inside walls of pipe. List three (3) problems that can occur if burrs are not removed.",
+            "type": "checkbox_type",
+            "options": [
+              "Restricted flow",
+              "Damage to the pipe interior",
+              "Compromised thread integrity"
+            ],
+            "correctAnswer": [
+              "Restricted flow",
+              "Damage to the pipe interior",
+              "Compromised thread integrity"
+            ],
+            "explanation": ""
+          }
+    ]
+}

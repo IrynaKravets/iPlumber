@@ -13,7 +13,7 @@ class SectionsViewModel: ObservableObject {
         let sectionData: [String: [String]] = [
             "Section 1: Workplace Safety and Rigging": [
                 "safety_legislation_regulations_industry_policy_in_the_trades_210101a",
-                "climbing_lifting_rigging_210101b",
+                "climbing_lifting_rigging_hoisting_210101b",
                 "hazardous_materials_and_fire_protection_210101c",
                 "apprenticeship_training_program_210101d",
                 "pipe_trades_codes_210101e",
@@ -24,7 +24,8 @@ class SectionsViewModel: ObservableObject {
                 "power_tools_210102b",
                 "welded_pipe_and_fittings_210102c",
                 "plastic_pipe_and_tube_210102d",
-                "threaded_and_grooved_pipe_210102e"
+                "threaded_and_grooved_pipe_210102e_Part_1",
+                "threaded_and_grooved_pipe_210102e_Part_2"
             ],
             "Section 3: Metal Fabrication": [
                 // Add topic JSON filenames here
