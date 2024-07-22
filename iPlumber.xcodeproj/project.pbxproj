@@ -39,6 +39,10 @@
 		C2F4C7E32C48BB3700AA3437 /* FullScreenImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7E22C48BB3700AA3437 /* FullScreenImageView.swift */; };
 		C2F4C7E52C4A0F7800AA3437 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E42C4A0F7800AA3437 /* test.json */; };
 		C2F4C7E72C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E62C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json */; };
+		C2F4C7E92C4DF12700AA3437 /* tube_and_tubing_210102f.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E82C4DF12700AA3437 /* tube_and_tubing_210102f.json */; };
+		C2F4C7EB2C4E029200AA3437 /* valves_210102g_Part_1.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */; };
+		C2F4C7ED2C4E109200AA3437 /* valves_210102g_Part_2.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */; };
+		C2F4C7F12C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -94,6 +98,10 @@
 		C2F4C7E22C48BB3700AA3437 /* FullScreenImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenImageView.swift; sourceTree = "<group>"; };
 		C2F4C7E42C4A0F7800AA3437 /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
 		C2F4C7E62C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = threaded_and_grooved_pipe_210102e_Part_2.json; sourceTree = "<group>"; };
+		C2F4C7E82C4DF12700AA3437 /* tube_and_tubing_210102f.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = tube_and_tubing_210102f.json; sourceTree = "<group>"; };
+		C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = valves_210102g_Part_1.json; sourceTree = "<group>"; };
+		C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = valves_210102g_Part_2.json; sourceTree = "<group>"; };
+		C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hangers_supports_and_fasteners_210102h.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -230,6 +238,10 @@
 				C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */,
 				C20042472C3F7FA1003205EF /* threaded_and_grooved_pipe_210102e_Part_1.json */,
 				C2F4C7E62C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json */,
+				C2F4C7E82C4DF12700AA3437 /* tube_and_tubing_210102f.json */,
+				C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */,
+				C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */,
+				C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */,
 			);
 			path = "Section 2";
 			sourceTree = "<group>";
@@ -340,6 +352,8 @@
 			files = (
 				C2F4C7DC2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json in Resources */,
 				C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */,
+				C2F4C7ED2C4E109200AA3437 /* valves_210102g_Part_2.json in Resources */,
+				C2F4C7EB2C4E029200AA3437 /* valves_210102g_Part_1.json in Resources */,
 				C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */,
 				C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */,
 				C20042712C44C297003205EF /* apprenticeship_training_program_210101d.json in Resources */,
@@ -347,8 +361,10 @@
 				C20042482C3F7FA1003205EF /* threaded_and_grooved_pipe_210102e_Part_1.json in Resources */,
 				C20042612C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json in Resources */,
 				C200426D2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json in Resources */,
+				C2F4C7E92C4DF12700AA3437 /* tube_and_tubing_210102f.json in Resources */,
 				C2F4C7E72C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json in Resources */,
 				C20042112C3F74E6003205EF /* Preview Assets.xcassets in Resources */,
+				C2F4C7F12C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json in Resources */,
 				C20042692C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json in Resources */,
 				C20042752C44D9FC003205EF /* electrical_safety_210101f.json in Resources */,
 				C200420E2C3F74E6003205EF /* Assets.xcassets in Resources */,

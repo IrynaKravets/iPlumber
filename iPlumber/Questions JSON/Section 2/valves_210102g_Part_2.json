@@ -1,0 +1,535 @@
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+  "name": "Valves: Part 2",
+  "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+  "questions": [
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Straight Globe Valve"],
+         "explanation": "",
+         "imageName": "Figure 13 (A)"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Swing Check"],
+         "explanation": "",
+         "imageName": "Figure 13 (B)"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Gate Valve"],
+         "explanation": "",
+         "imageName": "Figure 13 (C)"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Ball Valve"],
+         "explanation": "",
+         "imageName": "Figure 13 (D)"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Angle Globe"],
+         "explanation": "",
+         "imageName": "Figure 13 (E)"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+         "question": "Choose the Valve name:",
+         "type": "single_type",
+         "options": [
+           "Lift Check Valve",
+           "Ball Valve",
+           "Gate Valve",
+           "Angle Globe",
+           "Straight Globe Valve",
+           "Swing Check"
+         ],
+         "correctAnswer": ["Lift Check Valve"],
+         "explanation": "",
+         "imageName": "Figure 13 (F)"
+       },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? outside screw and yoke:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Threads do not come in contact with fluids"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? non-rising stem:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Headroom"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? diaphragm valve:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["No packing, less maintenance"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? lantern ring:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Better lubrication"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? composition discs:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Easily replaced to accommodate other applications"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? Y pattern valves:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Pressure loss kept to a minimum"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? plug disc valves:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Minute throttling applications"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? rising stem valves:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Easy to tell if the valve is open or closed"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? needle valves:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Very fine throttling at high pressures"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the main advantage of the following valve design features? ball valves:",
+          "type": "single_type",
+          "options": [
+              "Headroom",
+              "Threads do not come in contact with fluids",
+              "No packing, less maintenance",
+              "Lantern ring: Better lubrication",
+              "Easily replaced to accommodate other applications",
+              "Pressure loss kept to a minimum",
+              "Minute throttling applications",
+              "Easy to tell if the valve is open or closed",
+              "Very fine throttling at high pressures",
+              "Quick response and low maintenance"
+          ],
+          "correctAnswer": ["Quick response and low maintenance"],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What are valves that require only a 90º turn from full open to full closed classified as?",
+          "type": "single_type",
+          "options": [
+            "¼ turn.",
+            "Quick opening.",
+            "Rotating stem.",
+            "Sliding stem."
+          ],
+          "correctAnswer": ["¼ turn."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the S or SWP rating on a valve related to?",
+          "type": "single_type",
+          "options": [
+            "Slurries or sour waste products.",
+            "Maximum pressure allowed at saturation steam temperature.",
+            "Safe or safe working pressure.",
+            "The speed of response to open or close the valve."
+          ],
+          "correctAnswer": ["Maximum pressure allowed at saturation steam temperature."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What physical damage is most likely to occur to the plug or seat of a non-lubricated metal-to-metal plug valve used under high pressure?",
+          "type": "single_type",
+          "options": [
+            "Galling.",
+            "Scoring.",
+            "Seat warp.",
+            "Wire drawing."
+          ],
+          "correctAnswer": ["Galling."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What condition in a system would most likely require the use of a tilting disc check valve?",
+          "type": "single_type",
+          "options": [
+            "Turbulent flow.",
+            "Low-velocity flow.",
+            "High-velocity flow.",
+            "Presence of particulate matter in the fluid."
+          ],
+          "correctAnswer": ["Low-velocity flow."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "An OS&Y valve refers to ______________________________.",
+          "type": "single_type",
+          "options": [
+              "an outside screw and yoke.",
+              "an open stem and yoke.",
+              "an outside stem and yoke.",
+              "an open screw and yoke.",
+              "an operating screw and yoke."
+          ],
+          "correctAnswer": ["an outside screw and yoke."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "List two (2) major advantages of the OS&Y valve.",
+          "type": "checkbox_type",
+          "options": [
+            "The valve stem threads do not come in contact with the fluid.",
+            "It is easier to maintain and lubricate."
+          ],
+          "correctAnswer": [
+            "The valve stem threads do not come in contact with the fluid.",
+            "It is easier to maintain and lubricate."
+          ],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "State the purpose of the following. Stuffing box:",
+          "type": "single_type",
+          "options": [
+              "To hold the packing which prevents fluid leakage.",
+              "To hold the packing gland and packing.",
+              "To compress the packing.",
+              "To lubricate the valve stem."
+          ],
+          "correctAnswer": ["To hold the packing which prevents fluid leakage."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "State the purpose of the following. Packing nut:",
+          "type": "single_type",
+          "options": [
+              "To hold the packing which prevents fluid leakage.",
+              "To hold the packing gland and packing.",
+              "To compress the packing.",
+              "To lubricate the valve stem."
+          ],
+          "correctAnswer": ["To hold the packing gland and packing."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "State the purpose of the following. Packing gland:",
+          "type": "single_type",
+          "options": [
+              "To hold the packing which prevents fluid leakage.",
+              "To hold the packing gland and packing.",
+              "To compress the packing.",
+              "To lubricate the valve stem."
+          ],
+          "correctAnswer": ["To compress the packing."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "State the purpose of the following. Lantern ring:",
+          "type": "single_type",
+          "options": [
+            "To hold the packing which prevents fluid leakage.",
+            "To hold the packing gland and packing.",
+            "To compress the packing.",
+            "To lubricate the valve stem."
+          ],
+          "correctAnswer": ["To lubricate the valve stem."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What special feature might be required for a gate valve installed in a vertical line?",
+          "type": "single_type",
+          "options": [
+            "Built-in bypass valve to equalize pressure across the disc.",
+            "Bonnet bleed valve to prevent pressure lock.",
+            "Drain valve tapping above the disc.",
+            "Small bleed hole in one of the discs to prevent pressure lock."
+          ],
+          "correctAnswer": ["Drain valve tapping above the disc."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What flow condition can be reduced or eliminated with the use of a spring-loaded check valve?",
+          "type": "single_type",
+          "options": [
+            "Disc chatter.",
+            "Water hammer.",
+            "Velocity erosion.",
+            "Turbulence."
+          ],
+          "correctAnswer": ["Water hammer."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is required in most plants before any component can be removed from a system or piece of equipment?",
+          "type": "single_type",
+          "options": [
+            "Work order.",
+            "Engineering approval.",
+            "Safe work permit.",
+            "Safety meeting."
+          ],
+          "correctAnswer": ["Safe work permit."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "What is the correct packing size to use if the valve stem measures 25 mm (1'') OD and the stuffing box measures 44 mm (1-3/4'')?",
+          "type": "single_type",
+          "options": [
+            "4.75 mm (3/16'').",
+            "9.5 mm (3/8'').",
+            "19 mm (3/4'').",
+            "69 mm (2-3/4'')."
+          ],
+          "correctAnswer": ["9.5 mm (3/8'')."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "Which group is still considered to be at the forefront in setting valve standards?",
+          "type": "single_type",
+          "options": [
+            "ASTM.",
+            "ANSI/ASME.",
+            "CSA.",
+            "MSS."
+          ],
+          "correctAnswer": ["MSS."],
+          "explanation": ""
+        },
+        {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0884",
+          "question": "Why would a piping system built to B31.3 standards require a valve built to the API 6D valve standard?",
+          "type": "single_type",
+          "options": [
+            "There is a petroleum fluid in the line.",
+            "The valve has to be trimmed to fire protection standards.",
+            "The valve stem must be isolated in such a manner that there is no possibility of leakage around the valve stem.",
+            "A bubble-tight seal is required between the disc and seats."
+          ],
+          "correctAnswer": ["A bubble-tight seal is required between the disc and seats."],
+          "explanation": ""
+        }
+  ]
+}

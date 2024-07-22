@@ -1,0 +1,723 @@
+{
+  "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "name": "Valves: Part 1",
+  "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "questions": [
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "If no specific orientation is given for the valve stem, how should the stem in a gate valve be oriented when installed in a horizontal line?",
+          "type": "single_type",
+          "options": [
+              "It should be installed with the valve stem in the horizontal position.",
+              "It should be installed with the valve stem in the vertical down position.",
+              "It should be installed at a 45-degree angle.",
+              "It is recommended to be installed with the valve stem set in the vertical up position.",
+              "It does not matter how the valve stem is oriented."
+          ],
+          "correctAnswer": ["It is recommended to be installed with the valve stem set in the vertical up position."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What special feature might be required for a gate valve installed in a vertical line?",
+          "type": "single_type",
+          "options": [
+              "An additional support bracket for stability.",
+              "A pressure relief valve to prevent overpressure.",
+              "A flow indicator to monitor flow direction.",
+              "A locking mechanism to secure the valve position.",
+              "A drain tapping in the valve body to provide drainage of the line above the disc."
+          ],
+          "correctAnswer": ["A drain tapping in the valve body to provide drainage of the line above the disc."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is the last thing the installer should do to complete the installation of a valve in a line?",
+          "type": "single_type",
+          "options": [
+              "The valve should be cleaned and lubricated.",
+              "The valve should be operated through a complete cycle after it has been installed.",
+              "The valve should be painted to prevent corrosion.",
+              "The valve should be pressure-tested for leaks.",
+              "The valve should be marked with an identification tag."
+          ],
+          "correctAnswer": ["The valve should be operated through a complete cycle after it has been installed."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is the function of the valve stem when opening a globe valve that has pressure under the disc?",
+          "type": "single_type",
+          "options": [
+              "The valve stem acts to control the rate at which the disc moves up from the seat.",
+              "The valve stem provides support to the valve body.",
+              "The valve stem maintains the alignment of the valve.",
+              "The valve stem releases pressure from the valve.",
+              "The valve stem prevents backflow in the system."
+          ],
+          "correctAnswer": ["The valve stem acts to control the rate at which the disc moves up from the seat."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What key factor does the valve manufacturer need to know to ensure that a swing check valve will operate in the full open position?",
+          "type": "single_type",
+          "options": [
+              "The manufacturer needs to know the pressure of the fluid in the line.",
+              "The manufacturer needs to know the temperature of the fluid in the line.",
+              "The manufacturer needs to know the viscosity of the fluid in the line.",
+              "The manufacturer needs to know the type of fluid in the line.",
+              "The manufacturer needs to know the velocity of the fluid in the line."
+          ],
+          "correctAnswer": ["The manufacturer needs to know the velocity of the fluid in the line."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Why would a tilting disc check valve be chosen over the same size swing check valve?",
+          "type": "single_type",
+          "options": [
+              "A tilting disc check valve will operate at very low velocities.",
+              "A tilting disc check valve is less expensive.",
+              "A tilting disc check valve is easier to install.",
+              "A tilting disc check valve has a longer lifespan.",
+              "A tilting disc check valve requires less maintenance."
+          ],
+          "correctAnswer": ["A tilting disc check valve will operate at very low velocities."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What flow condition can be reduced or eliminated with the use of a spring-loaded check valve?",
+          "type": "single_type",
+          "options": [
+              "Water hammer.",
+              "Cavitation.",
+              "Flow turbulence.",
+              "Backflow.",
+              "Pressure drop."
+          ],
+          "correctAnswer": ["Water hammer."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "A valve is found with leakage through the bonnet connection. When the valve bonnet is removed, you find the gasket damaged. What is the recommended repair?",
+          "type": "single_type",
+          "options": [
+              "Tighten the bonnet bolts.",
+              "Clean the gasket surface.",
+              "Apply sealant to the gasket.",
+              "Replace the gasket.",
+              "Reinstall the bonnet with the damaged gasket."
+          ],
+          "correctAnswer": ["Replace the gasket."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "A valve is failing frequently in service. The seats are damaged and have to be changed frequently. What is the probable cause and suggested solution to this problem?",
+          "type": "single_type",
+          "options": [
+              "The valve is installed incorrectly. Reinstall the valve.",
+              "The seat material is too soft. Replace with a harder seat.",
+              "The operating pressure is too high. Reduce the pressure.",
+              "The valve is not being lubricated. Apply lubrication.",
+              "The fluid is too corrosive. Change the fluid type."
+          ],
+          "correctAnswer": ["The seat material is too soft. Replace with a harder seat."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is required in most plants before any component can be removed from a system or piece of equipment?",
+          "type": "single_type",
+          "options": [
+              "A safe work permit.",
+              "A maintenance checklist.",
+              "A supervisor's approval.",
+              "An equipment manual.",
+              "A risk assessment."
+          ],
+          "correctAnswer": ["A safe work permit."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "The most common service done on gate or globe valves is to repack the stuffing boxes. Why would a safe work permit have to be obtained to repack a valve stuffing box?",
+          "type": "single_type",
+          "options": [
+              "Even though this procedure does not involve actual entry into the system, the packing is the seal between system product and the outside environment.",
+              "Because the valve must be completely disassembled.",
+              "To ensure the correct tools are used.",
+              "To confirm the availability of replacement parts.",
+              "To verify the valve's serial number and specifications."
+          ],
+          "correctAnswer": ["Even though this procedure does not involve actual entry into the system, the packing is the seal between system product and the outside environment."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is the correct packing size to use if the valve stem measures 19 mm (3/4'') OD and the stuffing box measures 32 mm (1 1/4'')?",
+          "type": "single_type",
+          "options": [
+              "32 - 19 = 13/32 = 6.5 mm (1/4'') square",
+              "32 - 19 = 13 mm = 1/2'' square",
+              "32 - 19 = 13/64 = 5 mm (3/16'') square",
+              "32 - 19 = 13/16 = 10 mm (3/8'') square",
+              "32 - 19 = 13/64 = 4 mm (5/32'') square"
+          ],
+          "correctAnswer": ["32 - 19 = 13/32 = 6.5 mm (1/4'') square"],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What should be done with coil or spiral packing before inserting it into the stuffing box?",
+          "type": "single_type",
+          "options": [
+              "Lubricate the packing with oil.",
+              "Compress the packing into a solid ring.",
+              "Heat the packing to soften it.",
+              "Twist the packing into a tighter coil.",
+              "Cut the packing into separate rings."
+          ],
+          "correctAnswer": ["Cut the packing into separate rings."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "If butt-cut rings are cut on a flat surface, what should be done to ensure that the end cut of the rings can be reproduced accurately?",
+          "type": "single_type",
+          "options": [
+              "Be certain that the side of the ring, and not the OD or ID surface, is laid on the rings to be cut.",
+              "Measure the rings with a caliper before cutting.",
+              "Cut the rings at an angle to the surface.",
+              "Use a template to guide the cutting.",
+              "Mark the rings with a permanent marker before cutting."
+          ],
+          "correctAnswer": ["Be certain that the side of the ring, and not the OD or ID surface, is laid on the rings to be cut."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Which group is still considered to be at the forefront of valve standards activities?",
+          "type": "single_type",
+          "options": [
+              "The American Society of Mechanical Engineers (ASME)",
+              "The International Organization for Standardization (ISO)",
+              "The American Petroleum Institute (API)",
+              "The Manufacturers Standardization Society of the Valve & Fitting Industry (MSS).",
+              "The National Association of Corrosion Engineers (NACE)"
+          ],
+          "correctAnswer": ["The Manufacturers Standardization Society of the Valve & Fitting Industry (MSS)."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Why would a chemical or refinery valve specifier reference an API 6D valve standard?",
+          "type": "single_type",
+          "options": [
+              "The testing requirements which differ slightly from API 598. The primary difference being 6D's zero allowable leakage on closure tests.",
+              "The materials used in API 6D valves are more durable.",
+              "API 6D valves are more cost-effective.",
+              "API 6D valves are easier to install.",
+              "API 6D valves have a longer lifespan."
+          ],
+          "correctAnswer": ["The testing requirements which differ slightly from API 598. The primary difference being 6D's zero allowable leakage on closure tests."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Which code or standard is most often referenced for chemical or refinery globe and check valve specifications?",
+          "type": "single_type",
+          "options": [
+              "ANSI B31.3",
+              "API 6D",
+              "ASME B16.34",
+              "ISO 9001",
+              "NACE MR0175"
+          ],
+          "correctAnswer": ["ANSI B31.3."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "List four (4) factors that should be considered when choosing the correct valve for an installation.",
+          "type": "checkbox_type",
+          "options": [
+              "Pressure.",
+              "Temperature.",
+              "Flow rate.",
+              "Type of fluid."
+          ],
+          "correctAnswer": [
+              "Pressure.",
+              "Temperature.",
+              "Flow rate.",
+              "Type of fluid."
+          ],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What feature of Y pattern and angle pattern globe valves allows them to be used in blowoff or blowdown service where mud or sludge has to be removed from a vessel?",
+          "type": "single_type",
+          "options": [
+              "Valves have the backseating feature.",
+              "Valve seats are self-scouring.",
+              "Union bonnets allow for easy servicing.",
+              "The bonnet is isolated from the valve body by a diaphragm."
+          ],
+          "correctAnswer": ["Valve seats are self-scouring."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "The type of valve most widely used in industry is the _______________ valve.",
+          "type": "single_type",
+          "options": [
+              "gate",
+              "globe",
+              "check",
+              "butterfly",
+              "ball"
+          ],
+          "correctAnswer": ["ball"],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Why is this valve most widely used in industry?",
+          "type": "single_type",
+          "options": [
+              "This valve is most widely used in industry because it is the cheapest option.",
+              "This valve is most widely used in industry because it offers a higher rate of flow than other valve designs, it offers quick and easy operation, it is simple in design and requires less maintenance.",
+              "This valve is most widely used in industry because it is the smallest in size.",
+              "This valve is most widely used in industry because it can handle the highest pressure.",
+              "This valve is most widely used in industry because it is the oldest design."
+          ],
+          "correctAnswer": [
+              "This valve is most widely used in industry because it offers a higher rate of flow than other valve designs, it offers quick and easy operation, it is simple in design and requires less maintenance."
+          ],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Check valves are designed to ____________________________.",
+          "type": "single_type",
+          "options": [
+              "prevent back-flow.",
+              "regulate pressure.",
+              "control temperature.",
+              "reduce noise.",
+              "filter impurities."
+          ],
+          "correctAnswer": ["prevent back-flow."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "List the two (2) main types of check valves.",
+          "type": "checkbox_type",
+          "options": [
+              "Lift check.",
+              "Swing check."
+          ],
+          "correctAnswer": [
+              "Lift check.",
+              "Swing check."
+          ],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "Why would you use a globe valve instead of a gate valve?",
+          "type": "single_type",
+          "options": [
+              "Throttling flow.",
+              "Complete shutoff.",
+              "High-pressure applications.",
+              "Low-cost installations.",
+              "Quick open and close."
+          ],
+          "correctAnswer": ["Throttling flow."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is the recommended position that a valve should be installed?",
+          "type": "single_type",
+          "options": [
+              "With the stem in the upright position.",
+              "With the stem in the horizontal position.",
+              "With the stem in the downward position.",
+              "At a 45-degree angle.",
+              "In any position as long as it fits."
+          ],
+          "correctAnswer": ["With the stem in the upright position."],
+          "explanation": ""
+      },
+      {
+          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+          "question": "What is meant by equivalent length?",
+          "type": "single_type",
+          "options": [
+              "The loss of pressure in the line caused by the valve or fitting in relationship to a length of pipe.",
+              "The actual length of the valve or fitting.",
+              "The diameter of the valve or fitting.",
+              "The weight of the valve or fitting.",
+              "The flow rate through the valve or fitting."
+          ],
+          "correctAnswer": [
+              "The loss of pressure in the line caused by the valve or fitting in relationship to a length of pipe."
+          ],
+          "explanation": ""
+      },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' gate valve fully open:",
+         "type": "single_type",
+         "options": [
+           "2.7'",
+           "125'",
+           "14'",
+           "8'",
+           "21'",
+           "55'"
+         ],
+         "correctAnswer": ["2.7'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' globe valve fully open:",
+         "type": "single_type",
+         "options": [
+             "2.7'",
+             "125'",
+             "14'",
+             "8'",
+             "21'",
+             "55'"
+         ],
+         "correctAnswer": ["125'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' 90º ell:",
+         "type": "single_type",
+         "options": [
+             "2.7'",
+             "125'",
+             "14'",
+             "8'",
+             "21'",
+             "55'"
+         ],
+         "correctAnswer": ["14'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' 45º standard ell:",
+         "type": "single_type",
+         "options": [
+             "2.7'",
+             "125'",
+             "14'",
+             "8'",
+             "21'",
+             "55'"
+         ],
+         "correctAnswer": ["8'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' tee using side outlet:",
+         "type": "single_type",
+         "options": [
+             "2.7'",
+             "125'",
+             "14'",
+             "8'",
+             "21'",
+             "55'"
+         ],
+         "correctAnswer": ["21'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+      {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the restriction offered by the following? (Answer to be within 6''). 4'' angle globe fully open:",
+         "type": "single_type",
+         "options": [
+             "2.7'",
+             "125'",
+             "14'",
+             "8'",
+             "21'",
+             "55'"
+         ],
+         "correctAnswer": ["55'"],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "The difference between the restriction (relative to the equivalent length of pipe) of a 3/4'' gate valve fully open and a 3/4'' straight pattern globe valve fully open is ______.",
+         "type": "single_type",
+         "options": [
+             "19.5 ft.",
+             "15.2 ft.",
+             "23.8 ft.",
+             "12.7 ft.",
+             "10.4 ft."
+         ],
+         "correctAnswer": ["19.5 ft."],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "The difference between the restriction of a 2'' gate valve and a 2'' straight pattern globe valve fully open is ______.",
+         "type": "single_type",
+         "options": [
+             "45.2 ft.",
+             "60.3 ft.",
+             "38.9 ft.",
+             "53.7 ft.",
+             "29.4 ft."
+         ],
+         "correctAnswer": ["53.7 ft."],
+         "explanation": "",
+         "imageName": "Table 3"
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: NRS:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["Non-rising stem"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: AWWA:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["American Water Works Association"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: RS:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["Rising stem"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: WOG:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["Water, oil, or gas"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: S:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["Steam"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: 125WOG:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["125 psi maximum operating pressure (water, oil, or gas)"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "State the meaning of the following abbreviations: 125S:",
+         "type": "single_type",
+         "options": [
+             "125 psi maximum operating pressure (steam)",
+             "Rising stem",
+             "American Water Works Association",
+             "Steam",
+             "Non-rising stem",
+             "125 psi maximum operating pressure (water, oil, or gas)",
+             "Water, oil, or gas"
+         ],
+         "correctAnswer": ["125 psi maximum operating pressure (steam)"],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What type of valve is most suited to throttling?",
+         "type": "single_type",
+         "options": [
+             "Globe valve.",
+             "Gate valve.",
+             "Ball valve.",
+             "Check valve.",
+             "Butterfly valve."
+         ],
+         "correctAnswer": ["Globe valve."],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the function of a ball valve and under what service conditions would it be used?",
+         "type": "single_type",
+         "options": [
+             "A ball valve is used to start and stop the flow of fluids. It can be used in almost any application (gas, water, steam, sewage, and oil to name a few).",
+             "A ball valve is used for throttling fluid flow. It is best used in high-temperature applications.",
+             "A ball valve is used to prevent backflow in the system. It is suitable for low-pressure applications.",
+             "A ball valve is used to regulate pressure. It is primarily used in steam systems.",
+             "A ball valve is used to filter impurities. It is ideal for use in sewage systems."
+           ],
+         "correctAnswer": [
+           "A ball valve is used to start and stop the flow of fluids. It can be used in almost any application (gas, water, steam, sewage, and oil to name a few)."
+         ],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What types and design of valves would be best suited for the following service applications?",
+         "type": "checkbox_type",
+         "options": [
+           "laminar flow, non-throttled: Ball or gate valve.",
+           "very close throttling: Needle valve.",
+           "restricted headroom non-throttling: Ball or non-rising stem gate valve.",
+           "change direction and throttle: Angle globe valve."
+         ],
+         "correctAnswer": [
+           "laminar flow, non-throttled: Ball or gate valve.",
+           "very close throttling: Needle valve.",
+           "restricted headroom non-throttling: Ball or non-rising stem gate valve.",
+           "change direction and throttle: Angle globe valve."
+         ],
+         "explanation": ""
+       },
+       {
+         "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "topicId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+         "question": "What is the main advantage of an NRS valve?",
+         "type": "single_type",
+         "options": [
+             "It requires less headroom to operate.",
+             "It has a lower cost.",
+             "It is easier to install.",
+             "It provides better flow control.",
+             "It is more durable."
+         ],
+         "correctAnswer": ["It requires less headroom to operate."],
+         "explanation": ""
+       }
+     ]
+   }

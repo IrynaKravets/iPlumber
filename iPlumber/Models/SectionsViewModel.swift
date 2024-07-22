@@ -25,7 +25,11 @@ class SectionsViewModel: ObservableObject {
                 "welded_pipe_and_fittings_210102c",
                 "plastic_pipe_and_tube_210102d",
                 "threaded_and_grooved_pipe_210102e_Part_1",
-                "threaded_and_grooved_pipe_210102e_Part_2"
+                "threaded_and_grooved_pipe_210102e_Part_2",
+                "tube_and_tubing_210102f",
+                "valves_210102g_Part_1",
+                "valves_210102g_Part_2",
+                "hangers_supports_and_fasteners_210102h"
             ],
             "Section 3: Metal Fabrication": [
                 // Add topic JSON filenames here

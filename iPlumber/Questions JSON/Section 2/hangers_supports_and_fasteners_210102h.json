@@ -1,0 +1,531 @@
+
+{
+    "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+    "name": "Hangers, Supports, and Fasterners",
+    "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+    "questions": [
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What has to be done to adjust the load indicator setting to the correct reading after the lower hanger rod has been attached to the hanger?",
+            "type": "single_type",
+            "options": [
+                "The load coupling must be turned until the load indicator setting is at the correct reading",
+                "Tighten the lower hanger rod",
+                "Loosen the upper hanger rod",
+                "Adjust the spring tension"
+            ],
+            "correctAnswer": [
+                "The load coupling must be turned until the load indicator setting is at the correct reading"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What is the purpose of the small engagement hole in the coupling for the J-rod attachment on a spring hanger?",
+            "type": "single_type",
+            "options": [
+                "To attach a safety pin",
+                "To ensure the lower J-rod has enough thread engagement before taking up the load",
+                "For lubrication access",
+                "To allow air flow"
+            ],
+            "correctAnswer": [
+                "To ensure the lower J-rod has enough thread engagement before taking up the load"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What is the indication that a sway brace is in the neutral position when the system is hot and operating?",
+            "type": "single_type",
+            "options": [
+                "Both spring plates should be in contact with the end plates",
+                "The sway brace should be parallel to the piping",
+                "The sway brace should be at a 45-degree angle",
+                "Both spring plates should be completely compressed"
+            ],
+            "correctAnswer": [
+                "Both spring plates should be in contact with the end plates"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What are the four (4) main factors to be considered for a piping support system?",
+            "type": "checkbox_type",
+            "options": [
+                "Carry the weight of the pipe system and its contents. Thre should be no weight or strain on the pipe joints or on any appliance connected to the installation",
+                "Grade the pipe system with an adequate slope. This will ensure that the fluids  or gases will not settle and cause stoppages",
+                "Prevent sagging or deflection of the pipe and avoid excessive bending stresses or concentrated loads between the hangers",
+                "Allow for thermal movement of the pipe and settlement of the building without undue strain being transmitted to the piping system"
+            ],
+            "correctAnswer": [
+                "Carry the weight of the pipe system and its contents. Thre should be no weight or strain on the pipe joints or on any appliance connected to the installation",
+                "Grade the pipe system with an adequate slope. This will ensure that the fluids  or gases will not settle and cause stoppages",
+                "Prevent sagging or deflection of the pipe and avoid excessive bending stresses or concentrated loads between the hangers",
+                "Allow for thermal movement of the pipe and settlement of the building without undue strain being transmitted to the piping system"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Define the following pipe support terms: Deflection and Grade",
+            "type": "single_type",
+            "options": [
+                "Deflection is the deviation from the centerline or snaking of the pipe between hangers. Grade is the slope on the pipe required for movement of all of the contents of the piping system.",
+                "Deflection is the bending of the pipe under load. Grade is the angle of the pipe installation.",
+                "Deflection is the pipe's thermal expansion. Grade is the amount of slope in the piping system.",
+                "Deflection is the movement of pipe under pressure. Grade is the percentage of slope in the pipe."
+            ],
+            "correctAnswer": [
+                "Deflection is the deviation from the centerline or snaking of the pipe between hangers. Grade is the slope on the pipe required for movement of all of the contents of the piping system."
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What three (3) items must be specified when ordering pipe saddles?",
+            "type": "checkbox_type",
+            "options": [
+                "Pipe diameter",
+                "Approximate bearing weight on the saddle",
+                "Insulation thickness"
+            ],
+            "correctAnswer": [
+                "Pipe diameter",
+                "Approximate bearing weight on the saddle",
+                "Insulation thickness"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "List three (3) points that should be considered when deciding on the spacing for hangers on a steel pipe.",
+            "type": "checkbox_type",
+            "options": [
+                "The material from which the piping is made",
+                "The location and type of joints",
+                "The size of the piping",
+                "The contents of the piping system"
+            ],
+            "correctAnswer": [
+                "The material from which the piping is made",
+                "The location and type of joints",
+                "The size of the piping"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: Galvanized - water, Size: 150mm (6'') iron or steel pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["5.5 m (18')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: Black - steam, Size: 400mm (16'') iron or steel pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["6.1 m (20')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: GWrought - air, Size: 75mm (3'') iron pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["4.3 m (14')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: 304 Stainless - gas, Size: 25mm (4'') steel pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["2.4 m (8')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: ABS or PVC, Size: 100mm (4'') pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["1.2 m (4')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: PE - water, Size: 65mm (2 1/2'') pipe ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["Continuous support"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Using given data, what are the maximum hanger spacings for the following applications? Type of pipe: Alumnium tube, Size: 200mm (8'') tube ",
+            "type": "single_type",
+            "options": [
+                "5.5 m (18')",
+                "6.1 m (20')",
+                "4.3 m (14')",
+                "2.4 m (8')",
+                "1.2 m (4')",
+                "Continuous support",
+                "2 m (6')"
+            ],
+            "correctAnswer": ["2 m (6')"],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What is the main factor to be considered for a piping support system to ensure the line will not trap pockets of liquid between the supports?",
+            "type": "single_type",
+            "options": [
+                "Load capacity of the fasteners",
+                "Adequate slope between the supports",
+                "Thrust forces against the anchors",
+                "Elastic limits of the piping material"
+            ],
+            "correctAnswer": [
+                "Adequate slope between the supports"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Which type of hanger is recommended for light loads where vertical movement does not exceed 32 mm (1-1/4\")?",
+            "type": "single_type",
+            "options": [
+                "Gimbal joint",
+                "Universal support",
+                "Spring hanger",
+                "Dummy leg"
+            ],
+            "correctAnswer": [
+                "Spring hanger"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "What has to be done to adjust the load indicator setting to the correct reading after the lower hanger rod has been attached to the hanger?",
+            "type": "single_type",
+            "options": [
+                "Remove the travel stop",
+                "Place a stop pin in the engagement hole to stop the coupling from spinning",
+                "Tighten the turnbuckle until the travel stop loosens up",
+                "Turn the load coupling until the load indicator setting is at the correct reading"
+            ],
+            "correctAnswer": [
+                "Turn the load coupling until the load indicator setting is at the correct reading"
+            ],
+            "explanation": ""
+        },
+        {
+             "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+             "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+             "question": "What is the purpose of the small engagement hole in the coupling for the J-rod attachment on a spring hanger?",
+             "type": "single_type",
+             "options": [
+                 "To ensure the lower J-rod has enough thread engagement before taking up the load",
+                 "To engage a holding pin to prevent the coupling from turning on the upper thread",
+                 "For placing a split pin in the rod-locking hole to prevent it from vibrating loose",
+                 "To indicate when the load is fully engaged. The hole opens when there is sufficient load on the hanger"
+             ],
+             "correctAnswer": [
+                 "To ensure the lower J-rod has enough thread engagement before taking up the load"
+             ],
+             "explanation": ""
+         },
+         {
+             "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+             "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+             "question": "What is the indication that a sway brace is in the neutral position when the system is hot and operating?",
+             "type": "single_type",
+             "options": [
+                 "The engagement hole is open",
+                 "There is no tension on the spring",
+                 "The spring plates are tight against the end plates",
+                 "The load indicator is at the HOT (H) setting"
+             ],
+             "correctAnswer": [
+                 "The spring plates are tight against the end plates"
+             ],
+             "explanation": ""
+         },
+         {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "Rosin placed on a nail during manufacture",
+              "type": "single_type",
+              "options": [
+                  "Allows the nail to be bonded with other nails into a strip for use with automatic nailing equipment",
+                  "Prevents corrosion of the nail",
+                  "Matches the nail to the colour of wood being nailed",
+                  "Lubricates the nail during driving, then bonds it to the wood"
+              ],
+              "correctAnswer": [
+                  "Lubricates the nail during driving, then bonds it to the wood"
+              ],
+              "explanation": ""
+          },
+          {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "Any style of shank on a nail other than a smooth shank is produced for",
+              "type": "single_type",
+              "options": [
+                  "Strengthening the nail during driving",
+                  "Increased holding power for the nail",
+                  "Increasing the cost of the nail",
+                  "Use in specialized applications, such as nailing thin materials to roof structures"
+              ],
+              "correctAnswer": [
+                  "Increased holding power for the nail"
+              ],
+              "explanation": ""
+          },
+          {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "Claw hammers are used to drive nails into wood because",
+              "type": "single_type",
+              "options": [
+                  "The hammer has a built-in nail removal component if the nail bends during driving",
+                  "You can easily switch from driving a nail to removing it",
+                  "They have a flat face that prevents them from sliding off the nail when the nail is struck",
+                  "They will not mar wood surfaces if the wood is accidentally struck when driving nails"
+              ],
+              "correctAnswer": [
+                  "They have a flat face that prevents them from sliding off the nail when the nail is struck"
+              ],
+              "explanation": ""
+          },
+          {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "Wood screws differ from sheet metal screws in that wood screws",
+              "type": "single_type",
+              "options": [
+                  "Have a tapered shank",
+                  "Have finer threads than sheet metal screws",
+                  "Are made with different styles of head than sheet metal screws",
+                  "Have an unthreaded portion on the shank just below the screw head"
+              ],
+              "correctAnswer": [
+                  "Have an unthreaded portion on the shank just below the screw head"
+              ],
+              "explanation": ""
+          },
+          {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "Sheet metal screws have:",
+              "type": "single_type",
+              "options": [
+                  "Greater mechanical advantage than wood screws",
+                  "Less mechanical advantage than wood screws"
+              ],
+              "correctAnswer": [
+                  "Greater mechanical advantage than wood screws"
+              ],
+              "explanation": ""
+          },
+          {
+              "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+              "question": "When drilling holes through sheet metal for screw placement:",
+              "type": "single_type",
+              "options": [
+                  "Use a bit with a self-centring point",
+                  "Mark the hole with a centre punch",
+                  "Choose a bit slightly larger than the screw",
+                  "The hole must be tapped with a suitable thread"
+              ],
+              "correctAnswer": [
+                  "Mark the hole with a centre punch"
+              ],
+              "explanation": ""
+          },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Machine screw fastenings require",
+            "type": "single_type",
+            "options": [
+                "Thread locking compounds to be used to prevent the screw from vibrating loose",
+                "Separate anchors to be installed for screw placement",
+                "Threaded holes or nuts for fastening components together",
+                "Self-tapping screw ends for fastener placement"
+            ],
+            "correctAnswer": [
+                "Threaded holes or nuts for fastening components together"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "The threads applied to bolt stock may be fine or coarse threads that are formed to the standards set out in the",
+            "type": "single_type",
+            "options": [
+                "American Society of Mechanical Engineers standards",
+                "Society of Automotive Engineers standards",
+                "United States, Britain, and Canada",
+                "Unified Thread System"
+            ],
+            "correctAnswer": [
+                "Unified Thread System"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Studs differ from bolts in that",
+            "type": "single_type",
+            "options": [
+                "Bolts are made from stronger steel",
+                "Bolts are threaded on both ends",
+                "Studs are threaded on both ends",
+                "Studs are made with different threads than bolts"
+            ],
+            "correctAnswer": [
+                "Studs are threaded on both ends"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Fastener anchor categories are divided into",
+            "type": "single_type",
+            "options": [
+                "Light-duty and heavy-duty anchors",
+                "Threaded and non-threaded anchors",
+                "Deep and shallow anchors",
+                "Concrete anchors and drywall anchors"
+            ],
+            "correctAnswer": [
+                "Light-duty and heavy-duty anchors"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "The holding power of anchors is greatly influenced by",
+            "type": "single_type",
+            "options": [
+                "The setting depth of the anchor",
+                "The cleanliness of the hole",
+                "Proper adhesives being used",
+                "Making sure the hole is sealed"
+            ],
+            "correctAnswer": [
+                "The cleanliness of the hole"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "Adhesive anchors are considered to be",
+            "type": "single_type",
+            "options": [
+                "Light-duty anchors",
+                "Heavy-duty anchors",
+                "Expanding sleeve anchors",
+                "Drop-in anchors"
+            ],
+            "correctAnswer": [
+                "Heavy-duty anchors"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
+            "question": "To drill large or deep holes in hard, thick masonry, you should use a drill with",
+            "type": "single_type",
+            "options": [
+                "A reversing feature",
+                "A hammer feature",
+                "Heavy hand and arm pressure on the handle",
+                "A large motor"
+            ],
+            "correctAnswer": [
+                "A hammer feature"
+            ],
+            "explanation": ""
+        }
+    ]
+}

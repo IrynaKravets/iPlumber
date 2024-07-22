@@ -1,0 +1,628 @@
+{
+  "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+  "name": "Tube and Tubing",
+  "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+  "questions": [
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the colour code that indicates the following types of copper tube. Type M:",
+      "type": "single_type",
+      "options": [
+        "yellow",
+        "blue",
+        "green",
+        "red"
+      ],
+      "correctAnswer": ["red"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the colour code that indicates the following types of copper tube. Type DWV: ",
+      "type": "single_type",
+      "options": [
+          "yellow",
+          "blue",
+          "green",
+          "red"
+      ],
+      "correctAnswer": ["yellow"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the colour code that indicates the following types of copper tube. Type L: ",
+      "type": "single_type",
+      "options": [
+          "yellow",
+          "blue",
+          "green",
+          "red"
+      ],
+      "correctAnswer": ["blue"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the colour code that indicates the following types of copper tube. Type K:",
+      "type": "single_type",
+      "options": [
+          "yellow",
+          "blue",
+          "green",
+          "red"
+      ],
+      "correctAnswer": ["green"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List three (3) advantages of copper tube over steel pipe.",
+      "type": "checkbox_type",
+      "options": [
+        "Malleability",
+        "Ductility",
+        "Corrosion resistance"
+      ],
+      "correctAnswer": [
+        "Malleability",
+        "Ductility",
+        "Corrosion resistance"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type K wall thickness for 1/2 tube _________",
+      "type": "single_type",
+      "options": [
+        "0.049",
+        "0.040",
+        "0.028"
+      ],
+      "correctAnswer": ["0.049"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type L wall thickness for 1/2 tube _________",
+      "type": "single_type",
+      "options": [
+          "0.049",
+          "0.040",
+          "0.028"
+      ],
+      "correctAnswer": ["0.040"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type M wall thickness for 1/2 tube _________",
+      "type": "single_type",
+      "options": [
+          "0.049",
+          "0.040",
+          "0.028"
+      ],
+      "correctAnswer": ["0.028"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List three (3) applications of DWV copper tube in the piping trade.",
+      "type": "checkbox_type",
+      "options": [
+        "Drains",
+        "Wastes",
+        "Vents"
+      ],
+      "correctAnswer": [
+        "Drains",
+        "Wastes",
+        "Vents"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List three (3) applications of Type K copper tube in the piping trades.",
+      "type": "checkbox_type",
+      "options": [
+        "Water service lines - soft copper",
+        "Water distribution systems",
+        "Low-pressure steam lines"
+      ],
+      "correctAnswer": [
+        "Water service lines - soft copper",
+        "Water distribution systems",
+        "Low-pressure steam lines"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the application of Type L copper tube in the Gas industry:",
+      "type": "single_type",
+      "options": [
+          "Gas industry: only for above-ground systems",
+          "Gas industry: for underground systems only",
+          "Gas industry: for high-pressure systems",
+          "Gas industry: for low-pressure systems only",
+        "Gas industry: below-grade piping if factory coated, above-ground for all systems up to 1 1/4 NPS"
+      ],
+      "correctAnswer": ["Gas industry: below-grade piping if factory coated, above-ground for all systems up to 1 1/4 NPS"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the application of Type L copper tube in the Plumbing:",
+      "type": "single_type",
+      "options": [
+          "Plumbing: only for water distribution",
+          "Plumbing: for gas distribution",
+          "Plumbing: DWV, water service, water distribution",
+          "Plumbing: for electrical conduit",
+          "Plumbing: for HVAC systems"
+        
+      ],
+      "correctAnswer": ["Plumbing: DWV, water service, water distribution"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What is the main application of Type M copper tube?",
+      "type": "single_type",
+      "options": [
+        "Residential and light commercial in building water and heating lines",
+        "Industrial applications with high pressure",
+        "Gas distribution systems",
+        "Electrical conduit for residential buildings",
+        "Underground water service"
+      ],
+      "correctAnswer": [
+        "Residential and light commercial in building water and heating lines"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "In what ways does soft temper copper tube differ from hard temper copper tube?",
+      "type": "single_type",
+      "options": [
+        "Soft copper can be bent without the use of special bending tools",
+        "Hard copper is more flexible",
+        "Soft copper is used for high-pressure systems",
+        "Hard copper is easier to cut",
+        "Soft copper is more resistant to corrosion"
+      ],
+      "correctAnswer": [
+        "Soft copper can be bent without the use of special bending tools"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What is the greatest disadvantage of copper pipe over iron or steel pipe?",
+      "type": "single_type",
+      "options": [
+        "Lower strength",
+        "Higher rate of expansion",
+        "Higher cost",
+        "Less corrosion resistance",
+        "More difficult to join"
+      ],
+      "correctAnswer": [
+        "Higher rate of expansion"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "In what sizes is DWV tube manufactured?",
+      "type": "single_type",
+      "options": [
+          "1/2'' through 4'', in straight lengths of 10' to 15'",
+          "1'' through 5'', in straight lengths of 8' to 16'",
+          "2'' through 8'', in straight lengths of 14' to 22'",
+          "1 1/4'' through 6'', in straight lengths of 12' to 20'",
+          "3/4'' through 7'', in straight lengths of 11' to 19'"
+      ],
+      "correctAnswer": ["1 1/4'' through 6'', in straight lengths of 12' to 20'"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What are the minimum sizes of tube made in the following types? Type M:",
+      "type": "single_type",
+      "options": [
+        "1/4''",
+        "1/6''",
+        "1/4",
+        "1/2''"
+      ],
+      "correctAnswer": ["1/4''"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What are the minimum sizes of tube made in the following types? Type K:",
+      "type": "single_type",
+      "options": [
+          "1/4''",
+          "1/6''",
+          "1/4",
+          "1/2''"
+      ],
+      "correctAnswer": ["1/4''"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What are the minimum sizes of tube made in the following types? Type L:",
+      "type": "single_type",
+      "options": [
+          "1/4''",
+          "1/6''",
+          "1/4",
+          "1/2''"
+      ],
+      "correctAnswer": ["1/4"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What are the minimum sizes of tube made in the following types? Type DWV:",
+      "type": "single_type",
+      "options": [
+          "1/4''",
+          "1/6''",
+          "1 1/4''",
+          "1/2''"
+      ],
+      "correctAnswer": ["1 1/4''"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What is the essential difference between oxygen tube and regular type K or L tube?",
+      "type": "single_type",
+      "options": [
+        "Oxygen tube is cleaned and capped",
+        "Oxygen tube is thicker",
+        "Oxygen tube is more flexible",
+        "Oxygen tube is longer",
+        "Oxygen tube is painted"
+      ],
+      "correctAnswer": [
+        "Oxygen tube is cleaned and capped"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper pipe is made from 99.7% pure copper. Explain what 99.7% pure copper means.",
+      "type": "single_type",
+      "options": [
+          "The copper is mixed with 0.3% other metals",
+          "The copper is 100% pure",
+          "The copper has 99.7% conductivity",
+          "The copper has only 0.3% impurities",
+          "The copper has 99.7% strength"
+      ],
+      "correctAnswer": [
+        "The copper has only 0.3% impurities"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper is used with other metals to form metallic alloys. Name one copper alloy and list the materials (and %) from which it is compounded.",
+      "type": "checkbox_type",
+      "options": [
+        "Yellow Brass - 66% copper and 34% zinc",
+        "Red Brass - 85% copper and 15% zinc",
+        "Bronze - 90% copper and 10 % tin"
+      ],
+      "correctAnswer": [
+        "Yellow Brass - 66% copper and 34% zinc",
+        "Red Brass - 85% copper and 15% zinc",
+        "Bronze - 90% copper and 10 % tin"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube used for the following applications. Hot and cold water lines:",
+      "type": "single_type",
+      "options": [
+        "Types K, L, and M",
+        "Types DWV, K, L, and M",
+        "Types K and L",
+        "Type K, soft; Type L, soft, factory coated; Type G, factory coated"
+      ],
+      "correctAnswer": ["Types K, L, and M"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube used for the following applications. Drainage waste and vent lines:",
+      "type": "single_type",
+      "options": [
+          "Types K, L, and M",
+          "Types DWV, K, L, and M",
+          "Types K and L",
+          "Type K, soft; Type L, soft, factory coated; Type G, factory coated"
+      ],
+      "correctAnswer": ["Types DWV, K, L, and M"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube used for the following applications. Water heating system:",
+      "type": "single_type",
+      "options": [
+          "Types K, L, and M",
+          "Types DWV, K, L, and M",
+          "Types K and L",
+          "Type K, soft; Type L, soft, factory coated; Type G, factory coated"
+      ],
+      "correctAnswer": ["Types K, L, and M"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube used for the following applications. Steam heating systems:",
+      "type": "single_type",
+      "options": [
+          "Types K, L, and M",
+          "Types DWV, K, L, and M",
+          "Types K and L",
+          "Type K, soft; Type L, soft, factory coated; Type G, factory coated"
+      ],
+      "correctAnswer": ["Types K and L"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "List the types of copper tube used for the following applications. Underground gas lines:",
+      "type": "single_type",
+      "options": [
+          "Types K, L, and M",
+          "Types DWV, K, L, and M",
+          "Types K and L",
+          "Type K, soft; Type L, soft, factory coated; Type G, factory coated"
+      ],
+      "correctAnswer": ["Type K, soft; Type L, soft, factory coated; Type G, factory coated"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What does the abbreviation SPS mean when applied to copper pipe?",
+      "type": "single_type",
+      "options": [
+          "Special Pipe Size",
+          "Standard Pressure System",
+          "Single Pipe System",
+          "Standard Pipe Size/Steel Pipe Size",
+          "Seamless Pipe Standard"
+      ],
+      "correctAnswer": [
+        "Standard Pipe Size/Steel Pipe Size"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper tube is lighter than the same size steel pipe, but copper is heavier than steel. Explain.",
+      "type": "single_type",
+      "options": [
+          "Copper tube is made with less material than steel pipe",
+          "Copper tube is hollow, while steel pipe is solid",
+          "Copper tube is used for different applications than steel pipe",
+          "Copper tube is manufactured using a different process than steel pipe",
+        "Copper tube has a thinner wall thickness than steel pipe, while copper has a greater relative density or specific gravity than steel"
+      ],
+      "correctAnswer": [
+        "Copper tube has a thinner wall thickness than steel pipe, while copper has a greater relative density or specific gravity than steel"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What is the coefficient of expansion for copper?",
+      "type": "single_type",
+      "options": [
+        "0.00001234°C or 0.0000102°F",
+        "0.00000897°C or 0.0000075°F",
+        "0.00001122°C or 0.0000099°F",
+        "0.00001071°C or 0.0000095°F",
+        "0.00000984°C or 0.0000087°F"
+      ],
+      "correctAnswer": ["0.00001071°C or 0.0000095°F"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What is the chemical symbol for copper?",
+      "type": "single_type",
+      "options": [
+        "Cu",
+        "Co",
+        "C",
+        "Cp",
+        "Cm"
+      ],
+      "correctAnswer": ["Cu"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper pipe is measured by its approximate _______ up to _______ and by its actual _______ for _______ and over.",
+      "type": "single_type",
+      "options": [
+          "outside diameter (OD), 10'' NPS, inside diameter (ID), 12''",
+          "thickness, 8'' NPS, length, 10''",
+          "inside diameter (ID), 6'' NPS, wall thickness, 8''",
+          "length, 14'' NPS, diameter, 16''",
+          "inside diameter (ID),  12'' NPS, outside diameter (OD), 14''"
+      ],
+      "correctAnswer": ["inside diameter (ID),  12'' NPS, outside diameter (OD), 14''"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper tube is measured by its approximate _______.",
+      "type": "single_type",
+      "options": [
+          "outside diameter (OD)",
+          "wall thickness",
+          "length",
+          "inside diameter (ID) - NPS",
+          "weight"
+      ],
+      "correctAnswer": ["inside diameter (ID) - NPS"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper tubing is measured by its actual _______.",
+      "type": "single_type",
+      "options": [
+          "inside diameter (ID) and length",
+          "length and weight",
+          "outside diameter (OD) and wall thickness",
+          "thickness and flexibility",
+          "inside diameter (ID) and pressure rating"
+      ],
+      "correctAnswer": ["outside diameter (OD) and wall thickness"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "Copper tube can be joined by the following methods:",
+      "type": "checkbox_type",
+      "options": [
+        "Soldering",
+        "Flared fittings",
+        "Compression fittings",
+        "Brazing",
+        "Press connect"
+      ],
+      "correctAnswer": [
+        "Soldering",
+        "Flared fittings",
+        "Compression fittings",
+        "Brazing",
+        "Press connect"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "A Tylok fitting differs from a standard compression fitting. Explain the difference.",
+      "type": "single_type",
+      "options": [
+          "Tylok has a larger diameter",
+          "Tylok uses an additional ferrule",
+          "Tylok is made of a different material",
+          "Tylok requires a special tool for installation",
+          "Tylok is used for high-pressure systems only"
+      ],
+      "correctAnswer": ["Tylok uses an additional ferrule"],
+      "explanation": ""
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "With a sketch, show the difference between a single and a double flare.",
+      "type": "single_type",
+      "options": [
+        "Figure 13 - Single and double flares"
+      ],
+      "correctAnswer": [
+        "Figure 13 - Single and double flares"
+      ],
+      "explanation": "",
+      "imageName": "Figure 13"
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "What angle of flare is utilized in the piping trade?",
+      "type": "text_type",
+      "options": [],
+      "correctAnswer": ["45"],
+      "explanation": "45°"
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "To make consistent bends on tubing, you should use _______ or _______.",
+      "type": "checkbox_type",
+      "options": [
+        "Lever",
+        "Mechanical benders",
+        "Gear benders"
+      ],
+      "correctAnswer": [
+        "Lever",
+        "Mechanical benders",
+        "Gear benders"
+      ],
+      "explanation": "Any of the following are acceptable: Lever; Mechanical benders; Gear benders"
+    },
+    {
+      "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
+      "question": "When bending larger sizes of tube, the better bender to use is the _______.",
+      "type": "single_type",
+      "options": [
+          "manual type",
+          "mechanical type",
+          "hydraulic type",
+          "electric type",
+          "pneumatic type"
+      ],
+      "correctAnswer": ["mechanical type"],
+      "explanation": ""
+    }
+  ]
+}
