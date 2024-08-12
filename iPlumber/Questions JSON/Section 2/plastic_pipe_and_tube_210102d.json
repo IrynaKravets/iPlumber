@@ -370,7 +370,7 @@
     {
         "id": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
       "topicId": "cf84d321-10da-44e4-82bb-1fce6e5d9330",
-      "question": "A 200 mm (8\") joint, solvent cemented at a temperature of 10°C (50°F), requires a cure time of __________ to __________ before the line can be pressure-tested.",
+      "question": "A 200 mm (8'') joint, solvent cemented at a temperature of 10°C (50°F), requires a cure time of __________ to __________ before the line can be pressure-tested.",
       "type": "single_type",
       "options": [
           "6, 24 hours",

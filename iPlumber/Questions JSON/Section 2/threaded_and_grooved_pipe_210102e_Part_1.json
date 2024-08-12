@@ -91,7 +91,7 @@
          {
            "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
            "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
-           "question": "A 2\" NPS has an actual inside diameter of 2.067\" and a wall thickness of exactly 0.154\". What is the exact outside diameter of the pipe?",
+           "question": "A 2'' NPS has an actual inside diameter of 2.067'' and a wall thickness of exactly 0.154''. What is the exact outside diameter of the pipe?",
            "type": "text_type",
            "options": [],
            "correctAnswer": ["2.375", "2 3/8", "2,375"],
@@ -100,7 +100,7 @@
          {
            "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
            "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
-           "question": "A 10\" NPS pipe has an actual OD of 10.75\" and an actual ID of 9.75\". What grade of pipe is this?",
+           "question": "A 10'' NPS pipe has an actual OD of 10.75'' and an actual ID of 9.75''. What grade of pipe is this?",
            "type": "text_type",
            "options": [],
            "correctAnswer": ["Sch 60", "60", "XS", "Sch. 60"],
@@ -109,11 +109,11 @@
          {
            "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
            "topicId": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",
-           "question": "A 10\" NPS pipe has an actual OD of 10.75\" and an actual ID of 9.75\". What is its wall thickness (WT)?",
+           "question": "A 10'' NPS pipe has an actual OD of 10.75'' and an actual ID of 9.75''. What is its wall thickness (WT)?",
            "type": "text_type",
            "options": [],
            "correctAnswer": ["0.5", "0,5"],
-           "explanation": "WT = 10.75\" - 9.75\" = 1.0\" / 2 = 0.5\""
+           "explanation": "WT = 10.75'' - 9.75'' = 1.0'' / 2 = 0.5''"
          },
          {
            "id": "e0b1c02c-2a7e-11ec-8d3d-0242ac130003",

@@ -79,7 +79,7 @@
     {
       "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
       "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
-      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type K wall thickness for 1/2 tube _________",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2'' tube in each case. Type K wall thickness for 1/2 tube _________",
       "type": "single_type",
       "options": [
         "0.049",
@@ -92,7 +92,7 @@
     {
       "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
       "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
-      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type L wall thickness for 1/2 tube _________",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2'' tube in each case. Type L wall thickness for 1/2 tube _________",
       "type": "single_type",
       "options": [
           "0.049",
@@ -105,7 +105,7 @@
     {
       "id": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
       "topicId": "bd2b1c99-439a-4e6e-9f07-8ab25a7f4e9b",
-      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2\" tube in each case. Type M wall thickness for 1/2 tube _________",
+      "question": "List the types of copper tube K, L and M, in order of their wall thickness (thickest first) and state the wall thickness for 1/2'' tube in each case. Type M wall thickness for 1/2 tube _________",
       "type": "single_type",
       "options": [
           "0.049",

@@ -260,7 +260,7 @@
         {
             "id": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
             "topicId": "4a391d9e-daf3-4e80-bc27-9b3c7f4b01c8",
-            "question": "Which type of hanger is recommended for light loads where vertical movement does not exceed 32 mm (1-1/4\")?",
+            "question": "Which type of hanger is recommended for light loads where vertical movement does not exceed 32 mm (1-1/4'')?",
             "type": "single_type",
             "options": [
                 "Gimbal joint",

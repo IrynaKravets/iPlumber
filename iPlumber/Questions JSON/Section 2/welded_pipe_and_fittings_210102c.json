@@ -161,20 +161,20 @@
     {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "Using either the previous method or an alternative method, calculate the centre to face measurement for an 8\" (200 mm) long radius butt weld 45° elbow. Show your work.",
+        "question": "Using either the previous method or an alternative method, calculate the centre to face measurement for an 8'' (200 mm) long radius butt weld 45° elbow. Show your work.",
         "type": "text_type",
         "options": [],
         "correctAnswer": ["5"],
-        "explanation": "Method 1) = NPS x 5/8 = 8\" x 5/8 = 5\". Method 2) NPS x 1/2 x 1/2 = 4\". Add the 1st and 3rd answers. 8\" x 1/2 = 4\" x 1/2 = 2\" x 1/2 = 1\". Add 1st and 3rd, 4\" + 1\" = 5\"."
+        "explanation": "Method 1) = NPS x 5/8 = 8'' x 5/8 = 5''. Method 2) NPS x 1/2 x 1/2 = 4''. Add the 1st and 3rd answers. 8'' x 1/2 = 4'' x 1/2 = 2'' x 1/2 = 1when power or energy cannot flow due to the position of a disconnecting switch. Add 1st and 3rd, 4'' + 1'' = 5''."
     },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "Calculate the centre to face measurement for a 10\" (250 mm) long radius butt weld 90° elbow. Show your work.",
+        "question": "Calculate the centre to face measurement for a 10'' (250 mm) long radius butt weld 90° elbow. Show your work.",
         "type": "text_type",
         "options": [],
         "correctAnswer": ["15"],
-        "explanation": "NPS x 1 1/2 = 10\" x 1 1/2 = 15\"."
+        "explanation": "NPS x 1 1/2 = 10'' x 1 1/2 = 15''."
       },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
@@ -191,16 +191,16 @@
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "For a 6\" x 6\" x 3\" std. butt weld tee, what does the 3\" tell you?",
+        "question": "For a 6'' x 6'' x 3'' std. butt weld tee, what does the 3'' tell you?",
         "type": "single_type",
         "options": [
-            "The branch outlet is 3\" NPS.",
-            "The main run size is 3\".",
-            "The fitting length is 3\".",
-            "The wall thickness is 3\".",
-            "The pressure rating is 3\"."
+            "The branch outlet is 3'' NPS.",
+            "The main run size is 3''.",
+            "The fitting length is 3''.",
+            "The wall thickness is 3''.",
+            "The pressure rating is 3''."
         ],
-        "correctAnswer": ["The branch outlet is 3\" NPS."],
+        "correctAnswer": ["The branch outlet is 3'' NPS."],
         "explanation": ""
       },
       {
@@ -210,16 +210,16 @@
         "type": "text_type",
         "options": [],
         "correctAnswer": ["4 7/8", "5", "4.875", "4,875"],
-        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 4 7/8\"."
+        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 4 7/8''."
       },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "What would the fitting allowance be for a 2\" 3000# SW tee?",
+        "question": "What would the fitting allowance be for a 2'' 3000# SW tee?",
         "type": "text_type",
         "options": [],
         "correctAnswer": ["1 1/2", "1,5", "1.5"],
-        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 1 1/2\"."
+        "explanation": "Refer to your IPT Pipe Trades Handbook. The fitting allowance is 1 1/2''."
       },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
@@ -273,12 +273,12 @@
         "question": "The land width for a butt weld is typically _____ and _____ (may/may not) vary in accordance with a QCM or weld procedure.",
         "type": "single_type",
         "options": [
-          "1/8\"; 1/16\"",
-          "1/7\"; 1/16\"",
-          "1/8\"; 1/10\"",
-          "1/5\"; 1/16\""
+          "1/8''; 1/16''",
+          "1/7''; 1/16''",
+          "1/8''; 1/10''",
+          "1/5''; 1/16''"
         ],
-        "correctAnswer": ["1/8\"; 1/16\""],
+        "correctAnswer": ["1/8''; 1/16''"],
         "explanation": ""
       },
       {
@@ -340,7 +340,7 @@
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "You would find a screwed companion flange on an 8\" (200 mm), 900 psi flanged joint.",
+        "question": "You would find a screwed companion flange on an 8'' (200 mm), 900 psi flanged joint.",
         "type": "single_type",
         "options": [
           "True",
@@ -352,14 +352,14 @@
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "A 600# RFWNF has a face that is raised: a) 1/16\" (1.6 mm). b) 1/4\" (6.35 mm). c) 1/2\" (13 mm).",
+        "question": "A 600# RFWNF has a face that is raised: a) 1/16'' (1.6 mm). b) 1/4'' (6.35 mm). c) 1/2'' (13 mm).",
         "type": "single_type",
         "options": [
-          "1/16\" (1.6 mm).",
-          "1/4\" (6.35 mm).",
-          "1/2\" (13 mm)."
+          "1/16'' (1.6 mm).",
+          "1/4'' (6.35 mm).",
+          "1/2'' (13 mm)."
         ],
-        "correctAnswer": ["1/4\" (6.35 mm)."],
+        "correctAnswer": ["1/4'' (6.35 mm)."],
         "explanation": ""
       },
       {
@@ -394,16 +394,16 @@
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "What size and number of studs are required for bolting up a 12\" 600# flanged joint?",
+        "question": "What size and number of studs are required for bolting up a 12'' 600# flanged joint?",
         "type": "single_type",
         "options": [
-            "1 1/4\" x 8\" bolts and 20 bolts are required.",
-            "1 1/2\" x 9\" bolts and 24 bolts are required.",
-            "1\" x 7\" bolts and 18 bolts are required.",
-            "1 1/4\" x 6\" bolts and 20 bolts are required.",
-            "1\" x 8\" bolts and 16 bolts are required."
+            "1 1/4'' x 8'' bolts and 20 bolts are required.",
+            "1 1/2'' x 9'' bolts and 24 bolts are required.",
+            "1'' x 7'' bolts and 18 bolts are required.",
+            "1 1/4'' x 6'' bolts and 20 bolts are required.",
+            "1'' x 8'' bolts and 16 bolts are required."
         ],
-        "correctAnswer": ["1 1/4\" x 8\" bolts and 20 bolts are required."],
+        "correctAnswer": ["1 1/4'' x 8'' bolts and 20 bolts are required."],
         "explanation": ""
       },
       {
@@ -413,21 +413,21 @@
         "type": "text_type",
         "options": [],
         "correctAnswer": ["16/8", "2"],
-        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8\", (1 1/4 x 1 1/2) + 1/8 = (5/4 x 3/2) + 1/8 = 15/8 + 1/8 = 16/8 or 2\"."
+        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8'', (1 1/4 x 1 1/2) + 1/8 = (5/4 x 3/2) + 1/8 = 15/8 + 1/8 = 16/8 or 2''."
       },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
         "topicId": "8c3f0f14-4dc2-11ee-be56-0242ac120002",
-        "question": "What size and number of studs are required for bolting up a 4\" 150# RF flanged joint?",
+        "question": "What size and number of studs are required for bolting up a 4'' 150# RF flanged joint?",
         "type": "single_type",
         "options": [
-            "5/8\" x 3 1/2\" bolts and 8 bolts are required.",
-            "3/4\" x 4\" bolts and 8 bolts are required.",
-            "1/2\" x 3\" bolts and 10 bolts are required.",
-            "5/8\" x 4\" bolts and 8 bolts are required.",
-            "3/4\" x 3 1/2\" bolts and 10 bolts are required."
+            "5/8'' x 3 1/2'' bolts and 8 bolts are required.",
+            "3/4'' x 4'' bolts and 8 bolts are required.",
+            "1/2'' x 3'' bolts and 10 bolts are required.",
+            "5/8'' x 4'' bolts and 8 bolts are required.",
+            "3/4'' x 3 1/2'' bolts and 10 bolts are required."
         ],
-        "correctAnswer": ["5/8\" x 3 1/2\" bolts and 8 bolts are required."],
+        "correctAnswer": ["5/8'' x 3 1/2'' bolts and 8 bolts are required."],
         "explanation": ""
       },
       {
@@ -437,7 +437,7 @@
         "type": "text_type",
         "options": [],
         "correctAnswer": ["17/16", "1 1/16", "1.0625", "1,0625"],
-        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8\", (5/8 x 1 1/2) + 1/8 = (5/8 x 3/2) + 1/8 = 15/16 or 1 1/16\"."
+        "explanation": "Wrench size = bolt size x 1 1/2 + 1/8'', (5/8 x 1 1/2) + 1/8 = (5/8 x 3/2) + 1/8 = 15/16 or 1 1/16''."
       },
       {
         "id": "8c3f0f14-4dc2-11ee-be56-0242ac120002",

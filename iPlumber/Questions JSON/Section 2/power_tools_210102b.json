@@ -23,12 +23,12 @@
       "question": "The gap between the tool rest and the grindstone on a bench grinder should never be more than",
       "type": "single_type",
       "options": [
-        "1.6 mm (1/16\").",
-        "3 mm (1/8\").",
-        "6 mm (1/4\").",
-        "12 mm (1/2\")."
+        "1.6 mm (1/16'').",
+        "3 mm (1/8'').",
+        "6 mm (1/4'').",
+        "12 mm (1/2'')."
       ],
-      "correctAnswer": ["3 mm (1/8\")."],
+      "correctAnswer": ["3 mm (1/8'')."],
       "explanation": ""
     },
     {
