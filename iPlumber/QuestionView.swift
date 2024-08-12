@@ -3,6 +3,8 @@ import SwiftUI
 struct QuestionView: View {
     @ObservedObject var testViewModel: TestViewModel
     @Binding var navigationPath: NavigationPath
+    @State private var isFullScreenImagePresented = false
+    @State private var selectedImageName: String?
 
     var body: some View {
         VStack {
@@ -13,14 +15,19 @@ struct QuestionView: View {
                             .font(.title3)
                             .multilineTextAlignment(.leading)
                             .padding()
-
-                        if let imageName = testViewModel.currentQuestion.imageName {
-                            NavigationLink(destination: FullScreenImageView(imageName: imageName)) {
-                                Image(imageName)
-                                    .resizable()
-                                    .aspectRatio(contentMode: .fit)
-                                    .frame(maxWidth: .infinity)
-                                    .padding()
+                        
+                        if let imageNames = testViewModel.currentQuestion.imageNames {
+                            ForEach(imageNames, id: \.self) { imageName in
+                                Button(action: {
+                                    selectedImageName = imageName
+                                    isFullScreenImagePresented = true
+                                }) {
+                                    Image(imageName)
+                                        .resizable()
+                                        .aspectRatio(contentMode: .fit)
+                                        .frame(maxWidth: .infinity)
+                                        .padding()
+                                }
                             }
                         }
 
@@ -120,8 +127,35 @@ struct QuestionView: View {
                     .padding()
             }
         }
+        .fullScreenCover(isPresented: $isFullScreenImagePresented) {
+            if let selectedImageName = selectedImageName {
+                FullScreenImageView(imageName: selectedImageName)
+            }
+        }
         .navigationDestination(isPresented: $testViewModel.showResult) {
             ResultView(score: testViewModel.score, totalQuestions: testViewModel.questions.count, navigationPath: $navigationPath)
         }
+    }
+}
+
+struct FullScreenImageView: View {
+    let imageName: String
+    @Environment(\.presentationMode) var presentationMode
+
+    var body: some View {
+        VStack {
+            Spacer()
+            Image(imageName)
+                .resizable()
+                .scaledToFit()
+                .frame(maxWidth: .infinity, maxHeight: .infinity)
+                .background(Color.black)
+                .onTapGesture {
+                    presentationMode.wrappedValue.dismiss()
+                }
+            Spacer()
+        }
+        .background(Color.black)
+        .edgesIgnoringSafeArea(.all)
     }
 }

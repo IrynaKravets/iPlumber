@@ -1,0 +1,162 @@
+{
+    "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+    "name": "Welding: Part B",
+    "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+    "questions": [
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "Which gas is produced using the air liquefaction process?",
+            "type": "single_type",
+            "options": [
+                "acetylene",
+                "oxygen",
+                "propane",
+                "MAPP"
+            ],
+            "correctAnswer": ["oxygen"],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "What should be done before the cylinder valve protective caps are removed?",
+            "type": "single_type",
+            "options": [
+                "Cylinders should be pressure-tested.",
+                "Cylinders should be secured.",
+                "Cylinder valves should be cracked.",
+                "Regulators should be installed."
+            ],
+            "correctAnswer": ["Cylinders should be secured."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "To protect the regulator gauges from being damaged:",
+            "type": "single_type",
+            "options": [
+                "only use regulators with a pre-set stage.",
+                "release the adjusting screw before you open the cylinder valve.",
+                "engage the adjusting screw to allow unrestricted gas flow.",
+                "use only gauges equipped with stainless steel bourdon tubes."
+            ],
+            "correctAnswer": ["release the adjusting screw before you open the cylinder valve."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "When a piece of metal is cut, it creates a cut gap called the:",
+            "type": "single_type",
+            "options": [
+                "preheater",
+                "bead",
+                "kerf",
+                "crater"
+            ],
+            "correctAnswer": ["kerf"],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "On a combination cutting torch, the oxygen valve on the torch handle must be:",
+            "type": "single_type",
+            "options": [
+                "closed tightly.",
+                "partially open.",
+                "fully open.",
+                "there is no oxygen valve on the torch handle."
+            ],
+            "correctAnswer": ["fully open."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "When the cut is rough and slag accumulates on the bottom edge, what is the likely cause?",
+            "type": "single_type",
+            "options": [
+                "using propane fuel gas",
+                "using oxygen that is only 99.5% pure",
+                "using a dirty tip",
+                "using acetylene that is only 50% pure"
+            ],
+            "correctAnswer": ["using a dirty tip"],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "When piercing holes in a plate you should:",
+            "type": "single_type",
+            "options": [
+                "press the cutting lever sharply to start the cut.",
+                "allow the preheat cone to touch the material surface.",
+                "raise the oxygen pressure by 25%.",
+                "raise the tip when the cutting lever is depressed."
+            ],
+            "correctAnswer": ["raise the tip when the cutting lever is depressed."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "What is the likely problem if the kerf edges are melting back together behind the cut?",
+            "type": "single_type",
+            "options": [
+                "The tip is too large for the material thickness.",
+                "Impurities are present in the fuel gas.",
+                "The carbon content of the steel is too low.",
+                "Oxygen purity is too high."
+            ],
+            "correctAnswer": ["The tip is too large for the material thickness."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "You can determine a good quality cut by:",
+            "type": "single_type",
+            "options": [
+                "inspecting the kerf lines.",
+                "asking the foreman.",
+                "the amount of cutting experience the operator has.",
+                "the amount of oxygen and acetylene consumed."
+            ],
+            "correctAnswer": ["inspecting the kerf lines."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "Kerf draglines on a properly performed shape cut should be:",
+            "type": "single_type",
+            "options": [
+                "irregular in profile.",
+                "curved to match the shape.",
+                "perpendicular to the plate surface.",
+                "horizontally inclined."
+            ],
+            "correctAnswer": ["perpendicular to the plate surface."],
+            "explanation": ""
+        },
+        {
+            "id": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "topicId": "5a602c2e-0e82-4320-87c0-78f0c1102c32",
+            "question": "If you notice the preheat flames changing from neutral to carbonizing during the cutting process, the most likely cause would be that the:",
+            "type": "single_type",
+            "options": [
+                "oxygen cylinder is nearly empty.",
+                "acetylene consumption is too high.",
+                "acetylene cylinder is nearly empty.",
+                "tip is dirty and requires cleaning."
+            ],
+            "correctAnswer": ["oxygen cylinder is nearly empty."],
+            "explanation": ""
+        }
+    ]
+}
+

@@ -1,0 +1,392 @@
+{
+    "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+    "name": "Welding: Part A",
+    "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+    "questions": [
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "The five (5) basic types of joints are:",
+            "type": "single_type",
+            "options": [
+                "Butt, edge, Tee, lap, and groove",
+                "Butt, Tee, lap, corner, and groove",
+                "Butt, Tee, lap, edge, and corner",
+                "Butt, groove, Tee, edge, and corner"
+            ],
+            "correctAnswer": [
+                "Butt, Tee, lap, edge, and corner"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "What type of joint is shown in Figure 2?",
+            "type": "single_type",
+            "options": [
+                "Plug",
+                "Tee",
+                "Butt",
+                "Lap"
+            ],
+            "correctAnswer": [
+                "Lap"
+            ],
+            "explanation": "",
+            "imageNames": ["Figure 2"]
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "A butt joint is a welded joint where the parts joined:",
+            "type": "single_type",
+            "options": [
+                "Lie in the same plane",
+                "Form a corner",
+                "Lie at right angles to each other",
+                "Form a Tee"
+            ],
+            "correctAnswer": [
+                "Lie in the same plane"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "Which term describes the resistance of a material to a force trying to pull it apart?",
+            "type": "single_type",
+            "options": [
+                "tensile strength",
+                "yield strength",
+                "ductility",
+                "elasticity"
+            ],
+            "correctAnswer": [
+                "tensile strength"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "Which term describes the ability of a metal to be cold worked without a great deal of resistance?",
+            "type": "single_type",
+            "options": [
+                "elasticity",
+                "toughness",
+                "brittleness",
+                "malleability"
+            ],
+            "correctAnswer": [
+                "malleability"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "Which term describes the ability of a metal to resist indentation or penetration?",
+            "type": "single_type",
+            "options": [
+                "brittleness",
+                "hardness",
+                "toughness",
+                "malleability"
+            ],
+            "correctAnswer": [
+                "hardness"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "Which term describes the ability of a metal to withstand the shock of a rapidly applied load?",
+            "type": "single_type",
+            "options": [
+                "malleability",
+                "hardness",
+                "toughness",
+                "elasticity"
+            ],
+            "correctAnswer": [
+                "toughness"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "A ferrous metal has a high content of:",
+            "type": "single_type",
+            "options": [
+                "carbon",
+                "nickel",
+                "iron",
+                "manganese"
+            ],
+            "correctAnswer": [
+                "iron"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "What is the normal colour for steels and cast irons?",
+            "type": "single_type",
+            "options": [
+                "silvery grey",
+                "black",
+                "yellow",
+                "red"
+            ],
+            "correctAnswer": [
+                "silvery grey"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "What type of metal is typically red or yellow?",
+            "type": "single_type",
+            "options": [
+                "aluminum or magnesium",
+                "malleable cast iron",
+                "low or medium carbon steel",
+                "copper or brass"
+            ],
+            "correctAnswer": [
+                "copper or brass"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "Given two identical pieces of zinc die cast and aluminum, what would be the simplest way to identify them?",
+            "type": "single_type",
+            "options": [
+                "flame test",
+                "spark test",
+                "by their colour",
+                "by their weight"
+            ],
+            "correctAnswer": [
+                "by their weight"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "In using a chip test to identify a metal, what would a smooth continuous chip indicate?",
+            "type": "single_type",
+            "options": [
+                "a dull chisel",
+                "a soft material like aluminum",
+                "a hard material like high carbon steel",
+                "a brittle material like cast iron"
+            ],
+            "correctAnswer": [
+                "a soft material like aluminum"
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "How is cast iron distinguished from low carbon steel in a spark test?",
+            "type": "single_type",
+            "options": [
+                "The sparks given off by cast iron are in yellowish straight streaks.",
+                "The sparks given off by low carbon steel are short with red bursts near the grinder.",
+                "The sparks look the same, but more pressure is required with carbon steel.",
+                "The sparks given off by cast iron are short with red bursts near the grinder."
+            ],
+            "correctAnswer": [
+                "The sparks given off by cast iron are short with red bursts near the grinder."
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "What is the most precise method for the identification of a metal that has been shipped from a steel mill?",
+            "type": "single_type",
+            "options": [
+                "Study the mill test report.",
+                "Use a file for hardness testing.",
+                "Do a spark test with an angle grinder.",
+                "Steel that comes in shapes is always low carbon."
+            ],
+            "correctAnswer": [
+                "Study the mill test report."
+            ],
+            "explanation": ""
+        },
+        {
+            "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+            "question": "In addition to the mill test report, what else do steel mills usually attach to the straps that hold bundles of bar stock together?",
+            "type": "single_type",
+            "options": [
+                "colour coded material size tags",
+                "date of manufacture tags",
+                "metal specification tags",
+                "an SDS"
+            ],
+            "correctAnswer": [
+                "metal specification tags"
+            ],
+            "explanation": ""
+        },
+        {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "The four (4) main types of welds are:",
+               "type": "single_type",
+               "options": [
+                   "Groove, fillet, plug or slot and surfacing",
+                   "Fillet, Vee, bevel and groove",
+                   "Vee, bevel, bead and fillet",
+                   "Groove, Vee, bevel and plug or slot"
+               ],
+               "correctAnswer": [
+                   "Groove, fillet, plug or slot and surfacing"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "On what joints would you find a fillet weld?",
+               "type": "single_type",
+               "options": [
+                   "Edge, corner, butt",
+                   "Butt, lap, Tee",
+                   "Tee, lap, corner",
+                   "Edge, lap, Tee"
+               ],
+               "correctAnswer": [
+                   "Tee, lap, corner"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "The size of a fillet weld is determined by:",
+               "type": "single_type",
+               "options": [
+                   "leg length of the largest equal leg triangle that may be drawn within the cross section of the weld",
+                   "measuring across the face of the weld",
+                   "a certified welding inspector",
+                   "the thickness of the material being welded"
+               ],
+               "correctAnswer": [
+                   "leg length of the largest equal leg triangle that may be drawn within the cross section of the weld"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "What may be done to reinforce welds made on a lap joint?",
+               "type": "single_type",
+               "options": [
+                   "Place one more pass over the finished weld.",
+                   "Avoid penetrating the root of the joint with weld metal.",
+                   "Produce a concave-finish fillet weld.",
+                   "Place plug or slot welds along the joint."
+               ],
+               "correctAnswer": [
+                   "Place plug or slot welds along the joint."
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "Edge joints are most often used on:",
+               "type": "single_type",
+               "options": [
+                   "sheet metal",
+                   "pipe",
+                   "steel plate over 13mm (½'') thick",
+                   "castings"
+               ],
+               "correctAnswer": [
+                   "sheet metal"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "Which of the following joint preparations on a given material thickness would require the least amount of filler metal?",
+               "type": "single_type",
+               "options": [
+                   "double U",
+                   "double Vee",
+                   "single Vee",
+                   "single U"
+               ],
+               "correctAnswer": [
+                   "double U"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "What does the G stand for when interpreting the 2G position?",
+               "type": "single_type",
+               "options": [
+                   "grind before welding",
+                   "groove weld",
+                   "gas shielding is required",
+                   "see note G on the drawing for welding procedure details"
+               ],
+               "correctAnswer": [
+                   "groove weld"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "What is the primary factor in the selection of the joint type?",
+               "type": "single_type",
+               "options": [
+                   "accessibility for welding",
+                   "carbon content of the base metal",
+                   "strength and loading requirements",
+                   "available welding and cutting processes"
+               ],
+               "correctAnswer": [
+                   "strength and loading requirements"
+               ],
+               "explanation": ""
+           },
+           {
+               "id": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "topicId": "6f142a6b-d6ff-4fc5-bbfa-4c31bb8f5d3d",
+               "question": "Selecting a joint preparation that requires the least amount of filler metal would:",
+               "type": "single_type",
+               "options": [
+                   "put fitters out of business",
+                   "result in poor penetration",
+                   "make it very difficult to weld",
+                   "minimize distortion and lower cost factors"
+               ],
+               "correctAnswer": [
+                   "minimize distortion and lower cost factors"
+               ],
+               "explanation": ""
+           }
+       ]
+   }

@@ -415,7 +415,7 @@
          ],
          "correctAnswer": ["2.7'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -432,7 +432,7 @@
          ],
          "correctAnswer": ["125'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -449,7 +449,7 @@
          ],
          "correctAnswer": ["14'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -466,7 +466,7 @@
          ],
          "correctAnswer": ["8'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -483,7 +483,7 @@
          ],
          "correctAnswer": ["21'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -500,7 +500,7 @@
          ],
          "correctAnswer": ["55'"],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
        {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -516,7 +516,7 @@
          ],
          "correctAnswer": ["19.5 ft."],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
        {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",
@@ -532,7 +532,7 @@
          ],
          "correctAnswer": ["53.7 ft."],
          "explanation": "",
-         "imageName": "Table 3"
+         "imageNames": ["Table 3"]
        },
        {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0851",

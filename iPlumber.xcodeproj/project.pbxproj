@@ -36,13 +36,20 @@
 		C2F4C7D42C47125200AA3437 /* SectionListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D32C47125200AA3437 /* SectionListView.swift */; };
 		C2F4C7D62C471D7200AA3437 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7D52C471D7200AA3437 /* Models.swift */; };
 		C2F4C7DC2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */; };
-		C2F4C7E32C48BB3700AA3437 /* FullScreenImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2F4C7E22C48BB3700AA3437 /* FullScreenImageView.swift */; };
 		C2F4C7E52C4A0F7800AA3437 /* test.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E42C4A0F7800AA3437 /* test.json */; };
 		C2F4C7E72C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E62C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json */; };
 		C2F4C7E92C4DF12700AA3437 /* tube_and_tubing_210102f.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7E82C4DF12700AA3437 /* tube_and_tubing_210102f.json */; };
 		C2F4C7EB2C4E029200AA3437 /* valves_210102g_Part_1.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */; };
 		C2F4C7ED2C4E109200AA3437 /* valves_210102g_Part_2.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */; };
 		C2F4C7F12C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */; };
+		C2F4C7F32C4ECFB200AA3437 /* pressure_testing_210102i.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F22C4ECFB200AA3437 /* pressure_testing_210102i.json */; };
+		C2F4C7F52C4EDC2E00AA3437 /* pumps_210102j.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F42C4EDC2E00AA3437 /* pumps_210102j.json */; };
+		C2F4C7F72C4F2DC800AA3437 /* welding_safety_210103a.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F62C4F2DC800AA3437 /* welding_safety_210103a.json */; };
+		C2F4C7FA2C4F32B900AA3437 /* welding_part_a_210103bA.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7F92C4F32B900AA3437 /* welding_part_a_210103bA.json */; };
+		C2F4C7FC2C4F391100AA3437 /* welding_part_b_210103bB.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7FB2C4F391100AA3437 /* welding_part_b_210103bB.json */; };
+		C2F4C7FE2C4F3A1500AA3437 /* welding_part_c_210103bC.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7FD2C4F3A1500AA3437 /* welding_part_c_210103bC.json */; };
+		C2F4C8002C4F413A00AA3437 /* brazing_and_soldering_210103c.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C7FF2C4F413A00AA3437 /* brazing_and_soldering_210103c.json */; };
+		C2F4C8042C4F582700AA3437 /* sketching_and_drawing_210104a.json in Resources */ = {isa = PBXBuildFile; fileRef = C2F4C8032C4F582700AA3437 /* sketching_and_drawing_210104a.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -95,13 +102,20 @@
 		C2F4C7D32C47125200AA3437 /* SectionListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionListView.swift; sourceTree = "<group>"; };
 		C2F4C7D52C471D7200AA3437 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 		C2F4C7DB2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = plastic_pipe_and_tube_210102d.json; sourceTree = "<group>"; };
-		C2F4C7E22C48BB3700AA3437 /* FullScreenImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenImageView.swift; sourceTree = "<group>"; };
 		C2F4C7E42C4A0F7800AA3437 /* test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = test.json; sourceTree = "<group>"; };
 		C2F4C7E62C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = threaded_and_grooved_pipe_210102e_Part_2.json; sourceTree = "<group>"; };
 		C2F4C7E82C4DF12700AA3437 /* tube_and_tubing_210102f.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = tube_and_tubing_210102f.json; sourceTree = "<group>"; };
 		C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = valves_210102g_Part_1.json; sourceTree = "<group>"; };
 		C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = valves_210102g_Part_2.json; sourceTree = "<group>"; };
 		C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = hangers_supports_and_fasteners_210102h.json; sourceTree = "<group>"; };
+		C2F4C7F22C4ECFB200AA3437 /* pressure_testing_210102i.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pressure_testing_210102i.json; sourceTree = "<group>"; };
+		C2F4C7F42C4EDC2E00AA3437 /* pumps_210102j.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pumps_210102j.json; sourceTree = "<group>"; };
+		C2F4C7F62C4F2DC800AA3437 /* welding_safety_210103a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welding_safety_210103a.json; sourceTree = "<group>"; };
+		C2F4C7F92C4F32B900AA3437 /* welding_part_a_210103bA.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welding_part_a_210103bA.json; sourceTree = "<group>"; };
+		C2F4C7FB2C4F391100AA3437 /* welding_part_b_210103bB.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welding_part_b_210103bB.json; sourceTree = "<group>"; };
+		C2F4C7FD2C4F3A1500AA3437 /* welding_part_c_210103bC.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = welding_part_c_210103bC.json; sourceTree = "<group>"; };
+		C2F4C7FF2C4F413A00AA3437 /* brazing_and_soldering_210103c.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = brazing_and_soldering_210103c.json; sourceTree = "<group>"; };
+		C2F4C8032C4F582700AA3437 /* sketching_and_drawing_210104a.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sketching_and_drawing_210104a.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,7 +180,6 @@
 				C200420D2C3F74E6003205EF /* Assets.xcassets */,
 				C200420F2C3F74E6003205EF /* Preview Content */,
 				C2F4C7D12C4710F100AA3437 /* TopicsView.swift */,
-				C2F4C7E22C48BB3700AA3437 /* FullScreenImageView.swift */,
 			);
 			path = iPlumber;
 			sourceTree = "<group>";
@@ -202,7 +215,9 @@
 			children = (
 				C2F4C7D72C47243200AA3437 /* Section 1 */,
 				C2F4C7D82C4726EF00AA3437 /* Section 2 */,
-				C2F4C7E42C4A0F7800AA3437 /* test.json */,
+				C2F4C7F82C4F2DE400AA3437 /* Section 3 */,
+				C2F4C8012C4F53B200AA3437 /* Section 4 */,
+				C2F4C8022C4F53C200AA3437 /* Section 5 */,
 			);
 			path = "Questions JSON";
 			sourceTree = "<group>";
@@ -242,8 +257,38 @@
 				C2F4C7EA2C4E029100AA3437 /* valves_210102g_Part_1.json */,
 				C2F4C7EC2C4E109200AA3437 /* valves_210102g_Part_2.json */,
 				C2F4C7F02C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json */,
+				C2F4C7F22C4ECFB200AA3437 /* pressure_testing_210102i.json */,
+				C2F4C7F42C4EDC2E00AA3437 /* pumps_210102j.json */,
 			);
 			path = "Section 2";
+			sourceTree = "<group>";
+		};
+		C2F4C7F82C4F2DE400AA3437 /* Section 3 */ = {
+			isa = PBXGroup;
+			children = (
+				C2F4C7F62C4F2DC800AA3437 /* welding_safety_210103a.json */,
+				C2F4C7F92C4F32B900AA3437 /* welding_part_a_210103bA.json */,
+				C2F4C7FB2C4F391100AA3437 /* welding_part_b_210103bB.json */,
+				C2F4C7FD2C4F3A1500AA3437 /* welding_part_c_210103bC.json */,
+				C2F4C7FF2C4F413A00AA3437 /* brazing_and_soldering_210103c.json */,
+			);
+			path = "Section 3";
+			sourceTree = "<group>";
+		};
+		C2F4C8012C4F53B200AA3437 /* Section 4 */ = {
+			isa = PBXGroup;
+			children = (
+				C2F4C8032C4F582700AA3437 /* sketching_and_drawing_210104a.json */,
+				C2F4C7E42C4A0F7800AA3437 /* test.json */,
+			);
+			path = "Section 4";
+			sourceTree = "<group>";
+		};
+		C2F4C8022C4F53C200AA3437 /* Section 5 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Section 5";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -350,23 +395,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2F4C8002C4F413A00AA3437 /* brazing_and_soldering_210103c.json in Resources */,
 				C2F4C7DC2C472BCF00AA3437 /* plastic_pipe_and_tube_210102d.json in Resources */,
 				C2F4C7C52C4627D300AA3437 /* welded_pipe_and_fittings_210102c.json in Resources */,
 				C2F4C7ED2C4E109200AA3437 /* valves_210102g_Part_2.json in Resources */,
 				C2F4C7EB2C4E029200AA3437 /* valves_210102g_Part_1.json in Resources */,
 				C2F4C7C32C46235B00AA3437 /* power_tools_210102b.json in Resources */,
+				C2F4C7F32C4ECFB200AA3437 /* pressure_testing_210102i.json in Resources */,
 				C2F4C7BF2C461D0900AA3437 /* hand_tools_210102a.json in Resources */,
+				C2F4C7FC2C4F391100AA3437 /* welding_part_b_210103bB.json in Resources */,
 				C20042712C44C297003205EF /* apprenticeship_training_program_210101d.json in Resources */,
 				C2F4C7E52C4A0F7800AA3437 /* test.json in Resources */,
 				C20042482C3F7FA1003205EF /* threaded_and_grooved_pipe_210102e_Part_1.json in Resources */,
 				C20042612C4324AD003205EF /* safety_legislation_regulations_industry_policy_in_the_trades_210101a.json in Resources */,
 				C200426D2C443FD6003205EF /* climbing_lifting_rigging_hoisting_210101b.json in Resources */,
+				C2F4C7FE2C4F3A1500AA3437 /* welding_part_c_210103bC.json in Resources */,
+				C2F4C7FA2C4F32B900AA3437 /* welding_part_a_210103bA.json in Resources */,
 				C2F4C7E92C4DF12700AA3437 /* tube_and_tubing_210102f.json in Resources */,
 				C2F4C7E72C4A2E1500AA3437 /* threaded_and_grooved_pipe_210102e_Part_2.json in Resources */,
 				C20042112C3F74E6003205EF /* Preview Assets.xcassets in Resources */,
+				C2F4C7F72C4F2DC800AA3437 /* welding_safety_210103a.json in Resources */,
 				C2F4C7F12C4E1A0D00AA3437 /* hangers_supports_and_fasteners_210102h.json in Resources */,
 				C20042692C4328EE003205EF /* hazardous_materials_and_fire_protection_210101c.json in Resources */,
+				C2F4C8042C4F582700AA3437 /* sketching_and_drawing_210104a.json in Resources */,
 				C20042752C44D9FC003205EF /* electrical_safety_210101f.json in Resources */,
+				C2F4C7F52C4EDC2E00AA3437 /* pumps_210102j.json in Resources */,
 				C200420E2C3F74E6003205EF /* Assets.xcassets in Resources */,
 				C20042772C44E3AA003205EF /* pipe_trades_codes_210101e.json in Resources */,
 			);
@@ -398,7 +451,6 @@
 				C200426B2C43330F003205EF /* UserDefaultsKeys.swift in Sources */,
 				C200423E2C3F76E6003205EF /* QuestionView.swift in Sources */,
 				C20042672C4326B8003205EF /* TestViewModel.swift in Sources */,
-				C2F4C7E32C48BB3700AA3437 /* FullScreenImageView.swift in Sources */,
 				C20042402C3F7736003205EF /* ResultView.swift in Sources */,
 				C200425D2C43243E003205EF /* TopicListView.swift in Sources */,
 				C2F4C7D22C4710F100AA3437 /* TopicsView.swift in Sources */,

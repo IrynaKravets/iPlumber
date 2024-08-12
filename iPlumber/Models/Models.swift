@@ -27,9 +27,9 @@ struct Question: Identifiable, Codable, Hashable {
     let correctAnswer: [String]
     let explanation: String
     let type: QuestionType
-    let imageName: String? // Add this line
-
-    init(id: UUID = UUID(), topicId: UUID, question: String, options: [String], correctAnswer: [String], explanation: String, type: QuestionType, imageName: String? = nil) {
+    let imageNames: [String]?
+    
+    init(id: UUID = UUID(), topicId: UUID, question: String, options: [String], correctAnswer: [String], explanation: String, type: QuestionType, imageNames: [String]? = nil) {
         self.id = id
         self.topicId = topicId
         self.question = question
@@ -37,7 +37,7 @@ struct Question: Identifiable, Codable, Hashable {
         self.correctAnswer = correctAnswer
         self.explanation = explanation
         self.type = type
-        self.imageName = imageName // Add this line
+        self.imageNames = imageNames
     }
 }
 

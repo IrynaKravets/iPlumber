@@ -18,7 +18,7 @@
          ],
          "correctAnswer": ["Straight Globe Valve"],
          "explanation": "",
-         "imageName": "Figure 13 (A)"
+         "imageNames": ["Figure 13 (A)"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
@@ -35,7 +35,7 @@
          ],
          "correctAnswer": ["Swing Check"],
          "explanation": "",
-         "imageName": "Figure 13 (B)"
+         "imageNames": ["Figure 13 (B)"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
@@ -52,7 +52,7 @@
          ],
          "correctAnswer": ["Gate Valve"],
          "explanation": "",
-         "imageName": "Figure 13 (C)"
+         "imageNames": ["Figure 13 (C)"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
@@ -69,7 +69,7 @@
          ],
          "correctAnswer": ["Ball Valve"],
          "explanation": "",
-         "imageName": "Figure 13 (D)"
+         "imageNames": ["Figure 13 (D)"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
@@ -86,7 +86,7 @@
          ],
          "correctAnswer": ["Angle Globe"],
          "explanation": "",
-         "imageName": "Figure 13 (E)"
+         "imageNames": ["Figure 13 (E)"]
        },
       {
          "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",
@@ -103,7 +103,7 @@
          ],
          "correctAnswer": ["Lift Check Valve"],
          "explanation": "",
-         "imageName": "Figure 13 (F)"
+         "imageNames": ["Figure 13 (F)"]
        },
         {
           "id": "d290f1ee-6c54-4b01-90e6-d701748f0884",

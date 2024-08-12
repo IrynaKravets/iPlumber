@@ -1,0 +1,624 @@
+{
+    "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+    "name": "Welding: Part C",
+    "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+    "questions": [
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term describes the voltage output of the machine while you are welding?",
+            "type": "single_type",
+            "options": [
+                "amperage",
+                "high frequency voltage",
+                "arc voltage",
+                "open circuit voltage"
+            ],
+            "correctAnswer": ["arc voltage"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "The main function of which device is to change AC to DC?",
+            "type": "single_type",
+            "options": [
+                "resistor",
+                "rectifier",
+                "relay",
+                "reactor"
+            ],
+            "correctAnswer": ["rectifier"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term describes the NEMA rating of a welding machine?",
+            "type": "single_type",
+            "options": [
+                "duty cycle",
+                "direct current",
+                "arc voltage",
+                "amperage"
+            ],
+            "correctAnswer": ["duty cycle"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Electrode negative is the same as:",
+            "type": "single_type",
+            "options": [
+                "straight polarity",
+                "reverse polarity",
+                "high frequency",
+                "alternating current"
+            ],
+            "correctAnswer": ["straight polarity"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term describes a noisy, uncontrollable arc that flares from side to side?",
+            "type": "single_type",
+            "options": [
+                "arc voltage",
+                "arc blow",
+                "inductance",
+                "resistance"
+            ],
+            "correctAnswer": ["arc blow"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which current flows in one direction only and has either a positive or negative value?",
+            "type": "single_type",
+            "options": [
+                "direct current",
+                "alternating current",
+                "pulse current",
+                "high frequency current"
+            ],
+            "correctAnswer": ["direct current"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term expresses the strength of a current of electricity?",
+            "type": "single_type",
+            "options": [
+                "amperage",
+                "voltage",
+                "duty cycle",
+                "ohm"
+            ],
+            "correctAnswer": ["amperage"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "When no current is flowing in the circuit, but the machine is on, you can measure the:",
+            "type": "single_type",
+            "options": [
+                "constant current",
+                "open circuit voltage",
+                "alternating current",
+                "arc voltage"
+            ],
+            "correctAnswer": ["open circuit voltage"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "The speed at which AC changes direction is the:",
+            "type": "single_type",
+            "options": [
+                "voltage",
+                "amperage",
+                "frequency",
+                "resistance"
+            ],
+            "correctAnswer": ["frequency"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "In welding, what do you create when enough amperage and voltage exist to overcome the natural resistance to the flow of the electricity?",
+            "type": "single_type",
+            "options": [
+                "amperage",
+                "voltage",
+                "high frequency",
+                "an arc"
+            ],
+            "correctAnswer": ["an arc"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term describes the typical sound of an AC transformer welding machine?",
+            "type": "single_type",
+            "options": [
+                "turbine whine",
+                "high-pitched scream",
+                "buzz box",
+                "whisper quiet"
+            ],
+            "correctAnswer": ["buzz box"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which type of welding machine is capable of changing DC to high frequency AC?",
+            "type": "single_type",
+            "options": [
+                "AC generator",
+                "DC rectifier",
+                "DC generator",
+                "Inverter"
+            ],
+            "correctAnswer": ["Inverter"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Choose the largest cable size.",
+            "type": "single_type",
+            "options": [
+                "4",
+                "2/0",
+                "3/0",
+                "4/0"
+            ],
+            "correctAnswer": ["4/0"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "How do you rate electrode holders?",
+            "type": "single_type",
+            "options": [
+                "by voltage carrying capacity",
+                "by maximum electrode size",
+                "by amperage carrying capacity",
+                "by the size of welding cable"
+            ],
+            "correctAnswer": ["by amperage carrying capacity"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Loose work lead connections when using SMAW may cause:",
+            "type": "single_type",
+            "options": [
+                "electrical shock",
+                "magnetic arc blow",
+                "high burn-off rates",
+                "arcing at the work clamp"
+            ],
+            "correctAnswer": ["arcing at the work clamp"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "An advantage to using a magnetic work lead device over a spring-loaded clamp is that the magnetic connection:",
+            "type": "single_type",
+            "options": [
+                "effectively prevents arc blow",
+                "is less likely to damage the work piece",
+                "is a permanently attached connection",
+                "can attach to all metals"
+            ],
+            "correctAnswer": ["is less likely to damage the work piece"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "If the welding cable connected to the machine is 1/0, then the whip cable should be what size?",
+            "type": "single_type",
+            "options": [
+                "4/0",
+                "3/0",
+                "2/0",
+                "2"
+            ],
+            "correctAnswer": ["2"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Who writes the electrode specifications?",
+            "type": "single_type",
+            "options": [
+                "ABSA and WCB",
+                "ASTM and NEMA",
+                "CSA and AWS",
+                "ASME and NEMA"
+            ],
+            "correctAnswer": ["CSA and AWS"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "In the AWS classification for SMAW mild steel electrodes, what does the last digit represent?",
+            "type": "single_type",
+            "options": [
+                "the type of shielding gas produced by the melting flux",
+                "the amount of iron powder that is added to the coating",
+                "the welding position in which the electrode may be satisfactorily operated",
+                "the major ingredient in the coating and the recommended current for best results"
+            ],
+            "correctAnswer": ["the major ingredient in the coating and the recommended current for best results"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What do the first two digits in the AWS classification for carbon steel SMAW electrodes represent?",
+            "type": "single_type",
+            "options": [
+                "current type and application",
+                "minimum as-welded tensile strength of the weld deposit",
+                "recommended welding positions",
+                "iron powder content of the coating in %"
+            ],
+            "correctAnswer": ["minimum as-welded tensile strength of the weld deposit"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "In the CSA numbering system for welding electrodes, what does the prefix letter E represent?",
+            "type": "single_type",
+            "options": [
+                "electronic",
+                "energized",
+                "electrode",
+                "electromotive force"
+            ],
+            "correctAnswer": ["electrode"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "According to AWS, which number indicates the recommended positions for a E7024 electrode?",
+            "type": "single_type",
+            "options": [
+                "first number",
+                "second number",
+                "third number",
+                "fourth number"
+            ],
+            "correctAnswer": ["third number"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "The CSA system uses what unit to measure tensile strength?",
+            "type": "single_type",
+            "options": [
+                "pounds per square inch",
+                "joules per square metre",
+                "megapascals",
+                "watts per hour"
+            ],
+            "correctAnswer": ["megapascals"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What is one function of the slag produced from electrode coatings?",
+            "type": "single_type",
+            "options": [
+                "Add more nitrogen and oxygen to the weld.",
+                "Help maintain the arc.",
+                "Add alloying elements to the weld deposit.",
+                "Prevent the weld from cooling too rapidly."
+            ],
+            "correctAnswer": ["Prevent the weld from cooling too rapidly."],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What is the main purpose for keeping low hydrogen electrodes dry?",
+            "type": "single_type",
+            "options": [
+                "to assist in producing and maintaining a stable, smooth arc",
+                "to minimize the possibility of hydrogen-induced cracking",
+                "to increase the electrode's deposition rate",
+                "to increase the shelf life of the electrodes in storage"
+            ],
+            "correctAnswer": ["to minimize the possibility of hydrogen-induced cracking"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which electrode would be the best choice if the base metal properties were unknown?",
+            "type": "single_type",
+            "options": [
+                "E7018",
+                "E7014",
+                "E6011",
+                "E7024"
+            ],
+            "correctAnswer": ["E7018"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What is the approximate length of a normal arc?",
+            "type": "single_type",
+            "options": [
+                "same as the outside diameter of the electrode",
+                "half the thickness of the base metal",
+                "twice the thickness of the core wire",
+                "same as the diameter of the core wire"
+            ],
+            "correctAnswer": ["same as the diameter of the core wire"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What happens when you increase the arc length?",
+            "type": "single_type",
+            "options": [
+                "amperage increases and voltage increases",
+                "amperage decreases and voltage increases",
+                "amperage increases and voltage decreases",
+                "amperage decreases and voltage decreases"
+            ],
+            "correctAnswer": ["amperage decreases and voltage increases"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What happens when you decrease the arc length?",
+            "type": "single_type",
+            "options": [
+                "deeply penetrating, narrow bead with more build-up",
+                "deeply penetrating, shallow bead with less build-up",
+                "shallow penetrating, wide bead with less build-up",
+                "no significant change in the weld"
+            ],
+            "correctAnswer": ["deeply penetrating, narrow bead with more build-up"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which acronym pertains to the 5 basic weld joints?",
+            "type": "single_type",
+            "options": [
+                "NEMAA",
+                "BCTEL",
+                "ACHFC",
+                "NHLPA"
+            ],
+            "correctAnswer": ["BCTEL"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "On what type of joint would you most likely find groove welds?",
+            "type": "single_type",
+            "options": [
+                "Edge",
+                "Butt",
+                "Fillet",
+                "Lap"
+            ],
+            "correctAnswer": ["Butt"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Why is it sometimes necessary to bevel joint edges prior to welding?",
+            "type": "single_type",
+            "options": [
+                "to prevent distortion",
+                "to obtain complete penetration",
+                "to make the job last longer",
+                "to provide a clear line to follow when welding"
+            ],
+            "correctAnswer": ["to obtain complete penetration"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which types of groove welds require only one member of the joint to be prepared?",
+            "type": "single_type",
+            "options": [
+                "square and bevel",
+                "Vee and J",
+                "bevel and J",
+                "U and J"
+            ],
+            "correctAnswer": ["bevel and J"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What does the 3 represent when interpreting the 3F position?",
+            "type": "single_type",
+            "options": [
+                "3 passes required",
+                "overhead position",
+                "a 3rd year apprentice is allowed to weld this joint",
+                "vertical position"
+            ],
+            "correctAnswer": ["vertical position"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which term describes a material that shows no permanent distortion before failure?",
+            "type": "single_type",
+            "options": [
+                "brittleness",
+                "hardness",
+                "toughness",
+                "elasticity"
+            ],
+            "correctAnswer": ["brittleness"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which statement describes a non-ferrous metal?",
+            "type": "single_type",
+            "options": [
+                "high iron content and usually magnetic",
+                "high iron content and usually non-magnetic",
+                "contains little or no iron and is usually magnetic",
+                "contains little or no iron and is usually non-magnetic"
+            ],
+            "correctAnswer": ["contains little or no iron and is usually non-magnetic"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "How can using a new hand-held file give you an estimate of a metal's hardness?",
+            "type": "single_type",
+            "options": [
+                "If you tap the metal with the file, hardened tool steel will not ring.",
+                "If the file bites into the metal easily, it is likely a hard material.",
+                "If the file bites into the metal easily, it is likely a soft material.",
+                "If the metal is harder than the file, the file bites in easily."
+            ],
+            "correctAnswer": ["If the file bites into the metal easily, it is likely a soft material."],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "For efficient cutting operations, oxygen must have a minimum purity of:",
+            "type": "single_type",
+            "options": [
+                "80%",
+                "93%",
+                "95.5%",
+                "99.5%"
+            ],
+            "correctAnswer": ["99.5%"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What is likely to happen if the cutting travel speed is too fast?",
+            "type": "single_type",
+            "options": [
+                "Productivity increases and your employer is very impressed.",
+                "Slag bubbles to the surface and the cutting action eventually stops.",
+                "The tip overheats and begins to backfire.",
+                "A clean, slag-free cut is produced."
+            ],
+            "correctAnswer": ["Slag bubbles to the surface and the cutting action eventually stops."],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "If a shop switched from acetylene to propane gas for cutting, it would be necessary to:",
+            "type": "single_type",
+            "options": [
+                "Purchase all new cutting torches.",
+                "Install special fuel gas regulators.",
+                "Check with the manufacturer to determine if the equipment is compatible.",
+                "Change to larger size hoses."
+            ],
+            "correctAnswer": ["Check with the manufacturer to determine if the equipment is compatible."],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Manufacturers design this device in a welding machine to have a certain number of turns of wire.",
+            "type": "single_type",
+            "options": [
+                "circuit",
+                "core",
+                "coil",
+                "cycle"
+            ],
+            "correctAnswer": ["coil"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "How is electrode positive abbreviated?",
+            "type": "single_type",
+            "options": [
+                "DCSP",
+                "DCRP",
+                "AC",
+                "ACHF"
+            ],
+            "correctAnswer": ["DCRP"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "Which electrode has a cellulose coating?",
+            "type": "single_type",
+            "options": [
+                "E6010",
+                "E6013",
+                "E7014",
+                "E7018"
+            ],
+            "correctAnswer": ["E6010"],
+            "explanation": ""
+        },
+        {
+            "id": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "topicId": "a9ef6a17-f5c7-4b94-848f-94f17c29b8c4",
+            "question": "What happens when you decrease the arc length?",
+            "type": "single_type",
+            "options": [
+                "deeply penetrating, narrow bead with more build-up",
+                "deeply penetrating, shallow bead with less build-up",
+                "shallow penetrating, wide bead with less build-up",
+                "no significant change in the weld"
+            ],
+            "correctAnswer": ["deeply penetrating, narrow bead with more build-up"],
+            "explanation": ""
+        }
+    ]
+}
+

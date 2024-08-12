@@ -1,0 +1,344 @@
+{
+  "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+  "name": "Pressure Testing",
+  "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+  "questions": [
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "Pressure testing is accomplished using two different test mediums, fluid, and gas, and of the two the gaseous test is much safer than using a fluid?",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": "Pneumatic testing has the potential to explode. They measure this amount of explosion in units of TNT"
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "A whip check is used to safely couple hydraulic hoses together.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["False"],
+      "explanation": "Whip checks are used with pneumatic hoses"
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "When using an electric hydrostatic pump, it is imperative that you check the electrical rating why?",
+      "type": "single_type",
+      "options": [
+          "Electrical pumps come is various voltage configurations. They could be 110 volt, 220 volt, or even three phase. To avoid a mishap, the rating plate of the pump should be consulted for the proper configuration."
+      ],
+      "correctAnswer": ["Electrical pumps come is various voltage configurations. They could be 110 volt, 220 volt, or even three phase. To avoid a mishap, the rating plate of the pump should be consulted for the proper configuration."],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What components are required to perform a pressure test?",
+      "type": "checkbox_type",
+      "options": [
+          "hoses and fittings",
+          "pumps and compressors",
+          "pressurised gas cylinders",
+          "gauges and recordes"
+      ],
+      "correctAnswer": [
+          "hoses and fittings",
+          "pumps and compressors",
+          "pressurised gas cylinders",
+          "gauges and recordes"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "When performing the test who or what needs to be consulted for the proper execution of the test?",
+      "type": "single_type",
+      "options": [
+        "National plumbing code",
+        "ANSI Code",
+        "B.149.1 gas code",
+        "Authority having jurisdiction"
+      ],
+      "correctAnswer": [
+        "Authority having jurisdiction"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "When increasing the test pressure, it should be brought up in stages why?",
+      "type": "single_type",
+      "options": ["Test pressure needs to be brought up in stages for safety purposes. You need to check for leaks and reduce the damage that may occur as pressures increase."],
+      "correctAnswer": ["Test pressure needs to be brought up in stages for safety purposes. You need to check for leaks and reduce the damage that may occur as pressures increase."],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "When performing a hydrotest, as much air as possible needs to be vented.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": ["True"],
+      "explanation": "true; We need to eliminate as much air as possible to be able to reach the test pressure and reduce the damage that may occur as pressures increase"
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "A six-inch pipe that is 500 ft in length pressurized with air to 150 lbs of pressure holds the equivalent of what force?",
+      "type": "single_type",
+      "options": [
+        "150 P.S.I.",
+        "2 ounces of TNT",
+        "2 lbs of TNT",
+        "5 lbs of TNT"
+      ],
+      "correctAnswer": [
+        "5 lbs of TNT"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What are two of the hazards of pressure testing?",
+      "type": "single_type",
+      "options": [
+          "Flying objects such as valves, flanges, gauges, and fittings",
+          "Flying shrapnel such as small pieces of pipe, pipe fittings or other system components that shatter into parts from the pressure",
+          "Oxygen displacement from an inert gas used for testing",
+          "Flooding in areas where energized electrical sources are present",
+          "Spills or leaks during cold spells can create a hazardous icing condition"
+      ],
+      "correctAnswer": [
+          "Flying objects such as valves, flanges, gauges, and fittings",
+          "Flying shrapnel such as small pieces of pipe, pipe fittings or other system components that shatter into parts from the pressure",
+          "Oxygen displacement from an inert gas used for testing",
+          "Flooding in areas where energized electrical sources are present",
+          "Spills or leaks during cold spells can create a hazardous icing condition"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What is the purpose of a hydrostatic test on a piping assembly?",
+      "type": "single_type",
+      "options": [
+        "To comply with the company's quality control requirements and with government safety regulations",
+        "To prevent damage to the environment",
+        "To ensure that the system can more than adequately carry its design pressure",
+        "To test for leaks"
+      ],
+      "correctAnswer": [
+        "To ensure that the system can more than adequately carry its design pressure"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What is the most popular method of testing piping systems?",
+      "type": "single_type",
+      "options": [
+        "Air test",
+        "Hydrostatic test",
+        "Non-toxic, non-flammable, gas test",
+        "Pressurize with the process fluid"
+      ],
+      "correctAnswer": [
+        "Hydrostatic test"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "Why is it necessary to install spill pans or other collection devices before a hydrostatic test?",
+      "type": "single_type",
+      "options": [
+        "To prevent losing the water on the ground",
+        "To prevent the test crew from getting wet",
+        "To prevent environmental damage",
+        "To save the test fluid for reuse when testing the next assembly"
+      ],
+      "correctAnswer": [
+        "To prevent environmental damage"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What should be the maximum pressure rating for a hose used on the discharge of a pressure test pump?",
+      "type": "single_type",
+      "options": [
+        "The same as the maximum rated discharge pressure of the pump",
+        "At least 1½ times the test pressure",
+        "At least 1½ times the pump outlet pressure",
+        "Greater than the maximum rated discharge pressure of the pump"
+      ],
+      "correctAnswer": [
+        "Greater than the maximum rated discharge pressure of the pump"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What type of pressure gauge is usually used for pressure testing?",
+      "type": "single_type",
+      "options": [
+        "Bourdon tube",
+        "Oil filled",
+        "Spiral wound",
+        "Explosion proof"
+      ],
+      "correctAnswer": [
+        "Bourdon tube"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What components are used to make up a pressure test harness?",
+      "type": "single_type",
+      "options": [
+        "Flanges, system isolation valve, pressure bleed valve, recorder connection outlet",
+        "Pump shut-off valve, pressure bleed valve, pressure gauge, fill bypass hose connection",
+        "Union, pump shut-off valve, pressure bleed valve, pressure gauge, recorder connection outlet",
+        "Union, pump shut-off valve, pressure bleed valve, pressure gauge"
+      ],
+      "correctAnswer": [
+        "Union, pump shut-off valve, pressure bleed valve, pressure gauge, recorder connection outlet"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What should be done to prevent a universal coupling from coming apart while in use?",
+      "type": "single_type",
+      "options": [
+        "Push the male end into the female end until the spring-loaded retainer clicks into place.",
+        "Install a safety pin across the mating halves of the connectors.",
+        "Attach a restraint device to the hose and fasten it to an anchor point.",
+        "Tighten the coupling with a couple of pipe wrenches."
+      ],
+      "correctAnswer": [
+        "Install a safety pin across the mating halves of the connectors."
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What determines the maximum output pressure that a 100:1 ratio pneumatic diaphragm pump is capable of producing?",
+      "type": "single_type",
+      "options": [
+        "Inside diameter of the test hose",
+        "Type of test liquid",
+        "Rating of the connection fittings",
+        "Input air pressure to the pump"
+      ],
+      "correctAnswer": [
+        "Input air pressure to the pump"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What should the enclosure rating read on an electric motor used to drive a test pump in an area restricted for entry due to the possibility of an explosive or flammable atmosphere?",
+      "type": "single_type",
+      "options": [
+        "TEFC",
+        "TEXP",
+        "GFIC",
+        "ASME"
+      ],
+      "correctAnswer": [
+        "TEXP"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What gas may be connected to a set of regulators having a CGA-540 connection?",
+      "type": "single_type",
+      "options": [
+        "Carbon dioxide",
+        "Helium",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "correctAnswer": [
+        "Oxygen"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What type of gauge could be used on a line subject to moderate vibration during a hydrostatic test?",
+      "type": "single_type",
+      "options": [
+        "Remote mounted",
+        "Oil filled",
+        "Hydraulic",
+        "Calibrated"
+      ],
+      "correctAnswer": [
+        "Oil filled"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What is the primary purpose of a pressure test?",
+      "type": "single_type",
+      "options": [
+        "To ensure that a component or assembly will not fracture under its maximum rated working pressure",
+        "To find major leaks so they can be repaired",
+        "To find minor leaks so they can be repaired",
+        "To satisfy quality control requirements for a specific job contract"
+      ],
+      "correctAnswer": [
+        "To ensure that a component or assembly will not fracture under its maximum rated working pressure"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "topicId": "8a9fa2ab-3f8c-4c6d-8222-8d5a03c9f8de",
+      "question": "What is the minimum time required for a hydrostatic leak test according to the ASME B31 codes?",
+      "type": "single_type",
+      "options": [
+        "10 minutes",
+        "1 hour",
+        "24 hours",
+        "not applicable"
+      ],
+      "correctAnswer": [
+        "10 minutes"
+      ],
+      "explanation": ""
+    }
+  ]
+}
+

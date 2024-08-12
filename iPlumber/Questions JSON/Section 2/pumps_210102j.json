@@ -1,0 +1,284 @@
+{
+  "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+  "name": "Pumps",
+  "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+  "questions": [
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "All positive displacement pumps have pumping chambers.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": "True; The volume of the pump body itself fixes the smount of fluid displayced"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Positive displacement pumps cannot handle entrained air.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["False"],
+      "explanation": "False; some positive displaycement pumps can handle air as well as liquid and can run dry"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Double-acting piston pumps discharge an equal amount of liquid on all strokes.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["False"],
+      "explanation": "False; because of the space that the piston rod occupies, the volume discharged on the return stroke is less"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Which one of the following reciprocating pumps can be allowed to run dry?",
+      "type": "single_type",
+      "options": [
+        "Plunger pump.",
+        "Single-acting piston pump.",
+        "Double-acting piston pump.",
+        "Diaphragm pump."
+      ],
+      "correctAnswer": ["Diaphragm pump."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Rotary pumps produce a smoother flow than reciprocating pumps.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": "True; all rotary pumps deliver a much smoother flow than reciprocating pumps"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Which of the following pumps is not dynamic?",
+      "type": "single_type",
+      "options": [
+        "Centrifugal.",
+        "Axial.",
+        "Reciprocating.",
+        "Mixed flow."
+      ],
+      "correctAnswer": ["Reciprocating."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What is the definition of absolute pressure?",
+      "type": "single_type",
+      "options": [
+        "Gauge pressure plus atmospheric pressure.",
+        "Gauge pressure minus atmospheric pressure.",
+        "Atmospheric pressure minus suction head.",
+        "Discharge pressure minus suction pressure."
+      ],
+      "correctAnswer": ["Gauge pressure plus atmospheric pressure."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What is the equivalent head of oil when a pressure gauge reads 100 psi (the oil density is 56 lb/ft³)?",
+      "type": "single_type",
+      "options": ["208 ft.", "231 ft.", "257 ft.", "481 ft."],
+      "correctAnswer": ["257 ft."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "As pressure is reduced, the boiling point of a liquid decreases.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": "True; a temperature increase in the liquid or too pressure at the pump suction can cause the liquid to begin to vaporize"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What occurs in a pump when a liquid vaporizes in a closed system?",
+      "type": "single_type",
+      "options": [
+        "The volume is reduced.",
+        "Aeration occurs.",
+        "Pressure increases.",
+        "Cavitation occurs."
+      ],
+      "correctAnswer": ["Cavitation occurs."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "A tank 20 feet high is full of brine. The RD of brine is 1.03. What would the reading be on a pressure gauge connected to a pipe leading from the bottom of the tank?",
+      "type": "single_type",
+      "options": [
+        "8.9 psi.",
+        "8.4 psi.",
+        "14.7 psi.",
+        "4.33 psi."
+      ],
+      "correctAnswer": ["8.9 psi."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What could cause cavitation to occur?",
+      "type": "single_type",
+      "options": [
+        "Too small a suction lift.",
+        "An decrease in liquid pressure.",
+        "A blockage in the discharge line.",
+        "An increase in suction pressure."
+      ],
+      "correctAnswer": ["An decrease in liquid pressure."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "When the pump inlet is above the level of liquid in the supply reservoir, the pump has a suction head.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["False"],
+      "explanation": "False; suction head describes the condition where the level of the supply liquid is above the centreline of the pump"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What source of energy is available to allow liquid to enter a pump with suction lift?",
+      "type": "single_type",
+      "options": [
+        "Weight of the liquid.",
+        "Sucking action of the impeller.",
+        "Atmospheric pressure.",
+        "Velocity energy."
+      ],
+      "correctAnswer": ["Atmospheric pressure."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Which pump component converts mechanical energy into kinetic energy?",
+      "type": "single_type",
+      "options": [
+        "Volute.",
+        "Diffuser.",
+        "Prime mover.",
+        "Impeller."
+      ],
+      "correctAnswer": ["Impeller."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What value must the NPSH_R be for proper pump operation?",
+      "type": "single_type",
+      "options": [
+        "Greater than the NPSH_A.",
+        "Same as the NPSH_A.",
+        "Less than the NPSH_A.",
+        "A negative number."
+      ],
+      "correctAnswer": ["Less than the NPSH_A."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Diffusers",
+      "type": "single_type",
+      "options": [
+        "Reduce in cross-section as the liquid passes through.",
+        "Are stationary.",
+        "Rotate in the opposite direction to the impeller.",
+        "Rotate in the same direction as the impeller."
+      ],
+      "correctAnswer": ["Are stationary."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Unless otherwise stated, pump performance curves are based on handling of what type of fluid?",
+      "type": "single_type",
+      "options": ["Air", "Oil", "Cold water", "Hot water"],
+      "correctAnswer": ["Cold water"],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Pump curves are provided by the pump manufacturer.",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["True"],
+      "explanation": "True; there are many pump manufacturers in hte industry and they all have pump curves"
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "Referring to Figure 22, what value does the pump curve represent?",
+      "type": "single_type",
+      "options": [
+        "The head required by the pump.",
+        "The head required by the system.",
+        "The head available in the system.",
+        "The head available from the pump."
+      ],
+      "correctAnswer": ["The head available from the pump."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What does not contribute to friction loss through pipes?",
+      "type": "single_type",
+      "options": [
+        "Type of the pipe",
+        "Length of the pipe",
+        "Velocity of the fluid in the pipe",
+        "Increase in atmospheric pressure"
+      ],
+      "correctAnswer": ["Increase in atmospheric pressure"],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "What could be a possible cause for an increase in differential pressure across a strainer?",
+      "type": "single_type",
+      "options": [
+        "The strainer is leaking.",
+        "The screen in the strainer has been removed.",
+        "The strainer needs to be cleaned.",
+        "The operating temperature of the system has increased."
+      ],
+      "correctAnswer": ["The strainer needs to be cleaned."],
+      "explanation": ""
+    },
+    {
+      "id": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "topicId": "0922f589-7e91-471f-9d82-98b64df7df59",
+      "question": "When you have a safe work permit to service a pump, what is the first thing you must do before commencing work?",
+      "type": "single_type",
+      "options": [
+        "Insert the isolation blinds.",
+        "Close the isolation valves.",
+        "Drain and vent the piping system.",
+        "Isolate the pump's prime mover (tagged and locked out)."
+      ],
+      "correctAnswer": ["Isolate the pump's prime mover (tagged and locked out)."],
+      "explanation": ""
+    }
+  ]
+}

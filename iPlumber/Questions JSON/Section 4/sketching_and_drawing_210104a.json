@@ -1,0 +1,258 @@
+{
+    "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+    "name": "Objective One Activity",
+    "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+    "questions": [
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "How many scales can go on one edge of a scale ruler?",
+            "type": "single_type",
+            "options": [
+                "One scale",
+                "Four scales",
+                "Up to two scales",
+                "Three scales"
+            ],
+            "correctAnswer": ["Up to two scales"],
+            "explanation": ""
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Which pencil would be considered the hardest pencil?",
+            "type": "single_type",
+            "options": [
+                "2H",
+                "4H",
+                "6H",
+                "HB"
+            ],
+            "correctAnswer": ["6H"],
+            "explanation": ""
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "The distance between the point and lead on a compass is the same as",
+            "type": "single_type",
+            "options": [
+                "The radius",
+                "The hypotenuse",
+                "The diameter",
+                "The dividers"
+            ],
+            "correctAnswer": ["The radius"],
+            "explanation": ""
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Which tool is used for drawing parallel horizontal lines?",
+            "type": "single_type",
+            "options": [
+                "Set squares",
+                "Steel ruler",
+                "Scale ruler",
+                "Tee square"
+            ],
+            "correctAnswer": ["Tee square"],
+            "explanation": ""
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Which tool is used for creating scaled drawings?",
+            "type": "single_type",
+            "options": [
+                "Set squares",
+                "Steel ruler",
+                "Scale ruler",
+                "Tee square"
+            ],
+            "correctAnswer": ["Scale ruler"],
+            "explanation": ""
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #1:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["break line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #2:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["centre line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #3:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["phantom line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #4:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["cutting plane line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #5:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["hidden line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #6:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extension line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["extension line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #7:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extensions line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["object line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #8:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extensions line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["dimension line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+        {
+            "id": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "topicId": "d85c4a13-b6d2-4c18-94fc-4b8c7f4f9e4c",
+            "question": "Using Figure 50, identify the line types and select your answer below. Line #9:",
+            "type": "single_type",
+            "options": [
+                "centre line",
+                "object line",
+                "extensions line",
+                "break line",
+                "dimension line",
+                "leader line",
+                "cutting plane line",
+                "phantom line",
+                "hidden line"
+            ],
+            "correctAnswer": ["leader line"],
+            "explanation": "",
+            "imageNames": ["Figure 50"]
+        },
+    ]
+}
+

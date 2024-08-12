@@ -1,0 +1,329 @@
+{
+    "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+    "name": "Welding Safety",
+    "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+    "questions": [
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Who is responsible for the personal safety of everyone in the shop?",
+            "type": "single_type",
+            "options": [
+                "Shop foreman",
+                "Plant superintendent",
+                "Individual worker",
+                "Alberta Occupational Health and Safety"
+            ],
+            "correctAnswer": ["Individual worker"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "What should you do immediately if you receive a major contact burn?",
+            "type": "single_type",
+            "options": [
+                "Rub the affected area with antibiotic cream",
+                "Seek professional medical attention",
+                "Cool the burned area by immersing in cool, still water",
+                "Place the burned area under a fast-running warm water tap"
+            ],
+            "correctAnswer": ["Cool the burned area by immersing in cool, still water"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Exposure to infrared light without proper eye protection can cause:",
+            "type": "single_type",
+            "options": [
+                "Sunburn",
+                "Arc flash",
+                "Retina damage",
+                "Temporary blindness"
+            ],
+            "correctAnswer": ["Retina damage"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Temporary blindness is caused by the eyes being exposed to high levels of:",
+            "type": "single_type",
+            "options": [
+                "Red light",
+                "Yellow light",
+                "Green light",
+                "Visible light"
+            ],
+            "correctAnswer": ["Visible light"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "When would you use protective screens if you were performing an arc welding operation?",
+            "type": "single_type",
+            "options": [
+                "In a high wind velocity situation",
+                "If you were near combustibles",
+                "If you were in an explosive atmosphere",
+                "If there were other workers nearby"
+            ],
+            "correctAnswer": ["If there were other workers nearby"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "All the following are symptoms of hypothermia except:",
+            "type": "single_type",
+            "options": [
+                "Dehydration",
+                "Uncontrollable shivering",
+                "Dizziness",
+                "Light-headedness"
+            ],
+            "correctAnswer": ["Dehydration"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Permanent eye damage in the form of cataracts may result from over exposure to which harmful light ray?",
+            "type": "single_type",
+            "options": [
+                "Visible",
+                "Infrared",
+                "Ultraviolet",
+                "Reflected"
+            ],
+            "correctAnswer": ["Infrared"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "When cutting or welding on metals plated with cadmium:",
+            "type": "single_type",
+            "options": [
+                "There are no significant health hazards present",
+                "Appropriate respiratory protective equipment should be used",
+                "General ventilation is adequate",
+                "A dust filter mask should be worn"
+            ],
+            "correctAnswer": ["Appropriate respiratory protective equipment should be used"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "When oxygen reacts with ultraviolet light from welding, the gas produced is:",
+            "type": "single_type",
+            "options": [
+                "Phosphine",
+                "Nitrogen dioxide",
+                "Ozone",
+                "Carbon monoxide"
+            ],
+            "correctAnswer": ["Ozone"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "To determine the effectiveness of a shop's general mechanical ventilation system, all visible smoke and fumes should be cleared within:",
+            "type": "single_type",
+            "options": [
+                "5 seconds",
+                "30 seconds",
+                "5 minutes",
+                "1 hour"
+            ],
+            "correctAnswer": ["30 seconds"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Which type of radiant energy can cause welding flash?",
+            "type": "single_type",
+            "options": [
+                "Visible light",
+                "Infrared light",
+                "Ultraviolet light",
+                "Gamma rays"
+            ],
+            "correctAnswer": ["Ultraviolet light"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Permanent eye damage in the form of cataracts or retina damage may result from over exposure to which harmful light ray?",
+            "type": "single_type",
+            "options": [
+                "Visible",
+                "Infrared",
+                "Ultraviolet",
+                "Reflected"
+            ],
+            "correctAnswer": ["Infrared"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "What type of gloves are recommended for oxyfuel cutting?",
+            "type": "single_type",
+            "options": [
+                "Hard twist cotton",
+                "Silicon-treated nylon",
+                "Dry-tanned leather gauntlet style",
+                "Oil-treated cowhide"
+            ],
+            "correctAnswer": ["Dry-tanned leather gauntlet style"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Which type of material offers the best protection against sparks and molten slag?",
+            "type": "single_type",
+            "options": [
+                "Leather",
+                "Wool",
+                "Nylon",
+                "Cotton"
+            ],
+            "correctAnswer": ["Leather"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Which metal, when heated or welded, can produce metal fume fever if the fumes are inhaled?",
+            "type": "single_type",
+            "options": [
+                "Aluminum",
+                "Zinc",
+                "Chromium",
+                "Cobalt"
+            ],
+            "correctAnswer": ["Zinc"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Fumes are:",
+            "type": "single_type",
+            "options": [
+                "Small, condensed particles of metal that have vaporized",
+                "Substances having free form mixed with air",
+                "Liquids that have been evaporated using heat",
+                "Solid particles dispersed in the atmosphere"
+            ],
+            "correctAnswer": ["Small, condensed particles of metal that have vaporized"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "The first line of defence against welding fumes and gases is:",
+            "type": "single_type",
+            "options": [
+                "A supplied air respirator",
+                "Source extraction equipment",
+                "To complete all welding during the first half of your work shift",
+                "To weld outside"
+            ],
+            "correctAnswer": ["To weld outside"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "OEL's are based on all the following except:",
+            "type": "single_type",
+            "options": [
+                "A normal eight hour working day",
+                "A fifteen-minute short-term exposure",
+                "A ceiling that must never be exceeded",
+                "A worker's tolerance to fume inhalation"
+            ],
+            "correctAnswer": ["A worker's tolerance to fume inhalation"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Welding with wet gloves increases the risk of:",
+            "type": "single_type",
+            "options": [
+                "Drowsiness",
+                "Skin irritation",
+                "Electrical shock",
+                "Suffocation"
+            ],
+            "correctAnswer": ["Electrical shock"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "What device breaks the current flow while still at a low level to protect people from electrical shock?",
+            "type": "single_type",
+            "options": [
+                "Heavy duty circuit breaker (HDCB)",
+                "Ground fault circuit interrupter (GFCI)",
+                "Heavy duty electrode holder (HDEH)",
+                "Transformer rectifier silicon diode (TRSD)"
+            ],
+            "correctAnswer": ["Ground fault circuit interrupter (GFCI)"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "Prior to cutting or welding, cover combustible floors with:",
+            "type": "single_type",
+            "options": [
+                "Metal or wet sand",
+                "Flammable liquid",
+                "Wood or plastic",
+                "Tarps"
+            ],
+            "correctAnswer": ["Metal or wet sand"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "How long after all hot work is completed should the fire watch look for fires?",
+            "type": "single_type",
+            "options": [
+                "10 minutes",
+                "30 minutes",
+                "60 minutes",
+                "4 hours"
+            ],
+            "correctAnswer": ["60 minutes"],
+            "explanation": ""
+        },
+        {
+            "id": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "topicId": "d56d5d48-56e5-4d3d-b6b7-ec1a9d7314e6",
+            "question": "What is the meaning of the acronym OHS?",
+            "type": "single_type",
+            "options": [
+                "Overexposure heat symptoms",
+                "Outlined health specifications",
+                "Occupational health and safety",
+                "Ordinance for hot work safety"
+            ],
+            "correctAnswer": ["Occupational health and safety"],
+            "explanation": ""
+        }
+    ]
+}

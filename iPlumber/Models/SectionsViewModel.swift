@@ -29,13 +29,19 @@ class SectionsViewModel: ObservableObject {
                 "tube_and_tubing_210102f",
                 "valves_210102g_Part_1",
                 "valves_210102g_Part_2",
-                "hangers_supports_and_fasteners_210102h"
+                "hangers_supports_and_fasteners_210102h",
+                "pressure_testing_210102i",
+                "pumps_210102j"
             ],
             "Section 3: Metal Fabrication": [
-                // Add topic JSON filenames here
+                "welding_safety_210103a",
+                "welding_part_a_210103bA",
+                "welding_part_b_210103bB",
+                "welding_part_c_210103bC",
+                "brazing_and_soldering_210103c"
             ],
             "Section 4: Drawings and Specifications": [
-                // Add topic JSON filenames here
+                "test"
             ],
             "Sections 5: Calculations and Science": [
                 // Add topic JSON filenames here
@@ -55,6 +61,9 @@ class SectionsViewModel: ObservableObject {
             self.sections.append(section)
             print("Loaded section: \(section.name) with topics: \(topics.map { $0.name })")
         }
+        
+        sections = sections.sorted(by: { $0.name < $1.name })
+        
         print("Total sections loaded: \(sections.count)")
     }
 

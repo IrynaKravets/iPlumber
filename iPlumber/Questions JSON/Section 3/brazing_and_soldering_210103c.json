@@ -1,0 +1,474 @@
+{
+  "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+  "name": "Brazing and Soldering",
+  "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+  "questions": [
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which term describes an alloy comprised of copper and tin?",
+      "type": "single_type",
+      "options": ["Bronze", "Steel", "Brass", "Solder"],
+      "correctAnswer": ["Bronze"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "This is another term used to describe a base metal.",
+      "type": "single_type",
+      "options": ["Sibling metal", "Low carbon steel", "Parent metal", "Alloy"],
+      "correctAnswer": ["Parent metal"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Silver soldering is classified as any soldering procedure that uses temperatures below 450°C (842°F).",
+      "type": "single_type",
+      "options": ["True", "False"],
+      "correctAnswer": ["False"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which organization developed specifications and classifications for oxyfuel brazing and braze welding filler metals?",
+      "type": "single_type",
+      "options": ["WCB", "NEMA", "AWS", "ASME"],
+      "correctAnswer": ["AWS"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "What is added to silver-copper filler metals to allow the filler to wet out?",
+      "type": "single_type",
+      "options": ["Copper and bronze", "Titanium and tantalum", "Silicon and phosphorus", "Zinc and cadmium"],
+      "correctAnswer": ["Zinc and cadmium"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Select the recommended oxyacetylene flame when using silver-based filler metals.",
+      "type": "single_type",
+      "options": ["Carburizing 1X-1.5X", "Carburizing 2.5X-3X", "Neutral", "Slightly oxidizing"],
+      "correctAnswer": ["Carburizing 2.5X-3X"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which filler metal is used to braze 300 series stainless steel?",
+      "type": "single_type",
+      "options": ["BNi", "BCo", "BAu", "BMg"],
+      "correctAnswer": ["BNi"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "What is the composition of a 30/70 solder?",
+      "type": "single_type",
+      "options": ["30% copper, 70% tin", "30% tin, 70% lead", "30% tin, 70% copper", "30% copper, 70% lead"],
+      "correctAnswer": ["30% tin, 70% lead"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which brazing tip produces a flame with a long, thin, pointed inner cone?",
+      "type": "single_type",
+      "options": ["Carburizing tip", "Straight bore tip", "Refractory tip", "Swedge tip"],
+      "correctAnswer": ["Swedge tip"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "What is the first step in producing a properly brazed joint?",
+      "type": "single_type",
+      "options": ["Apply flux", "Solder", "Good fit-up, proper clearances", "Ream the tube"],
+      "correctAnswer": ["Good fit-up, proper clearances"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "When preparing to solder a joint, what is done after cutting the copper tube to length?",
+      "type": "single_type",
+      "options": ["Ream the tube", "Apply the flux", "Wipe clean", "Apply the solder"],
+      "correctAnswer": ["Ream the tube"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "All the following are advantages of ERS except:",
+      "type": "single_type",
+      "options": [
+        "No open flame",
+        "No burning of insulation or combustible materials near the joint",
+        "Less likelihood of damage to component parts of fittings and/or valves",
+        "Ideal for hard soldering applications"
+      ],
+      "correctAnswer": ["Ideal for hard soldering applications"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "List three (3) factors to be considered when selecting the type of filler rod for a given weld.",
+      "type": "checkbox_type",
+      "options": [
+        "Application (lead or no lead)",
+        "Heat",
+        "Material"
+      ],
+      "correctAnswer": [
+        "Application (lead or no lead)",
+        "Heat",
+        "Material"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "What is the melting point of the following filler metals? BAg1:",
+      "type": "single_type",
+      "options": [
+        "607°C (1125°F)",
+        "800°C (1472°F)",
+        "450°C (842°F)",
+        "632°C (1170°F)",
+        "700°C (1292°F)"
+      ],
+      "correctAnswer": ["607°C (1125°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "What is the melting point of the following filler metals? BAg3P:",
+      "type": "single_type",
+      "options": [
+          "607°C (1125°F)",
+          "800°C (1472°F)",
+          "450°C (842°F)",
+          "632°C (1170°F)",
+          "700°C (1292°F)"
+      ],
+      "correctAnswer": ["632°C (1170°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Brass is an alloy of mainly copper and ________.",
+      "type": "single_type",
+      "options": [
+        "tin",
+        "zinc",
+        "nickel",
+        "manganese"
+      ],
+      "correctAnswer": [
+        "zinc"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Braze welding tends to produce less residual stress and distortion.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": [
+        "True"
+      ],
+      "explanation": "True; little residual stress develops below 425°C (797°F)"
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Silver brazing alloys are suitable for high impact service.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": [
+        "False"
+      ],
+      "explanation": "False; most brazing alloys are soft, and for this reason they are not generally recommended for high impact service"
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "It is advisable to match the filler metal to the parent metal whenever possible.",
+      "type": "single_type",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswer": [
+        "True"
+      ],
+      "explanation": "True; the mechanical and physical properties of the joint should be compatible with the parent metals"
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "List three (3) reasons for using a flux.",
+      "type": "checkbox_type",
+      "options": [
+        "Prevent oxidation",
+        "Remove existing oxides",
+        "Promote wetting of the metals to assist metal flow",
+        "Form a protective slag layer over the weld"
+      ],
+      "correctAnswer": [
+          "Prevent oxidation",
+          "Remove existing oxides",
+          "Promote wetting of the metals to assist metal flow",
+          "Form a protective slag layer over the weld"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Explain why there is no universal flux for oxyfuel welding.",
+      "type": "single_type",
+      "options": [
+      "Fluxes that are suitable for low temperatires will not withstand high heats and fluxes suitable for high temperature work do not become fluid at a low enough temperature for metals with a low melt temperature"],
+      "correctAnswer": ["Fluxes that are suitable for low temperatires will not withstand high heats and fluxes suitable for high temperature work do not become fluid at a low enough temperature for metals with a low melt temperature"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "The flux on a braze welding rod ________.",
+      "type": "single_type",
+      "options": [
+        "Assures oxide formation",
+        "Removes oxides",
+        "Helps prevent slag formation",
+        "Adds strength to the joint"
+      ],
+      "correctAnswer": [
+        "Removes oxides"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Solder designated as 50-50 indicates ________________",
+      "type": "single_type",
+      "options": [
+          "solder with 50% tin and 50% silver",
+          "solder with 50% lead and 50% antimony",
+          "solder with 50% copper and 50% zinc",
+          "solder with 50% tin and 50% lead",
+          "solder with 50% silver and 50% antimony"
+      ],
+      "correctAnswer": ["solder with 50% tin and 50% lead"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Solder designated as 95-5 indicates ________________",
+      "type": "single_type",
+      "options": [
+          "solder with 95% tin and 5% lead",
+          "solder with 95% tin and 5% antimony",
+          "solder with 95% silver and 5% tin",
+          "solder with 95% copper and 5% zinc",
+          "solder with 95% lead and 5% silver"
+      ],
+      "correctAnswer": ["solder with 95% tin and 5% antimony"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "List two (2) other names for mushy range.",
+      "type": "checkbox_type",
+      "options": [
+        "Plastic",
+        "Pasty"
+      ],
+      "correctAnswer": [
+        "Plastic",
+        "Pasty"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of 95-5:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["240°C (464°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of 50-50:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["215°C (419°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of Tin:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["230°C (446°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of Lead:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["327°C (621°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of EnviroBrite:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["335°C (635°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "State the liquidus temperature of Bridgit:",
+      "type": "single_type",
+      "options": [
+          "335°C (635°F)",
+          "230°C (446°F)",
+          "240°C (464°F)",
+          "332°C (630°F)",
+          "327°C (621°F)",
+          "215°C (419°F)"
+      ],
+      "correctAnswer": ["332°C (630°F)"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which brazing rods are expensive to purchase because of their material make up?",
+      "type": "single_type",
+      "options": [
+        "BAu",
+        "BCo",
+        "BCuP",
+        "BALSi"
+      ],
+      "correctAnswer": [
+        "BAu"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Some filler rods come with a __________ coating, which does not require flux.",
+      "type": "single_type",
+      "options": [
+          "phosphorous",
+          "zinc",
+          "lead",
+          "tin",
+          "silver"
+      ],
+      "correctAnswer": ["phosphorous"],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "Which brazing tip produces a flame with a short, thick, bulbous inner cone?",
+      "type": "single_type",
+      "options": [
+        "Carburizing tip",
+        "Straight bore tip",
+        "Refractory tip",
+        "Swedge tip"
+      ],
+      "correctAnswer": [
+        "Straight bore tip"
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "topicId": "d2b441d6-1c53-46d4-a35b-65b2f50238e0",
+      "question": "The cone of a 2X carburizing flame measures 6 mm. How long is the feather?",
+      "type": "single_type",
+      "options": [
+        "2 mm",
+        "3 mm",
+        "6 mm",
+        "12 mm"
+      ],
+      "correctAnswer": [
+        "6 mm"
+      ],
+      "explanation": ""
+    }
+  ]
+}
