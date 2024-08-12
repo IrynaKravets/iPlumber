@@ -251,13 +251,13 @@
       "id": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
       "topicId": "90b9e228-9d15-4aef-bdc5-8c50d0e4d28a",
       "question": "Name the three (3) participants in the Contract of Apprenticeship.",
-      "type": "single_type",
+      "type": "checkbox_type",
       "options": [
         "the apprentice",
         "the employer",
         "Alberta Apprenticeship and Industry Training"
       ],
-      "correctAnswer": ["the apprentice;the employer;Alberta Apprenticeship and Industry Training"],
+      "correctAnswer": ["the apprentice", "the employer", "Alberta Apprenticeship and Industry Training"],
       "explanation": ""
     },
     {

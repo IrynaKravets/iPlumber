@@ -185,6 +185,7 @@
       "options": [
         "Tag",
         "Lock",
+        "Lockout",
         "Label"
       ],
       "correctAnswer": ["Lockout"],
