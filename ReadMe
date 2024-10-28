@@ -1,0 +1,5 @@
+I created an iOS app for my husband to make studying easier, anywhere he goes. He had lots of books with tests at the end, so I decided to digitize the experience by putting all those tests into a single app. The app includes three types of questions: single-choice, multiple-choice, and text responses that need to match what's expected.
+
+Tests are uploaded using JSON, and some questions include images, which I integrated to enhance the experience. I also added a feature to track the latest score, showing correct answers out of total questions, so he can see his progress at a glance.
+
+Additionally, I used ChatGPT as a helpful assistant during development, ensuring a smooth, interactive learning experience.
